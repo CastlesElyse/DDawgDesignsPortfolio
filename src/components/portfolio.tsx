@@ -1,25 +1,11 @@
-import { useEffect, useRef } from "react";
-
 import portfolio from "../assets/content/portfolio.json";
-
-interface Content {
-    title: string,
-    date: string,
-    description: string,
-    slug: string,
-    imgSmall: string,
-    imgLarge: string,
-    externalLink: string,
-    alt: string,
-    mediaType: string,
-}
 
 const PortfolioPage = (props: any) => {
     const width = props.width;
 
     const getSpacers = (len: number) => {
         if (width >= 878) {
-            if (len % 3 == 0) {
+            if (len % 3 === 0) {
                 return (<></>)
             } 
             else if (len % 3 === 2) {
