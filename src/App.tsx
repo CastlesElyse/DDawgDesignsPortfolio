@@ -9,6 +9,7 @@ import ResumePage from './components/resume';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import portfolio from "./assets/content/portfolio.json";
 import ContentPage from './components/contentPage';
+import PageNotFound from './components/404';
 function useWindowSize() {
   // Initialize state with undefined width/height so server and client renders match
   // Learn more here: https://joshwcomeau.com/react/the-perils-of-rehydration/
@@ -68,6 +69,7 @@ function App() {
               <Route path={`/${piece.slug}`} element={<ContentPage data={piece} />} />
             ))
           ))}
+          <Route path="*" element={<PageNotFound />} />
         </Routes>
 
     </BrowserRouter>
