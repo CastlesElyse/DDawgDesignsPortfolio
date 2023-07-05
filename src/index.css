@@ -2,6 +2,7 @@
   font-family: "Hind";
   src: local("HindRegular"), url("./assets/fonts/Hind-Regular.ttf") format("truetype");
   font-weight: normal;
+  font-display: swap;
 }
 
 html {
@@ -10,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Hind;
+  font-family: Hind, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
