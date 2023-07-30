@@ -6,9 +6,12 @@ import AboutPage from './components/about';
 import PortfolioPage from './components/portfolio';
 import ContactPage from './components/contact';
 import ResumePage from './components/resume';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import portfolio from "./assets/content/portfolio.json";
 import ContentPage from './components/contentPage';
+import PageNotFound from './components/404';
+import { HelmetProvider } from 'react-helmet-async';
+
 function useWindowSize() {
   // Initialize state with undefined width/height so server and client renders match
   // Learn more here: https://joshwcomeau.com/react/the-perils-of-rehydration/
@@ -42,8 +45,8 @@ function useWindowSize() {
 function App() {
   const windowSize = useWindowSize();
   return (
-
-    <BrowserRouter>
+    <HelmetProvider>
+      <BrowserRouter>
         <Header />
         <Routes>
           {/* <Route path="/login" element={<Login />} />
@@ -68,9 +71,13 @@ function App() {
               <Route path={`/${piece.slug}`} element={<ContentPage data={piece} />} />
             ))
           ))}
+          <Route path='/404' element={<PageNotFound />} />
+          <Route path="*" element={<Navigate to="/404" />} />
         </Routes>
 
     </BrowserRouter>
+    </HelmetProvider>
+    
   );
 }
 

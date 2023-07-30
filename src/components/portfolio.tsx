@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet-async";
 import portfolio from "../assets/content/portfolio.json";
 
 const PortfolioPage = (props: any) => {
@@ -27,6 +28,11 @@ const PortfolioPage = (props: any) => {
     
     return (
         <div id="portfolio">
+            <Helmet>
+                <title>Dylan Hollender - Portfolio</title>
+                <meta name='description' content='As a graphic designer, photographer, videographer, and multimedia artist, I have a diverse portfolio utilizing media skills to create interesting and captivating visual content. Check out my work here.' />
+                <meta name="keywords" content="portfolio, mediaportfolio, multimediaportfolio, graphicdesignportfolio, photographyportfolio, videoportfolio, motiongraphicsportfolio, media, multimedia, multimediaartist, artist, designer, graphicdesigner, photographer, videographer,  graphicdesign, photography, videography, video, videoediting, motiongraphics, magazine, magazines, magazinedesigner" />
+            </Helmet>
             {portfolio.map((section) => (
                 <section key={section.header}>
                     <h2 className="">{section.header}</h2>

@@ -2,6 +2,7 @@
   font-family: "Hind";
   src: local("HindRegular"), url("./assets/fonts/Hind-Regular.ttf") format("truetype");
   font-weight: normal;
+  font-display: swap;
 }
 
 html {
@@ -10,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Hind;
+  font-family: Hind, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -559,6 +560,7 @@ img[class="icon"] {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
+  position: absolute;
 }
 
 #home-img {
@@ -637,6 +639,7 @@ img[class="icon"] {
   #home {
     flex-direction: row;
     align-items: flex-end;
+    bottom: 0;
   }
 
   #home-img {
@@ -710,4 +713,39 @@ img[class="icon"] {
 
 #magazine-text p {
   font-size: 1.3em;
+}
+
+
+
+#wrapper-404 {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: calc(100% - 50px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#page-404-title {
+  font-size: 100px;
+  color: #F7635E;
+  line-height: 100px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+#page-404-subtitle {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+#wrapper-404 a {
+  background-color: #F7635E;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 8px 0 rgba(0, 0, 0, 0.19);
 }
