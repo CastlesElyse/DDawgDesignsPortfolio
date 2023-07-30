@@ -10,6 +10,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import portfolio from "./assets/content/portfolio.json";
 import ContentPage from './components/contentPage';
 import PageNotFound from './components/404';
+import { HelmetProvider } from 'react-helmet-async';
 
 function useWindowSize() {
   // Initialize state with undefined width/height so server and client renders match
@@ -44,8 +45,8 @@ function useWindowSize() {
 function App() {
   const windowSize = useWindowSize();
   return (
-
-    <BrowserRouter>
+    <HelmetProvider>
+      <BrowserRouter>
         <Header />
         <Routes>
           {/* <Route path="/login" element={<Login />} />
@@ -75,6 +76,8 @@ function App() {
         </Routes>
 
     </BrowserRouter>
+    </HelmetProvider>
+    
   );
 }
 
