@@ -1,9 +1,11 @@
 import about from "../assets/content/about.json";
+import SEO from "./seo";
 
 const AboutPage = (params: any) => {
     const width = params.width;
     return (
         <div id="about">
+            <SEO page="ABOUT" />
             {about.map((section, index) => (
                 <section className="about-section" key={section.sectionTitle}>
                     <div className="about-context">
