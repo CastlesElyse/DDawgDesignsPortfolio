@@ -1,6 +1,10 @@
+import SEO from "./seo";
+
 const HomePage = () => {
+
     return (
         <div id="home">
+            <SEO page="HOME" />
             <div id="home-img">
                 <img src={require(`../assets/images/page/Hero-Shot.png`)} alt="Hero Shot" />
             </div>
