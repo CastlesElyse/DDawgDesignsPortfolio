@@ -1,37 +1,37 @@
 [
     {
         "page": "HOME",
-        "title": "test title",
-        "description": "test description",
-        "keywords": "test, keywords"
+        "title": "Home - Dylan “Hollender",
+        "description": "My name is Dylan Hollender, but my friends call me “DDawg”. I am a multimedia designer who specializes in magazine design, video production, social media management, and so much more, with several years experience in the world of communications, public relations, and advertising. ",
+        "keywords": "dylan hollender, dylan hollender portfolio, media, multimedia, multimedia artist, artist, designer, graphic designer, photographer, videographer,  graphic design, photography, videography, video, video editing, motion graphics, magazine, magazines, magazine designer"
     },
     {
         "page": "ABOUT",
-        "title": "test title 2",
-        "description": "test description 2",
-        "keywords": "test, keywords, 2"
+        "title": "About Me - Dylan Hollender",
+        "description": "Throughout my life I have always had a passion for the visual arts, ranging from early childhood drawing and home movies, to being Editor-in-Chief of my high school yearbook, to my first paid gigs, and to being a full time multimedia artist. Let’s get to know each other! ",
+        "keywords": "dylan hollender, dylan hollender portfolio, personal website, about me, media, multimedia, multimedia artist, artist, designer, graphic designer, photographer, videographer,  graphic design, photography, videography, video, video editing, motion graphics, magazine, magazines, magazine designer"
     },
     {
         "page": "CONTACT",
-        "title": " test title 3",
-        "description": "test description 3",
-        "keywords": "test, keywords, 3"
+        "title": " Contact Me - Dylan Hollender",
+        "description": "Interested in connecting to discuss a multimedia project? Want to know more about my work or talk one on one? Contact me via email or LinkedIn!",
+        "keywords": "contact, contact me, get in touch, reach out, email, linkedin, linkedin connection, linkedin contact, instagram, instagram contact, graphic designer, multimedia artist, artist, designer, graphic designer, photographer, videographer"
     },
     {
         "page": "RESUME",
-        "title": " test title 4",
-        "description": "test description 4",
-        "keywords": "test, keywords, 4"
+        "title": "Resume - Dylan Hollender",
+        "description": "I am a professional multimedia artist and communications specialist with several years of experience in the field. Read more about my previous and current work experiences, projects, and more! ",
+        "keywords": "resume, designer resume, artist resume, communications resume, marketing resume, graphic designer, multimedia artist, artist, designer, graphic designer, photographer, videographer"
     },
     {
         "page": "PORTFOLIO",
-        "title": " test title 5",
-        "description": "test description 5",
-        "keywords": "test, keywords, 5"
+        "title": "Portfolio - Dylan Hollender",
+        "description": "As a graphic designer, photographer, videographer, and multimedia artist, I have a diverse portfolio utilizing media skills to create interesting and captivating visual content. Check out my work here.",
+        "keywords": "portfolio, media portfolio, multimedia portfolio, graphic design portfolio, photography portfolio, video portfolio, motion graphics portfolio, media, multimedia, multimedia artist, artist, designer, graphic designer, photographer, videographer,  graphic design, photography, videography, video, video editing, motion graphics, magazine, magazines, magazine designer"
     },
     {
         "page": "404",
-        "title": " test title 6",
+        "title": "404 - Dylan Hollender",
         "description": "test description 6",
         "keywords": "test, keywords, 6"
     }
