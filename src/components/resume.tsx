@@ -1,9 +1,11 @@
 import resume from "../assets/content/resume.json";
+import SEO from "./seo";
 
 const ResumePage = () => {
 
     return (
         <div id="resume-background">
+            <SEO page="RESUME" />
             <h1>Resume</h1>
             <div id="resume-context">
                 <div id="resume-left">

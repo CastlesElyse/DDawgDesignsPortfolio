@@ -1,8 +1,11 @@
 import contact from "../assets/content/contact.json";
+import SEO from "./seo";
 
 const ContactPage = () => {
+
     return (
         <div id="contact">
+            <SEO page="CONTACT" />
             <h2>Let’s Get in Touch!</h2>
             <div id="contact-context">
                 <div id="contact-img" >
