@@ -18,6 +18,34 @@
             },
             {
                 "title": "TODAY Magazine",
+                "date": "Fall 2023",
+                "description": "The Fall 2023 edition of TODAY Magazine was a more in depth experience for me as a designer, as I took a more hands on approach with some of the articles and the content for the layouts. For example, I got to coordinate and photograph people that were featured in articles, and stage my vision in such a way that it became a reality on the printed pages.",
+                "slug": "TODAY-Fall-2023",
+                "imgSmall": "magazine/TODAY-Fall-2023.png",
+                "imgLarge": "magazine/TODAY-Fall-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes Fall 2023 TODAY Magazine cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production, Magazine Photography",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "TODAY Magazine",
+                "date": "Summer 2023",
+                "description": "The Summer 2023 edition of TODAY Magazine contains content from the second half of the academic year. Since the previous edition of the magazine, I spent a lot of time reading other academic magazines to gain inspiration for the creation of new styles of layouts for this run. I tried new editing techniques to create a visually appealing magazine that I could be proud of.",
+                "slug": "TODAY-Summer-2023",
+                "imgSmall": "magazine/TODAY-Summer-2023.png",
+                "imgLarge": "magazine/TODAY-Summer-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes Summer 2023 TODAY Magazine cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "TODAY Magazine",
                 "date": "Fall 2022",
                 "description": "The Fall 2022 Edition of the TODAY Magazine was my second run through of the publication, and I had picked up many tricks of the trade since my first edition in the Summer of 2022. As our “Back to School Edition”, it features several articles that update students, alumni, and friends about what Saint Joseph High School had planned for the new year.",
                 "slug": "TODAY-fall-2022",
@@ -27,6 +55,34 @@
                 "alt": "St. Joes Fall 2022 TODAY Magazine cover",
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "TODAY Magazine",
+                "date": "Summer 2022",
+                "description": "The Summer 2022 Edition of the TODAY Magazine will always hold a special place in my designer’s heart, as it was the first full length magazine I got to design for! In college I had primarily thought of myself as a video editor, but when I joined Saint Joseph High School’s Communications and Marketing team, I was given the opportunity to design all their magazine publications and I fell in love with print media. This first edition presented me with many challenges to overcome, especially having only worked briefly with magazines when I took an elective at RIT dedicated to them. Looking back there are many things I would do differently, but I learned more from this project than potentially anything else I have worked on.",
+                "slug": "TODAY-spring-2022",
+                "imgSmall": "magazine/TODAY-spring-2022.png",
+                "imgLarge": "magazine/TODAY-spring-2022.png",
+                "externalLink": "",
+                "alt": "St. Joes Summer 2022 TODAY Magazine cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Admissions Viewbook",
+                "date": "2023",
+                "description": "The 2023 Admissions Viewbook was a project where I was tasked with perfecting the previous year’s publication. I had to go through each spread, determining if it should be updated or completely revamped. Additionally, new admissions processes and programs had to be implemented, resulting in new original spreads. It is used as a sales piece to gather interest in prospective families and present the “Saint Joe’s Experience” to them.",
+                "slug": "Viewbook-2023",
+                "imgSmall": "magazine/Viewbook-2023.png",
+                "imgLarge": "magazine/Viewbook-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 Admissions Viewbook cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
                 "software": "Adobe InDesign"
                 
             },
@@ -45,18 +101,17 @@
                 
             },
             {
-                "title": "TODAY Magazine",
-                "date": "Summer 2022",
-                "description": "The Summer 2022 Edition of the TODAY Magazine will always hold a special place in my designer’s heart, as it was the first full length magazine I got to design for! In college I had primarily thought of myself as a video editor, but when I joined Saint Joseph High School’s Communications and Marketing team, I was given the opportunity to design all their magazine publications and I fell in love with print media. This first edition presented me with many challenges to overcome, especially having only worked briefly with magazines when I took an elective at RIT dedicated to them. Looking back there are many things I would do differently, but I learned more from this project than potentially anything else I have worked on.",
-                "slug": "TODAY-spring-2022",
-                "imgSmall": "magazine/TODAY-spring-2022.png",
-                "imgLarge": "magazine/TODAY-spring-2022.png",
+                "title": "Gala Ad Journal",
+                "date": "Fall 2023",
+                "description": "The Green Tie Gala 2023 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. I was responsible for coordinating with donors to see what they wanted in their printed ad. For most ads, I used provided logos to create congratulatory messages from the donor to the honorees of the gala. There were also several pages of original content. I managed this project and saw it through from inception to completion. ",
+                "slug": "green-tie-gala-ad-journal-2023",
+                "imgSmall": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
+                "imgLarge": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
                 "externalLink": "",
-                "alt": "St. Joes Summer 2022 TODAY Magazine cover",
+                "alt": "St. Joes 2023 Gala Ad Journal Cover",
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
+                "software": "Canva, Adobe InDesign"
             },
             {
                 "title": "Gala Ad Journal",
