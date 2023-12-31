@@ -145,7 +145,77 @@
                 "skills": "Graphic Design, Typography Design",
                 "software": "Canva"
                 
-            }
+            },
+            {
+                "title": "Lent Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. I often create seasonal and holiday-based signs for the school, and this one was used to celebrate the beginning of Lent. I created the ash cross in Adobe Illustrator. ",
+                "slug": "st-joes-sign-lent",
+                "imgSmall": "signs/lent-sign-small.png",
+                "imgLarge": "signs/lent-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 lent sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Adobe Illustrator, Adobe Photoshop"
+                
+            },
+            {
+                "title": "NBA Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. It was used to congratulate Karl Anthony Towns, a graduate from Saint Joe’s who has a career in the NBA and notably earned the title of All Star.  ",
+                "slug": "st-joes-sign-NBA",
+                "imgSmall": "signs/kat-sign-small.png",
+                "imgLarge": "signs/kat-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 NBA sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Photo Manipulation",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Advent Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. It was used to commemorate the life of Brother Ronald Cairns, S.C., a longtime Partner in Mission who had recently passed away. The annual Advent Community Mass was held in recognition of his life, and the graphic was used to promote the mass.",
+                "slug": "st-joes-sign-advent",
+                "imgSmall": "signs/advent-sign-small.png",
+                "imgLarge": "signs/advent-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 Advent sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Wrestling Display Sign",
+                "date": "2023",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. It was used to celebrate the accomplishments of our wrestling team for winning a county championship. ",
+                "slug": "st-joes-sign-wrestling",
+                "imgSmall": "signs/wrestling-sign-small.png",
+                "imgLarge": "signs/wrestling-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 Wrestling sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Football Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. As a high school, we often celebrate our students’ accomplishments with recognition on the display sign. This was one entry in a series of promoting our senior athletes who signed on to play at the collegiate level.  ",
+                "slug": "st-joes-sign-football",
+                "imgSmall": "signs/football-sign-small.png",
+                "imgLarge": "signs/football-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 Football sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Photo Manipulation",
+                "software": "Adobe Photoshop"
+                
+            },
         ]
     }
 ]
