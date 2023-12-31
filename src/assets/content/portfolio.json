@@ -128,5 +128,24 @@
                 
             }
         ]
+    },
+    {
+        "header": "Display Graphics",
+        "content": [
+            {
+                "title": "Gala Jumbotron",
+                "date": "2022",
+                "description": "This graphic was put on the jumbotron screen across from the Heldrich Hotel in New Brunswick, NJ during Saint Joseph High School’s Green Tie Gala fundraiser. It was used to congratulate Kevin M. Ryan, CEO of Covenant House International, who was the 2022 honoree at the gala. ",
+                "slug": "st-joes-sign-gala",
+                "imgSmall": "signs/gala-sign-small.png",
+                "imgLarge": "signs/gala-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 gala sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Canva"
+                
+            }
+        ]
     }
 ]
