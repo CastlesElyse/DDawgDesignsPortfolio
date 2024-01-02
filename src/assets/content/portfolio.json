@@ -130,6 +130,95 @@
         ]
     },
     {
+        "header": "Social Media",
+        "content": [
+            {
+                "title": "Wrestling Post",
+                "date": "2022",
+                "description": "When the Saint Joseph High School wrestling team was heading to the Beast of the East tournament, I created this graphic to hype up the event to our student fanbase. This graphic was very fun to make because of how many different styles and effects went into the photo manipulation. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-wrestling",
+                "imgSmall": "social/wrestling-social-small.png",
+                "imgLarge": "social/wrestling-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 social wrestling",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Photo Manipulation, Social Media Management",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Falcon Spotlight",
+                "date": "2023",
+                "description": "This graphic was the first in a social media series that highlights accomplished students at Saint Joseph High School. It featured Class of 2023 member Mark Gialluisi as one of our star athletes on the baseball team. One of my Advanced Journalism students wrote a feature article on him that went onto our school website (www.stjoes.org), and this graphic was used for social media to promote the article. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter.  ",
+                "slug": "st-joes-social-baseball",
+                "imgSmall": "social/baseball-feature-social-small.png",
+                "imgLarge": "social/baseball-feature-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 social baseball",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Prom Post",
+                "date": "2023",
+                "description": "This graphic was created to promote the 2023 senior prom at Saint Joseph High School. This graphic stands out to me because I got to experiment with vector graphics, color, and depth. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-baseball",
+                "imgSmall": "social/prom-social-small.png",
+                "imgLarge": "social/prom-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 social prom",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Giving Tuesday Post",
+                "date": "2023",
+                "description": "This graphic was created to promote the 2023 Giving Tuesday campaign in support of a new weight room, The Barn. It was a part of a series that featured the voices of the students on what a new facility would mean to them. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-giving-tuesday",
+                "imgSmall": "social/giving-tuesday-social-small.png",
+                "imgLarge": "social/giving-tuesday-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 social giving tuesday",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Facebook Ad",
+                "date": "2022",
+                "description": "This graphic was created as a Facebook ad to get prospective families interested in Saint Joseph High School’s Early Action program. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-ad",
+                "imgSmall": "social/facebook-ad-social-small.png",
+                "imgLarge": "social/facebook-ad-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 social ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Luminary Ad",
+                "date": "2022",
+                "description": "This graphic was used to promote our luminary sale for the Saint Joseph High School 2022 advent mass. It linked back to an online form where families could have a loved one’s name placed on one of the surrounding luminaries. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-luminaries",
+                "imgSmall": "social/luminaries-social-small.png",
+                "imgLarge": "social/luminaries-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 social luminary ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            }
+        ]
+    },
+    {
         "header": "Display Graphics",
         "content": [
             {
