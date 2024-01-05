@@ -219,6 +219,95 @@
         ]
     },
     {
+        "header": "Photography/Photo Manipulation",
+        "content": [
+            {
+                "title": "Celebratory Selfie",
+                "date": "2022",
+                "description": "This photo was taken at the 2022 Commencement and Graduation for the seniors at Saint Joseph High School, showcasing a group of graduates celebration with a pre-ceremony selfie. It was used as the inside cover of the Summer 2022 edition of TODAY Magazine.  ",
+                "slug": "st-joes-photos-graduation",
+                "imgSmall": "photography/photos-graduation-small.png",
+                "imgLarge": "photography/photos-graduation-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo graduation",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
+                "software": "Adobe Lightroom"
+                
+            },
+            {
+                "title": "Sports Media Day",
+                "date": "2023",
+                "description": "For every athletic season at Saint Joseph High School, my office coordinates a sports media day for varsity players. These photos are used across a wide variety of outlets, including social media, our school website, and publications. I acted as the primary photographer and editor capturing each sport, including this shot from a basketball team member. ",
+                "slug": "st-joes-photos-basketball",
+                "imgSmall": "photography/photos-basketball-small.png",
+                "imgLarge": "photography/photos-basketball-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 photo basketball",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
+                "software": "Adobe Lightroom"
+                
+            },
+            {
+                "title": "Cabaret Performance",
+                "date": "2022",
+                "description": "This photo was taken at the first ever Saint Joe’s Cabaret put on by the Saint Joseph Theatre Company. I photographed the whole event for yearbook and social media purposes, including a shot from a student solo performance.  ",
+                "slug": "st-joes-photos-cabaret",
+                "imgSmall": "photography/photos-cabaret-small.png",
+                "imgLarge": "photography/photos-cabaret-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo cabaret",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Pondering Portrait",
+                "date": "2019",
+                "description": "This photo was taken of a classmate in my Imaging class at RIT. We were learning about the equipment and processing required for portrait photography as part of a class project. ",
+                "slug": "rit-portrait",
+                "imgSmall": "photography/photos-portrait-small.png",
+                "imgLarge": "photography/photos-portrait-large.png",
+                "externalLink": "",
+                "alt": "rit portrait",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Studio Photography",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "SJ Universe",
+                "date": "2022",
+                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
+                "slug": "st-joes-photos-sjuniverse",
+                "imgSmall": "photography/photos-sjuniverse-small.png",
+                "imgLarge": "photography/photos-sjuniverse-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo sjuniverse",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Christmas Card",
+                "date": "2023",
+                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
+                "slug": "st-joes-photos-card",
+                "imgSmall": "photography/photos-christmas-small.png",
+                "imgLarge": "photography/photos-christmas-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 photo christmas card",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            }
+        ]
+    },
+    {
         "header": "Display Graphics",
         "content": [
             {
