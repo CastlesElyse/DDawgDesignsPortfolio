@@ -308,6 +308,53 @@
         ]
     },
     {
+        "header": "Vector Design",
+        "content": [
+            {
+                "title": "Bar Logo",
+                "date": "2023",
+                "description": "DDawg’s Sunnyside Tavern is a personal project I took on when I started renovating my basement, turning it into a bar/hangout space for myself and friends that came over. I created the logo to be printed on miscellaneous trinkets, including coasters and napkins. What bar is complete without a cool logo and custom items?  ",
+                "slug": "freelance-vector-bar",
+                "imgSmall": "vector/tavern-small.png",
+                "imgLarge": "vector/tavern-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector bar",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robotics Logo",
+                "date": "2023",
+                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
+                "slug": "freelance-vector-robotics",
+                "imgSmall": "vector/robotics-small.png",
+                "imgLarge": "vector/robotics-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector robotics",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Diable Days Logo",
+                "date": "2023",
+                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
+                "slug": "freelance-vector-diable",
+                "imgSmall": "vector/diable-small.png",
+                "imgLarge": "vector/diable-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector diable days",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            }
+        ]
+    },
+    {
         "header": "Display Graphics",
         "content": [
             {
