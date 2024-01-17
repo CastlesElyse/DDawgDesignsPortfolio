@@ -355,6 +355,53 @@
         ]
     },
     {
+        "header": "Print Projects",
+        "content": [
+            {
+                "title": "Campus Store Ad",
+                "date": "2023",
+                "description": "This ad for the Saint Joseph High School Campus Store was originally created as a page in the Fall 2023 edition of the TODAY Magazine, but has been reused and sometimes reformatted to fit a variety of outputs. Additionally, I took the photos of the store and the beverage accessories. It was very fun to create a design that promoted a wide variety of products sold at the store! ",
+                "slug": "st-joes-print-store",
+                "imgSmall": "print/print-campus-store-small.png",
+                "imgLarge": "print/print-campus-store-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print campus store ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Magazine Editing, Magazine Layouts, DSLR Operation (Canon Rebel SL3), Photo Processing, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Golf Classic Flyer",
+                "date": "2023",
+                "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
+                "slug": "st-joes-print-golf-flyer",
+                "imgSmall": "print/print-golf-flyer-small.png",
+                "imgLarge": "print/print-golf-flyer-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print golf flyer",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Christmas Card",
+                "date": "2022",
+                "description": "I created this christmas card for the 2022 holiday season at Saint Joseph High School. I captured the photo of the stained glass window from our campus chapel, and created the wreath graphic using assets from Canva and Adobe Photoshop. Then, the card was created using Adobe InDesign. It was sent out to our constituents after being printed.  ",
+                "slug": "st-joes-print-christmas-card",
+                "imgSmall": "print/print-christmas-small.png",
+                "imgLarge": "print/print-christmas-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 print christmas card",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing, Photography, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Photoshop, Canva"
+                
+            }
+        ]
+    },
+    {
         "header": "Display Graphics",
         "content": [
             {
