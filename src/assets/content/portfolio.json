@@ -372,6 +372,34 @@
                 
             },
             {
+                "title": "Socks Campaign Postcard",
+                "date": "2023",
+                "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
+                "slug": "st-joes-print-socks",
+                "imgSmall": "print/print-socks-small.png",
+                "imgLarge": "print/print-socks-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print socks campaign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Golf Classic Postcard",
+                "date": "2024",
+                "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
+                "slug": "st-joes-print-golf-card",
+                "imgSmall": "print/print-golf-std-small.png",
+                "imgLarge": "print/print-golf-std-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print golf postcard",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
                 "title": "Golf Classic Flyer",
                 "date": "2023",
                 "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
@@ -380,6 +408,20 @@
                 "imgLarge": "print/print-golf-flyer-large.png",
                 "externalLink": "",
                 "alt": "St. Joes 2023 print golf flyer",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Gala Magnet Mailer",
+                "date": "2024",
+                "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
+                "slug": "st-joes-print-gala-magnet",
+                "imgSmall": "print/print-gala-small.png",
+                "imgLarge": "print/print-gala-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print gala magnet",
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Typography Design, Print Production",
                 "software": "Adobe InDesign"
