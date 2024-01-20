@@ -1,22 +1,41 @@
+import YouTube from "react-youtube";
+
 const ContentPage = (props: any) => {
     const data = props.data;
 
     const mediaType = data.mediaType; 
 
+    const videoOptions =  data.embed ? {
+        height: data.embed.height, 
+        width: data.embed.width
+    } : {}
+
+    const onReady = (e: any) => {
+        // access to player in all event handlers via event.target
+        e.target?.pauseVideo();
+    }
+
     return (
         <div id="content-page">
-            {data.mediaType === "magazine" && 
             <div id="magazine-context">
 
                 {
                     mediaType === "video" &&
-                    <div>
-                        <div dangerouslySetInnerHTML={{__html: data.embed}} />
+                    <div id="video-embed">
+                        <YouTube
+                            videoId={data.embed.id}
+                            opts={videoOptions}
+                            onReady={onReady}
+                            className="youtube-embed"
+                        />
                     </div>
                 }
-                <div id="magazine-img">
-                    <img src={require(`../assets/images/${data.imgLarge}`)} alt={data.alt} />
-                </div>
+                {
+                    mediaType !== "video" &&
+                    <div id="magazine-img">
+                        <img src={require(`../assets/images/${data.imgLarge}`)} alt={data.alt} />
+                    </div>
+                }
                 <div id="magazine-content">
                     <div id="magazine-text">
                         <h2>{data.title} - {data.date}</h2>
@@ -30,7 +49,7 @@ const ContentPage = (props: any) => {
                     
                 </div>
             </div>
-            }
+            
         </div>
     )
 }
