@@ -219,6 +219,53 @@
         ]
     },
     {
+        "header": "Video Production",
+        "content": [
+            {
+                "title": "Diable Days Trailer",
+                "date": "2021",
+                "description": "This piece is by far my favorite video I have created due to the fun nature of the topic and the amount of skills I learned from it. For my Magazine Publishing class at RIT, I was tasked with creating a VR magazine experience. I created an article that played this fake movie trailer in VR. I did all of the VFX by hand in Adobe After Effects, trying to replicate a sci-fi/comic book feel. It stars my friends and I, and was one of the last creative projects we worked on together while still in college.  ",
+                "slug": "video-diable-days-trailer",
+                "imgSmall": "video/video-diable-days-small.png",
+                "imgLarge": "video/video-diable-days-large.png",
+                "externalLink": "",
+                "alt": "video 2021 diable days trailer",
+                "mediaType": "magazine",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading, Asset Management, VFX",
+                "software": "Adobe Premiere Pro, Adobe After Effects"
+                
+            },
+            {
+                "title": "RIT Testimonial",
+                "date": "2021",
+                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
+                "slug": "video-rit-testimonial",
+                "imgSmall": "video/video-testimonial-small.png",
+                "imgLarge": "video/video-testimonial-large.png",
+                "externalLink": "",
+                "alt": "video 2021 rit testimonial",
+                "mediaType": "magazine",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            },
+            {
+                "title": "Giving Day Video",
+                "date": "2023",
+                "description": "Saint Joseph High School holds their Giving Day every March to raise money for all aspects of the school’s needs. For 2023, I worked with my Advanced Journalism class to create this video for promotion. I oversaw production of ideas, script writing, filming, and then edited the video using Premiere Pro.  ",
+                "slug": "st-joes-video-giving-day",
+                "imgSmall": "video/video-giving-day-small.png",
+                "imgLarge": "video/video-giving-day-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 video giving day",
+                "mediaType": "magazine",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            }
+        ]
+    },
+    {
         "header": "Photography/Photo Manipulation",
         "content": [
             {
