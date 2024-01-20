@@ -18,6 +18,34 @@
             },
             {
                 "title": "TODAY Magazine",
+                "date": "Fall 2023",
+                "description": "The Fall 2023 edition of TODAY Magazine was a more in depth experience for me as a designer, as I took a more hands on approach with some of the articles and the content for the layouts. For example, I got to coordinate and photograph people that were featured in articles, and stage my vision in such a way that it became a reality on the printed pages.",
+                "slug": "TODAY-Fall-2023",
+                "imgSmall": "magazine/TODAY-Fall-2023.png",
+                "imgLarge": "magazine/TODAY-Fall-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes Fall 2023 TODAY Magazine cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production, Magazine Photography",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "TODAY Magazine",
+                "date": "Summer 2023",
+                "description": "The Summer 2023 edition of TODAY Magazine contains content from the second half of the academic year. Since the previous edition of the magazine, I spent a lot of time reading other academic magazines to gain inspiration for the creation of new styles of layouts for this run. I tried new editing techniques to create a visually appealing magazine that I could be proud of.",
+                "slug": "TODAY-Summer-2023",
+                "imgSmall": "magazine/TODAY-Summer-2023.png",
+                "imgLarge": "magazine/TODAY-Summer-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes Summer 2023 TODAY Magazine cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "TODAY Magazine",
                 "date": "Fall 2022",
                 "description": "The Fall 2022 Edition of the TODAY Magazine was my second run through of the publication, and I had picked up many tricks of the trade since my first edition in the Summer of 2022. As our “Back to School Edition”, it features several articles that update students, alumni, and friends about what Saint Joseph High School had planned for the new year.",
                 "slug": "TODAY-fall-2022",
@@ -27,20 +55,6 @@
                 "alt": "St. Joes Fall 2022 TODAY Magazine cover",
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Admissions Viewbook",
-                "date": "2022",
-                "description": "The 2022 Admissions Viewbook, being my second magazine produced during my career, proposed new challenges and concepts to consider. The Viewbook serves the purpose of being the main printed source of information for prospective families. It walks families through the ins and outs of what makes Saint Joseph High School a unique experience and the offerings that are in store. Compared to the TODAY Magazine and Annual Reports, it is more of a sales piece than a traditional article based magazine. I had to take this all into consideration when deciding on which spreads to update from previous years and which ones to recreate entirely. ",
-                "slug": "Viewbook-2022",
-                "imgSmall": "magazine/Viewbook-2022.png",
-                "imgLarge": "magazine/Viewbook-2022.png",
-                "externalLink": "",
-                "alt": "St. Joes 2022 Admissions Viewbook cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
                 "software": "Adobe InDesign"
                 
             },
@@ -59,6 +73,47 @@
                 
             },
             {
+                "title": "Admissions Viewbook",
+                "date": "2023",
+                "description": "The 2023 Admissions Viewbook was a project where I was tasked with perfecting the previous year’s publication. I had to go through each spread, determining if it should be updated or completely revamped. Additionally, new admissions processes and programs had to be implemented, resulting in new original spreads. It is used as a sales piece to gather interest in prospective families and present the “Saint Joe’s Experience” to them.",
+                "slug": "Viewbook-2023",
+                "imgSmall": "magazine/Viewbook-2023.png",
+                "imgLarge": "magazine/Viewbook-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 Admissions Viewbook cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Admissions Viewbook",
+                "date": "2022",
+                "description": "The 2022 Admissions Viewbook, being my second magazine produced during my career, proposed new challenges and concepts to consider. The Viewbook serves the purpose of being the main printed source of information for prospective families. It walks families through the ins and outs of what makes Saint Joseph High School a unique experience and the offerings that are in store. Compared to the TODAY Magazine and Annual Reports, it is more of a sales piece than a traditional article based magazine. I had to take this all into consideration when deciding on which spreads to update from previous years and which ones to recreate entirely. ",
+                "slug": "Viewbook-2022",
+                "imgSmall": "magazine/Viewbook-2022.png",
+                "imgLarge": "magazine/Viewbook-2022.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 Admissions Viewbook cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Gala Ad Journal",
+                "date": "Fall 2023",
+                "description": "The Green Tie Gala 2023 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. I was responsible for coordinating with donors to see what they wanted in their printed ad. For most ads, I used provided logos to create congratulatory messages from the donor to the honorees of the gala. There were also several pages of original content. I managed this project and saw it through from inception to completion. ",
+                "slug": "green-tie-gala-ad-journal-2023",
+                "imgSmall": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
+                "imgLarge": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 Gala Ad Journal Cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
+                "software": "Canva, Adobe InDesign"
+            },
+            {
                 "title": "Gala Ad Journal",
                 "date": "Fall 2022",
                 "description": "The Green Tie Gala 2022 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. This project took a lot more “project management”, as I was responsible for connecting with donors who purchased an ad, communicating with them what they were looking for, designing the ad, getting approval, and figuring out a pagination with my supervisor.",
@@ -70,6 +125,459 @@
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
                 "software": "Canva, Adobe InDesign"
+                
+            }
+        ]
+    },
+    {
+        "header": "Social Media",
+        "content": [
+            {
+                "title": "Wrestling Post",
+                "date": "2022",
+                "description": "When the Saint Joseph High School wrestling team was heading to the Beast of the East tournament, I created this graphic to hype up the event to our student fanbase. This graphic was very fun to make because of how many different styles and effects went into the photo manipulation. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-wrestling",
+                "imgSmall": "social/wrestling-social-small.png",
+                "imgLarge": "social/wrestling-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 social wrestling",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Photo Manipulation, Social Media Management",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Falcon Spotlight",
+                "date": "2023",
+                "description": "This graphic was the first in a social media series that highlights accomplished students at Saint Joseph High School. It featured Class of 2023 member Mark Gialluisi as one of our star athletes on the baseball team. One of my Advanced Journalism students wrote a feature article on him that went onto our school website (www.stjoes.org), and this graphic was used for social media to promote the article. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter.  ",
+                "slug": "st-joes-social-baseball",
+                "imgSmall": "social/baseball-feature-social-small.png",
+                "imgLarge": "social/baseball-feature-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 social baseball",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "GMC Red Titles",
+                "date": "2024",
+                "description": "When three of Saint Joseph High School’s winter sports teams won the GMC Red title in one night, I created a social media graphic to promote the victories. The photos were taken and edited when I ran our sports media day. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter.  ",
+                "slug": "st-joes-social-gmc-red",
+                "imgSmall": "social/gmc-red-social-small.png",
+                "imgLarge": "social/gmc-red-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 social gmc red",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management, DSLR Operation (Canon Rebel SL3), Photo Processing, Studio Photography, Photo Manipulation ",
+                "software": "Canva, Adobe Lightroom"
+                
+            },
+            {
+                "title": "Prom Post",
+                "date": "2023",
+                "description": "This graphic was created to promote the 2023 senior prom at Saint Joseph High School. This graphic stands out to me because I got to experiment with vector graphics, color, and depth. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-prom",
+                "imgSmall": "social/prom-social-small.png",
+                "imgLarge": "social/prom-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 social prom",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Giving Tuesday Post",
+                "date": "2023",
+                "description": "This graphic was created to promote the 2023 Giving Tuesday campaign in support of a new weight room, The Barn. It was a part of a series that featured the voices of the students on what a new facility would mean to them. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-giving-tuesday",
+                "imgSmall": "social/giving-tuesday-social-small.png",
+                "imgLarge": "social/giving-tuesday-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 social giving tuesday",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Facebook Ad",
+                "date": "2022",
+                "description": "This graphic was created as a Facebook ad to get prospective families interested in Saint Joseph High School’s Early Action program. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "st-joes-social-ad",
+                "imgSmall": "social/facebook-ad-social-small.png",
+                "imgLarge": "social/facebook-ad-social-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 social ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management",
+                "software": "Canva"
+                
+            }
+        ]
+    },
+    {
+        "header": "Video Production",
+        "content": [
+            {
+                "title": "Diable Days Trailer",
+                "date": "2021",
+                "description": "This piece is by far my favorite video I have created due to the fun nature of the topic and the amount of skills I learned from it. For my Magazine Publishing class at RIT, I was tasked with creating a VR magazine experience. I created an article that played this fake movie trailer in VR. I did all of the VFX by hand in Adobe After Effects, trying to replicate a sci-fi/comic book feel. It stars my friends and I, and was one of the last creative projects we worked on together while still in college.  ",
+                "slug": "video-diable-days-trailer",
+                "imgSmall": "video/video-diable-days-small.png",
+                "imgLarge": "video/video-diable-days-large.png",
+                "externalLink": "",
+                "embed": "<iframe width="560" height="315" src="https://www.youtube.com/embed/NTJJ5kAFsMY?si=-mQQbq3nA7cDUKb3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
+                "alt": "video 2021 diable days trailer",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading, Asset Management, VFX",
+                "software": "Adobe Premiere Pro, Adobe After Effects"
+                
+            },
+            {
+                "title": "RIT Testimonial",
+                "date": "2021",
+                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
+                "slug": "video-rit-testimonial",
+                "imgSmall": "video/video-testimonial-small.png",
+                "imgLarge": "video/video-testimonial-large.png",
+                "externalLink": "",
+                "embed": "<iframe width="560" height="315" src="https://www.youtube.com/embed/1AuG0piuDbs?si=7HxohSc1LV92Dyi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
+                "alt": "video 2021 rit testimonial",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            },
+            {
+                "title": "Giving Day Video",
+                "date": "2023",
+                "description": "Saint Joseph High School holds their Giving Day every March to raise money for all aspects of the school’s needs. For 2023, I worked with my Advanced Journalism class to create this video for promotion. I oversaw production of ideas, script writing, filming, and then edited the video using Premiere Pro.  ",
+                "slug": "st-joes-video-giving-day",
+                "imgSmall": "video/video-giving-day-small.png",
+                "imgLarge": "video/video-giving-day-large.png",
+                "externalLink": "",
+                "embed": "<iframe width="560" height="315" src="https://www.youtube.com/embed/2qZSIZSjja0?si=7krs-Q4TnRUea_DO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
+                "alt": "St. Joes 2023 video giving day",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            }
+        ]
+    },
+    {
+        "header": "Photography/Photo Manipulation",
+        "content": [
+            {
+                "title": "Celebratory Selfie",
+                "date": "2022",
+                "description": "This photo was taken at the 2022 Commencement and Graduation for the seniors at Saint Joseph High School, showcasing a group of graduates celebration with a pre-ceremony selfie. It was used as the inside cover of the Summer 2022 edition of TODAY Magazine.  ",
+                "slug": "st-joes-photos-graduation",
+                "imgSmall": "photography/photos-graduation-small.png",
+                "imgLarge": "photography/photos-graduation-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo graduation",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
+                "software": "Adobe Lightroom"
+                
+            },
+            {
+                "title": "Sports Media Day",
+                "date": "2023",
+                "description": "For every athletic season at Saint Joseph High School, my office coordinates a sports media day for varsity players. These photos are used across a wide variety of outlets, including social media, our school website, and publications. I acted as the primary photographer and editor capturing each sport, including this shot from a basketball team member. ",
+                "slug": "st-joes-photos-basketball",
+                "imgSmall": "photography/photos-basketball-small.png",
+                "imgLarge": "photography/photos-basketball-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 photo basketball",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
+                "software": "Adobe Lightroom"
+                
+            },
+            {
+                "title": "Cabaret Performance",
+                "date": "2022",
+                "description": "This photo was taken at the first ever Saint Joe’s Cabaret put on by the Saint Joseph Theatre Company. I photographed the whole event for yearbook and social media purposes, including a shot from a student solo performance.  ",
+                "slug": "st-joes-photos-cabaret",
+                "imgSmall": "photography/photos-cabaret-small.png",
+                "imgLarge": "photography/photos-cabaret-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo cabaret",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Pondering Portrait",
+                "date": "2019",
+                "description": "This photo was taken of a classmate in my Imaging class at RIT. We were learning about the equipment and processing required for portrait photography as part of a class project. ",
+                "slug": "rit-portrait",
+                "imgSmall": "photography/photos-portrait-small.png",
+                "imgLarge": "photography/photos-portrait-large.png",
+                "externalLink": "",
+                "alt": "rit portrait",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Studio Photography",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "SJ Universe",
+                "date": "2022",
+                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
+                "slug": "st-joes-photos-sjuniverse",
+                "imgSmall": "photography/photos-sjuniverse-small.png",
+                "imgLarge": "photography/photos-sjuniverse-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo sjuniverse",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Christmas Card",
+                "date": "2023",
+                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
+                "slug": "st-joes-photos-card",
+                "imgSmall": "photography/photos-christmas-small.png",
+                "imgLarge": "photography/photos-christmas-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 photo christmas card",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            }
+        ]
+    },
+    {
+        "header": "Vector Design",
+        "content": [
+            {
+                "title": "Bar Logo",
+                "date": "2023",
+                "description": "DDawg’s Sunnyside Tavern is a personal project I took on when I started renovating my basement, turning it into a bar/hangout space for myself and friends that came over. I created the logo to be printed on miscellaneous trinkets, including coasters and napkins. What bar is complete without a cool logo and custom items?  ",
+                "slug": "freelance-vector-bar",
+                "imgSmall": "vector/vector-tavern-small.png",
+                "imgLarge": "vector/vector-tavern-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector bar",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robotics Logo",
+                "date": "2023",
+                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
+                "slug": "freelance-vector-robotics",
+                "imgSmall": "vector/vector-robotics-small.png",
+                "imgLarge": "vector/vector-robotics-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector robotics",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Diable Days Logo",
+                "date": "2023",
+                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
+                "slug": "freelance-vector-diable",
+                "imgSmall": "vector/vector-diable-small.png",
+                "imgLarge": "vector/vector-diable-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector diable days",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            }
+        ]
+    },
+    {
+        "header": "Print Projects",
+        "content": [
+            {
+                "title": "Campus Store Ad",
+                "date": "2023",
+                "description": "This ad for the Saint Joseph High School Campus Store was originally created as a page in the Fall 2023 edition of the TODAY Magazine, but has been reused and sometimes reformatted to fit a variety of outputs. Additionally, I took the photos of the store and the beverage accessories. It was very fun to create a design that promoted a wide variety of products sold at the store! ",
+                "slug": "st-joes-print-store",
+                "imgSmall": "print/print-campus-store-small.png",
+                "imgLarge": "print/print-campus-store-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print campus store ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Magazine Editing, Magazine Layouts, DSLR Operation (Canon Rebel SL3), Photo Processing, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Socks Campaign Postcard",
+                "date": "2023",
+                "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
+                "slug": "st-joes-print-socks",
+                "imgSmall": "print/print-socks-small.png",
+                "imgLarge": "print/print-socks-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print socks campaign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Golf Classic Postcard",
+                "date": "2024",
+                "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
+                "slug": "st-joes-print-golf-card",
+                "imgSmall": "print/print-golf-std-small.png",
+                "imgLarge": "print/print-golf-std-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print golf postcard",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Golf Classic Flyer",
+                "date": "2023",
+                "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
+                "slug": "st-joes-print-golf-flyer",
+                "imgSmall": "print/print-golf-flyer-small.png",
+                "imgLarge": "print/print-golf-flyer-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print golf flyer",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Gala Magnet Mailer",
+                "date": "2024",
+                "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
+                "slug": "st-joes-print-gala-magnet",
+                "imgSmall": "print/print-gala-small.png",
+                "imgLarge": "print/print-gala-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print gala magnet",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Christmas Card",
+                "date": "2022",
+                "description": "I created this christmas card for the 2022 holiday season at Saint Joseph High School. I captured the photo of the stained glass window from our campus chapel, and created the wreath graphic using assets from Canva and Adobe Photoshop. Then, the card was created using Adobe InDesign. It was sent out to our constituents after being printed.  ",
+                "slug": "st-joes-print-christmas-card",
+                "imgSmall": "print/print-christmas-small.png",
+                "imgLarge": "print/print-christmas-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 print christmas card",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing, Photography, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Photoshop, Canva"
+                
+            }
+        ]
+    },
+    {
+        "header": "Display Graphics",
+        "content": [
+            {
+                "title": "Gala Jumbotron",
+                "date": "2022",
+                "description": "This graphic was put on the jumbotron screen across from the Heldrich Hotel in New Brunswick, NJ during Saint Joseph High School’s Green Tie Gala fundraiser. It was used to congratulate Kevin M. Ryan, CEO of Covenant House International, who was the 2022 honoree at the gala. ",
+                "slug": "st-joes-sign-gala",
+                "imgSmall": "signs/gala-sign-small.png",
+                "imgLarge": "signs/gala-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 gala sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Lent Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. I often create seasonal and holiday-based signs for the school, and this one was used to celebrate the beginning of Lent. I created the ash cross in Adobe Illustrator. ",
+                "slug": "st-joes-sign-lent",
+                "imgSmall": "signs/lent-sign-small.png",
+                "imgLarge": "signs/lent-sign-largev2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 lent sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Adobe Illustrator, Adobe Photoshop"
+                
+            },
+            {
+                "title": "NBA Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. It was used to congratulate Karl Anthony Towns, a graduate from Saint Joe’s who has a career in the NBA and notably earned the title of All Star.  ",
+                "slug": "st-joes-sign-NBA",
+                "imgSmall": "signs/kat-sign-small.png",
+                "imgLarge": "signs/kat-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 NBA sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Photo Manipulation",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Advent Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. It was used to commemorate the life of Brother Ronald Cairns, S.C., a longtime Partner in Mission who had recently passed away. The annual Advent Community Mass was held in recognition of his life, and the graphic was used to promote the mass.",
+                "slug": "st-joes-sign-advent",
+                "imgSmall": "signs/advent-sign-small.png",
+                "imgLarge": "signs/advent-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 Advent sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Wrestling Display Sign",
+                "date": "2023",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. It was used to celebrate the accomplishments of our wrestling team for winning a county championship. ",
+                "slug": "st-joes-sign-wrestling",
+                "imgSmall": "signs/wrestling-sign-small.png",
+                "imgLarge": "signs/wrestling-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 Wrestling sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design",
+                "software": "Canva"
+                
+            },
+            {
+                "title": "Football Display Sign",
+                "date": "2022",
+                "description": "This graphic was put up on Saint Joseph High School’s electronic display sign in the front of the campus. As a high school, we often celebrate our students’ accomplishments with recognition on the display sign. This was one entry in a series of promoting our senior athletes who signed on to play at the collegiate level.  ",
+                "slug": "st-joes-sign-football",
+                "imgSmall": "signs/football-sign-small.png",
+                "imgLarge": "signs/football-sign-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2022 Football sign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Photo Manipulation",
+                "software": "Adobe Photoshop"
                 
             }
         ]
