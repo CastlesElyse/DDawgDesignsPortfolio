@@ -61,14 +61,14 @@ function App() {
             <SearchPage />
           </PrivateRoute>} />
           <Route path="*" element={<PageNotFound />} /> */}
-          <Route path="/" element={<HomePage />} />
-          <Route path="/about" element={<AboutPage width={windowSize.width} />} />
-          <Route path="/portfolio" element={<PortfolioPage width={windowSize.width} />} />
-          <Route path="/resume" element={<ResumePage />} />
-          <Route path="/contact" element={<ContactPage />} />
+          <Route caseSensitive path="/" element={<HomePage />} />
+          <Route caseSensitive path="/about" element={<AboutPage width={windowSize.width} />} />
+          <Route caseSensitive path="/portfolio" element={<PortfolioPage width={windowSize.width} />} />
+          <Route caseSensitive path="/resume" element={<ResumePage />} />
+          <Route caseSensitive path="/contact" element={<ContactPage />} />
           {portfolio.map((section) => (
             section.content.map((piece) => (
-              <Route path={`/${piece.slug}`} element={<ContentPage data={piece} />} />
+              <Route caseSensitive path={`/${piece.slug}`} element={<ContentPage data={piece} />} />
             ))
           ))}
           <Route path='/404' element={<PageNotFound />} />
