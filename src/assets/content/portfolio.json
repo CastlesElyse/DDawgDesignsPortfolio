@@ -229,7 +229,11 @@
                 "imgSmall": "video/video-diable-days-small.png",
                 "imgLarge": "video/video-diable-days-large.png",
                 "externalLink": "",
-                "embed": "<iframe width="560" height="315" src="https://www.youtube.com/embed/NTJJ5kAFsMY?si=-mQQbq3nA7cDUKb3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
+                "embed": {
+                    "id": "NTJJ5kAFsMY",
+                    "height": "315",
+                    "width": "560"
+                },
                 "alt": "video 2021 diable days trailer",
                 "mediaType": "video",
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading, Asset Management, VFX",
@@ -244,9 +248,8 @@
                 "imgSmall": "video/video-testimonial-small.png",
                 "imgLarge": "video/video-testimonial-large.png",
                 "externalLink": "",
-                "embed": "<iframe width="560" height="315" src="https://www.youtube.com/embed/1AuG0piuDbs?si=7HxohSc1LV92Dyi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
                 "alt": "video 2021 rit testimonial",
-                "mediaType": "video",
+                "mediaType": "magazine",
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
                 "software": "Adobe Premiere Pro"
                 
@@ -259,9 +262,8 @@
                 "imgSmall": "video/video-giving-day-small.png",
                 "imgLarge": "video/video-giving-day-large.png",
                 "externalLink": "",
-                "embed": "<iframe width="560" height="315" src="https://www.youtube.com/embed/2qZSIZSjja0?si=7krs-Q4TnRUea_DO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>",
                 "alt": "St. Joes 2023 video giving day",
-                "mediaType": "video",
+                "mediaType": "magazine",
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
                 "software": "Adobe Premiere Pro"
                 
