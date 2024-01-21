@@ -417,6 +417,49 @@
         ]
     },
     {
+        "header": "Motion Graphics",
+        "content": [
+            {
+                "title": "Student Government Intro",
+                "date": "2021",
+                "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used AfterEffects to animate it. ",
+                "slug": "motion-graphics-sg-intro",
+                "imgSmall": "motion-graphics/motion-graphics-sg-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-sg-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "shq_JdCsWQ4",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2021 rit sg intro",
+                "mediaType": "video",
+                "skills": "Asset Management, VFX, Graphic Design, Typography Design, Motion Graphics, Animation",
+                "software": "Adobe After Effects"
+                
+            },
+            {
+                "title": "Bowling Champions Graphic",
+                "date": "2023",
+                "description": "When the Saint Joseph High School bowling team went undefeated in the 2022-2023 season, I created this motion graphic to promote the team’s legendary season. I took a team video from our media day, edited the assets in Photoshop, and animated the video to create the final piece. ",
+                "slug": "motion-graphics-bowling",
+                "imgSmall": "motion-graphics/motion-graphics-bowling-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-bowling-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "KIm1Rf6MrLM",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2023 st. joes bowling",
+                "mediaType": "video",
+                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Animation, Photo Manipulation",
+                "software": "Adobe Premiere Pro, Adobe Photoshop"
+                
+            }
+        ]
+    },
+    {
         "header": "Print Projects",
         "content": [
             {
