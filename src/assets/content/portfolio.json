@@ -248,8 +248,13 @@
                 "imgSmall": "video/video-testimonial-small.png",
                 "imgLarge": "video/video-testimonial-large.png",
                 "externalLink": "",
+                "embed": {
+                    "id": "1AuG0piuDbs",
+                    "height": "315",
+                    "width": "560"
+                },
                 "alt": "video 2021 rit testimonial",
-                "mediaType": "magazine",
+                "mediaType": "video",
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
                 "software": "Adobe Premiere Pro"
                 
@@ -262,8 +267,13 @@
                 "imgSmall": "video/video-giving-day-small.png",
                 "imgLarge": "video/video-giving-day-large.png",
                 "externalLink": "",
+                "embed": {
+                    "id": "2qZSIZSjja0",
+                    "height": "315",
+                    "width": "560"
+                },
                 "alt": "St. Joes 2023 video giving day",
-                "mediaType": "magazine",
+                "mediaType": "video",
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
                 "software": "Adobe Premiere Pro"
                 
