@@ -456,6 +456,25 @@
                 "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Animation, Photo Manipulation",
                 "software": "Adobe Premiere Pro, Adobe Photoshop"
                 
+            },
+            {
+                "title": "Falcon Score Report",
+                "date": "2023",
+                "description": "For Saint Joseph High School’s Spring Media Day 2023, we brought in a professional sports videographer to get clips of the athletes. Throughout the season I used these clips in the Falcon Score Reports to recap the previous day’s athletics scores on social media. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "motion-graphics-report",
+                "imgSmall": "motion-graphics/motion-graphics-report-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-report-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "aA0krL3aQrY",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2023 st. joes falcon score report",
+                "mediaType": "video",
+                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics",
+                "software": "Adobe Premiere Pro"
+                
             }
         ]
     },
