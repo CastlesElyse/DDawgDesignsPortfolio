@@ -281,6 +281,68 @@
         ]
     },
     {
+        "header": "Motion Graphics",
+        "content": [
+            {
+                "title": "Student Government",
+                "date": "2021",
+                "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used AfterEffects to animate it. ",
+                "slug": "motion-graphics-sg-intro",
+                "imgSmall": "motion-graphics/motion-graphics-sg-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-sg-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "shq_JdCsWQ4",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2021 rit sg intro",
+                "mediaType": "video",
+                "skills": "Asset Management, VFX, Graphic Design, Typography Design, Motion Graphics, Animation",
+                "software": "Adobe After Effects"
+                
+            },
+            {
+                "title": "Bowling Champions",
+                "date": "2023",
+                "description": "When the Saint Joseph High School bowling team went undefeated in the 2022-2023 season, I created this motion graphic to promote the team’s legendary season. I took a team video from our media day, edited the assets in Photoshop, and animated the video to create the final piece. ",
+                "slug": "motion-graphics-bowling",
+                "imgSmall": "motion-graphics/motion-graphics-bowling-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-bowling-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "KIm1Rf6MrLM",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2023 st. joes bowling",
+                "mediaType": "video",
+                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Animation, Photo Manipulation",
+                "software": "Adobe Premiere Pro, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Falcon Score Report",
+                "date": "2023",
+                "description": "For Saint Joseph High School’s Spring Media Day 2023, we brought in a professional sports videographer to get clips of the athletes. Throughout the season I used these clips in the Falcon Score Reports to recap the previous day’s athletics scores on social media. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
+                "slug": "motion-graphics-report",
+                "imgSmall": "motion-graphics/motion-graphics-report-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-report-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "aA0krL3aQrY",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2023 st. joes falcon score report",
+                "mediaType": "video",
+                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics",
+                "software": "Adobe Premiere Pro"
+                
+            }
+        ]
+    },
+    {
         "header": "Photography/Photo Manipulation",
         "content": [
             {
@@ -417,68 +479,6 @@
         ]
     },
     {
-        "header": "Motion Graphics",
-        "content": [
-            {
-                "title": "Student Government",
-                "date": "2021",
-                "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used AfterEffects to animate it. ",
-                "slug": "motion-graphics-sg-intro",
-                "imgSmall": "motion-graphics/motion-graphics-sg-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-sg-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "shq_JdCsWQ4",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2021 rit sg intro",
-                "mediaType": "video",
-                "skills": "Asset Management, VFX, Graphic Design, Typography Design, Motion Graphics, Animation",
-                "software": "Adobe After Effects"
-                
-            },
-            {
-                "title": "Bowling Champions",
-                "date": "2023",
-                "description": "When the Saint Joseph High School bowling team went undefeated in the 2022-2023 season, I created this motion graphic to promote the team’s legendary season. I took a team video from our media day, edited the assets in Photoshop, and animated the video to create the final piece. ",
-                "slug": "motion-graphics-bowling",
-                "imgSmall": "motion-graphics/motion-graphics-bowling-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-bowling-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "KIm1Rf6MrLM",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2023 st. joes bowling",
-                "mediaType": "video",
-                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Animation, Photo Manipulation",
-                "software": "Adobe Premiere Pro, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Falcon Score Report",
-                "date": "2023",
-                "description": "For Saint Joseph High School’s Spring Media Day 2023, we brought in a professional sports videographer to get clips of the athletes. Throughout the season I used these clips in the Falcon Score Reports to recap the previous day’s athletics scores on social media. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
-                "slug": "motion-graphics-report",
-                "imgSmall": "motion-graphics/motion-graphics-report-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-report-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "aA0krL3aQrY",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2023 st. joes falcon score report",
-                "mediaType": "video",
-                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics",
-                "software": "Adobe Premiere Pro"
-                
-            }
-        ]
-    },
-    {
         "header": "Print Projects",
         "content": [
             {
@@ -501,7 +501,7 @@
                 "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
                 "slug": "st-joes-print-socks",
                 "imgSmall": "print/print-socks-small.png",
-                "imgLarge": "print/print-socks-large.png",
+                "imgLarge": "print/print-socks-large-v2.png",
                 "externalLink": "",
                 "alt": "St. Joes 2023 print socks campaign",
                 "mediaType": "magazine",
@@ -514,8 +514,8 @@
                 "date": "2024",
                 "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
                 "slug": "st-joes-print-golf-card",
-                "imgSmall": "print/print-golf-std-small.png",
-                "imgLarge": "print/print-golf-std-large.png",
+                "imgSmall": "print/print-golf-std-small-v2.png",
+                "imgLarge": "print/print-golf-std-large-v2.png",
                 "externalLink": "",
                 "alt": "St. Joes 2024 print golf postcard",
                 "mediaType": "magazine",
@@ -542,8 +542,8 @@
                 "date": "2024",
                 "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
                 "slug": "st-joes-print-gala-magnet",
-                "imgSmall": "print/print-gala-small.png",
-                "imgLarge": "print/print-gala-large.png",
+                "imgSmall": "print/print-gala-small-v2.png",
+                "imgLarge": "print/print-gala-large-v2.png",
                 "externalLink": "",
                 "alt": "St. Joes 2024 print gala magnet",
                 "mediaType": "magazine",
