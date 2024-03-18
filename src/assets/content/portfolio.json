@@ -222,6 +222,25 @@
         "header": "Video Production",
         "content": [
             {
+                "title": "Giving Day Promo",
+                "date": "2024",
+                "description": "For Saint Joe’s Giving Day 2024, I was tasked with turning a script my supervisor wrote into a full fledged video production. I took this as a special challenge, where I tried out many new editing techniques and used new camera equipment to turn my vision into an MP4 file. Specifically, I included more motion graphics that I created in Adobe After Effects to add a new visual flair to this project. I filmed a majority of the clips myself, except for the athletics clips that were filmed by one of our videographers. The photo montage pictures were provided by our contracted photographer. ",
+                "slug": "st-joes-video-giving-day-2024",
+                "imgSmall": "video/video-giving-day-2024-small.png",
+                "imgLarge": "video/video-giving-day-2024-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "h3B7hbDdJLk",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "St. Joes 2024 video giving day",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics, Animation",
+                "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
                 "title": "Diable Days Trailer",
                 "date": "2021",
                 "description": "This piece is by far my favorite video I have created due to the fun nature of the topic and the amount of skills I learned from it. For my Magazine Publishing class at RIT, I was tasked with creating a VR magazine experience. I created an article that played this fake movie trailer in VR. I did all of the VFX by hand in Adobe After Effects, trying to replicate a sci-fi/comic book feel. It stars my friends and I, and was one of the last creative projects we worked on together while still in college.  ",
@@ -284,6 +303,25 @@
         "header": "Motion Graphics",
         "content": [
             {
+                "title": "Sports Report Intro",
+                "date": "2024",
+                "description": "This was a project I took on based on a very vivid idea I had when working with our Winter Media Day photos. I cropped all the images out in Photoshop and used After Effects to create a 3D space with all the assets to simulate a studio space. This project was a ton of fun because of how much I learned about the After Effects animation process. I was even able to take photos around campus, such as the gym floor, to include in the 3D space. I plan on using this as an animated intro for a series on our social media. ",
+                "slug": "motion-graphics-sports-report",
+                "imgSmall": "motion-graphics/motion-graphics-sports-report-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-sports-report-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "dzUC5msAK5o",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2024 st. joes sports report intro",
+                "mediaType": "video",
+                "skills": "Asset Management, VFX, Motion Graphics, Animation",
+                "software": "Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
                 "title": "Student Government",
                 "date": "2021",
                 "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used AfterEffects to animate it. ",
@@ -299,6 +337,25 @@
                 "alt": "motion graphics 2021 rit sg intro",
                 "mediaType": "video",
                 "skills": "Asset Management, VFX, Graphic Design, Typography Design, Motion Graphics, Animation",
+                "software": "Adobe After Effects"
+                
+            },
+            {
+                "title": "Giving Day Outro",
+                "date": "2024",
+                "description": "For Saint Joe’s Giving Day 2024, I created this motion graphic to serve as the outro for the video components created to promote the day on our social media platforms. I animated it using After Effects and used Premiere Pro to add it to our videos. Additionally, I used photos I took throughout the school year.  ",
+                "slug": "motion-graphics-giving-day-outro",
+                "imgSmall": "motion-graphics/motion-graphics-giving-day-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-giving-day-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "zacB80xavYY",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics 2024 st. joes giving day outro",
+                "mediaType": "video",
+                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Studio Photography",
                 "software": "Adobe After Effects"
                 
             },
