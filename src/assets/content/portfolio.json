@@ -360,6 +360,25 @@
                 
             },
             {
+                "title": "Robotics Outro",
+                "date": "2024",
+                "description": "I created this animated graphic for the Break Stuff Robotics team which I am a part of. It is used as the outro for videos I produce for the team. I used After Effects to animate the initial vector logo I created when I first joined, and added sound effects to make it more immersive.  ",
+                "slug": "motion-graphics-robotics",
+                "imgSmall": "motion-graphics/motion-graphics-robotics-small.png",
+                "imgLarge": "motion-graphics/motion-graphics-robotics-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "YPg1ggXSsVU",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics break stuff robotics outro",
+                "mediaType": "video",
+                "skills": "Asset Management, Vector Design, Typography Design, Motion Graphics, Sound Design",
+                "software": "Adobe After Effects, Adobe Illustrator"
+                
+            },
+            {
                 "title": "Bowling Champions",
                 "date": "2023",
                 "description": "When the Saint Joseph High School bowling team went undefeated in the 2022-2023 season, I created this motion graphic to promote the team’s legendary season. I took a team video from our media day, edited the assets in Photoshop, and animated the video to create the final piece. ",
