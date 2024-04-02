@@ -279,6 +279,25 @@
                 
             },
             {
+                "title": "Robotics Highlights",
+                "date": "2024",
+                "description": "This was a video I created for the Break Stuff Robotics team that I am on. From a regional event at The College of New Jersey, it features highlights and creatives from a 10+ match day of slugfesting from robots Shin Kicker and Tokyo Drisk. Shin Kicker ended up placing second in its weight class. ",
+                "slug": "video-robotics-highlights",
+                "imgSmall": "video/video-robotics-small.png",
+                "imgLarge": "video/video-robotics-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "XyLQGXA9NS8",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 robotics highlights",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            },
+            {
                 "title": "Giving Day Video",
                 "date": "2023",
                 "description": "Saint Joseph High School holds their Giving Day every March to raise money for all aspects of the school’s needs. For 2023, I worked with my Advanced Journalism class to create this video for promotion. I oversaw production of ideas, script writing, filming, and then edited the video using Premiere Pro.  ",
