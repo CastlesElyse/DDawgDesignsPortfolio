@@ -1,10 +1,11 @@
 import SEO from "./seo";
+import RepeatingImage from '../assets/images/page/DDawg-Background-02.png';
 
 const HomePage = () => {
 
     return (
         <div id="home" style={{ 
-    backgroundImage: "url(../assets/images/page/DDawg-Background-02.png)",
+    backgroundImage: `url(${RepeatingImage})`,
     backgroundRepeat: "repeat",
 }}>
             <SEO page="HOME" />
