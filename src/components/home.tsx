@@ -4,7 +4,7 @@ const HomePage = () => {
 
     return (
         <div id="home" style={{ 
-    backgroundImage: url("../assets/images/page/DDawg-Background-02.png"),
+    backgroundImage: "url(../assets/images/page/DDawg-Background-02.png)",
     backgroundRepeat: "repeat",
 }}>
             <SEO page="HOME" />
