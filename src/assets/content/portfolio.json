@@ -260,21 +260,21 @@
                 
             },
             {
-                "title": "RIT Testimonial",
-                "date": "2021",
-                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
-                "slug": "video-rit-testimonial",
-                "imgSmall": "video/video-testimonial-small.png",
-                "imgLarge": "video/video-testimonial-large.png",
+                "title": "Bands Promo",
+                "date": "2024",
+                "description": "Every year, Saint Joe’s hosts a Battle of the Bands competition for student bands from our school and ones in the surrounding area. I filmed the full show in 2023, and used the footage to create this teaser for the 2024 rendition. I experimented a lot with the looks in this piece, especially the colors and textures, using visuals from the indie music/DIY scene as inspiration. ",
+                "slug": "st-joes-video-bands",
+                "imgSmall": "video/video-bands-small.png",
+                "imgLarge": "video/video-bands-small.png",
                 "externalLink": "",
                 "embed": {
-                    "id": "1AuG0piuDbs",
+                    "id": "lyKMfJOHEqI",
                     "height": "315",
                     "width": "560"
                 },
-                "alt": "video 2021 rit testimonial",
+                "alt": "St. Joes 2024 video battle of the bands",
                 "mediaType": "video",
-                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Typography Design",
                 "software": "Adobe Premiere Pro"
                 
             },
@@ -298,21 +298,21 @@
                 
             },
             {
-                "title": "Bands Promo",
-                "date": "2024",
-                "description": "Every year, Saint Joe’s hosts a Battle of the Bands competition for student bands from our school and ones in the surrounding area. I filmed the full show in 2023, and used the footage to create this teaser for the 2024 rendition. I experimented a lot with the looks in this piece, especially the colors and textures, using visuals from the indie music/DIY scene as inspiration. ",
-                "slug": "st-joes-video-bands",
-                "imgSmall": "video/video-bands-small.png",
-                "imgLarge": "video/video-bands-small.png",
+                "title": "RIT Testimonial",
+                "date": "2021",
+                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
+                "slug": "video-rit-testimonial",
+                "imgSmall": "video/video-testimonial-small.png",
+                "imgLarge": "video/video-testimonial-large.png",
                 "externalLink": "",
                 "embed": {
-                    "id": "lyKMfJOHEqI",
+                    "id": "1AuG0piuDbs",
                     "height": "315",
                     "width": "560"
                 },
-                "alt": "St. Joes 2024 video battle of the bands",
+                "alt": "video 2021 rit testimonial",
                 "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Typography Design",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
                 "software": "Adobe Premiere Pro"
                 
             },
