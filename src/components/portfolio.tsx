@@ -41,8 +41,8 @@ const PortfolioPage = (props: any) => {
                                             <a href={piece.slug}>
                                                 <img className="magazine-thumbnail" src={require(`../assets/images/${piece.imgSmall}`)} alt={piece.alt} />
                                                 <div className="magazine-text">
-                                                    <h3 className="db-text-align-center">{piece.title}</h3>
-                                                    <p className="db-text-align-center">-{piece.date}-</p>
+                                                    <b><h3 className="db-text-align-center">{piece.title}</h3></b>
+                                                    <i><p className="db-text-align-center">-{piece.date}-</p></i>
                                                 </div>
 
                                             </a>
