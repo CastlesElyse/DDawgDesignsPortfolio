@@ -298,6 +298,25 @@
                 
             },
             {
+                "title": "Bands Promo",
+                "date": "2024",
+                "description": "Every year, Saint Joe’s hosts a Battle of the Bands competition for student bands from our school and ones in the surrounding area. I filmed the full show in 2023, and used the footage to create this teaser for the 2024 rendition. I experimented a lot with the looks in this piece, especially the colors and textures, using visuals from the indie music/DIY scene as inspiration. ",
+                "slug": "st-joes-video-bands",
+                "imgSmall": "video/video-bands-small.png",
+                "imgLarge": "video/video-bands-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "lyKMfJOHEqI",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "St. Joes 2024 video battle of the bands",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Typography Design",
+                "software": "Adobe Premiere Pro"
+                
+            },
+            {
                 "title": "Giving Day Video",
                 "date": "2023",
                 "description": "Saint Joseph High School holds their Giving Day every March to raise money for all aspects of the school’s needs. For 2023, I worked with my Advanced Journalism class to create this video for promotion. I oversaw production of ideas, script writing, filming, and then edited the video using Premiere Pro.  ",
@@ -343,7 +362,7 @@
             {
                 "title": "Student Government",
                 "date": "2021",
-                "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used AfterEffects to animate it. ",
+                "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used After Effects to animate it. ",
                 "slug": "motion-graphics-sg-intro",
                 "imgSmall": "motion-graphics/motion-graphics-sg-small.png",
                 "imgLarge": "motion-graphics/motion-graphics-sg-large.png",
