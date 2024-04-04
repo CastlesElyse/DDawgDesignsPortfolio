@@ -63,6 +63,11 @@ figure {
   text-align: center;
 }
 
+.db-text-align-center-bold {
+  text-align: center;
+  font-weight: bold;
+}
+
 
 /*****************************HEADER***********************************/
 
