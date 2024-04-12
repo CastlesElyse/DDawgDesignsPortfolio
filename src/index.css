@@ -292,6 +292,7 @@ figure {
   margin: 20px auto 0px auto;
   text-align: center;
   font-size: 2rem;
+  font-family: Rock Salt, sans-serif;
 }
 
 .portfolio-section {
@@ -369,6 +370,7 @@ figure {
 #resume-background h1 {
   margin: 20px auto;
   font-size: 3em;
+  font-family: Rock Salt, sans-serif;
 }
 
 #resume-context {
@@ -457,6 +459,7 @@ figure {
   margin: 20px auto;
   text-align: center;
   font-size: 3em;
+  font-family: Rock Salt, sans-serif;
 }
 #contact-context {
   display: flex;
