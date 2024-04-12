@@ -269,6 +269,12 @@ figure {
 
 #portfolio {
   display: block;
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 #portfolio h2 {
