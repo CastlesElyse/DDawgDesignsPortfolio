@@ -7,14 +7,14 @@
 
 @font-face {
   font-family: "Yeseva One";
-  src: local("YesevaOne"), url("./assets/fonts/RockSalt-Regular.ttf") format("truetype");
+  src: local("YesevaOne"), url("./assets/fonts/YesevaOne-Regular.ttf") format("truetype");
   font-weight: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Rock Salt";
-  src: local("RockSalt"), url("./assets/fonts/YesevaOne-Regular.ttf") format("truetype");
+  src: local("RockSalt"), url("./assets/fonts/RockSalt-Regular.ttf") format("truetype");
   font-weight: normal;
   font-display: swap;
 }
