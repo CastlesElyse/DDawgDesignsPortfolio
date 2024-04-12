@@ -12,6 +12,11 @@
   font-display: swap;
 }
 
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
 html {
   font-size: 16px;
 }
@@ -191,6 +196,7 @@ figure {
 
 #about {
   display: block;
+  animation: fadeIn 1s;
 }
 
 .about-section:last-child {
@@ -272,11 +278,6 @@ figure {
   animation: fadeIn 1s;
 }
 
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
 #portfolio h2 {
   max-width: 840px;
   margin: 20px auto 0px auto;
@@ -353,6 +354,7 @@ figure {
     #F7635E 50%,
     #F7635E
   );
+  animation: fadeIn 1s;
 }
 
 #resume-background h1 {
@@ -437,6 +439,10 @@ figure {
 
 
 /*****************************CONTACT***********************************/
+
+#contact {
+  animation: fadeIn 1s;
+}
 
 #contact h2 {
   margin: 20px auto;
@@ -579,6 +585,7 @@ img[class="icon"] {
   max-width: 800px;
   margin: 0 auto;
   position: absolute;
+  animation: fadeIn 1s;
 }
 
 #home-img {
