@@ -7,7 +7,14 @@
 
 @font-face {
   font-family: "Yeseva One";
-  src: local("YesevaOne"), url("./assets/fonts/YesevaOne-Regular.ttf") format("truetype");
+  src: local("YesevaOne"), url("./assets/fonts/RockSalt-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rock Salt";
+  src: local("RockSalt"), url("./assets/fonts/YesevaOne-Regular.ttf") format("truetype");
   font-weight: normal;
   font-display: swap;
 }
@@ -230,6 +237,8 @@ figure {
 .about-text-item h3 {
   font-size: 2em;
   margin-bottom: 10px;
+  font-family: Rock Salt, sans-serif;
+  
 }
 
 @media only screen and (min-width: 877px) {
