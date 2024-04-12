@@ -706,7 +706,7 @@ img[class="icon"] {
 }/*****************************CONTACT***********************************/
 
 #content-page {
-
+animation: fadeIn 1s;
 }
 
 #magazine-context {
