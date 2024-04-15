@@ -764,12 +764,14 @@ animation: fadeIn 1s;
 }
 
 #magazine-text a {
+  width: fit-content;
   background-color: #C2140F;
+  font-size: 1em;
+  padding: 10px 30px;
+  border: none;
+  margin: 30px auto;
   color: white;
-  font-size: 1.2em;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-align: center;
+  text-decoration: none;
 }
 
 .text-bold {
