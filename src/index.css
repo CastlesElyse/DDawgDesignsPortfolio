@@ -114,6 +114,10 @@ figure {
   height: 45px;
 }
 
+#header-icon p {
+  font-family: Rock Salt, sans-serif;
+}
+
 #header-icon a img {
   width: 45px;
   height: 45px;
