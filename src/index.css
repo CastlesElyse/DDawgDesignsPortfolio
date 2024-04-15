@@ -763,6 +763,14 @@ animation: fadeIn 1s;
   padding: 20px;
 }
 
+.magazine-text a {
+  background-color: #C2140F;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
 .text-bold {
   font-weight: bold;
 }
