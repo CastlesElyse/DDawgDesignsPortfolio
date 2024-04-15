@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <div className="header">
             <div id="header-icon">
-                <a href="/"><img src="DDawg-logo-4-03.svg" alt="cant find" /></a>
+                <p>DDAWG</p>
             </div>
             <div>
             <div className="header-hamburger" onClick={() => setMenuOpen(!menuOpen)}>
