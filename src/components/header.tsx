@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <div className="header">
             <div id="header-icon">
-                <p>DDAWG</p>
+                <a href="/"><p>DDAWG</p></a>
             </div>
             <div>
             <div className="header-hamburger" onClick={() => setMenuOpen(!menuOpen)}>
