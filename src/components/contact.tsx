@@ -22,10 +22,6 @@ const ContactPage = () => {
                             <img src={require(`../assets/images/icons/LinkedIn.png`)} className="icon" alt="LinkedIn Icon" />
                             <p>Check me out on <a href={contact.linkedinLink}>{contact.linkedin}!</a></p>
                         </div>
-                        <div className="icon-items">
-                            <img src={require(`../assets/images/icons/Insta.png`)} className="icon" alt="Instagram Icon" />
-                            <p> Check out on <a href={contact.instagramLink}>{contact.instagram}!</a></p>
-                        </div>
                     </div>
                     
                 </div>
