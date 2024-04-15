@@ -40,7 +40,7 @@ const ContentPage = (props: any) => {
                     <div id="magazine-text">
                         <h2>{data.title} - {data.date}</h2>
                         {data.externalLink && 
-                            <a href={data.externalLink}><h4>See More</h4></a>
+                            <a href={data.externalLink}><h2>See More</h2></a>
                         }
                         <p><span className="text-bold">Skills: </span>{data.skills}</p>
                         <p><span className="text-bold">Software Used: </span>{data.software}</p>
