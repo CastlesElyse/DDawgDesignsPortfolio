@@ -10,10 +10,11 @@ const HomePage = () => {
             <div className="home-wrapper" style={{ 
             backgroundImage: `url(${RepeatingImage})`,
             backgroundRepeat: "repeat",
-            height: `calc(100vh + 15px)`,
-            width: `calc(100vw + 10px)`,
+            height: `100vh`,
+            width: `100vw`,
             position: "absolute",
-            overflow: "scroll"
+            overflowY: "scroll",
+            overflowX: "hidden"
         }}>
             <SEO page="HOME" />
             <div className="header" />
