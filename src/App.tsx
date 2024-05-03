@@ -47,32 +47,19 @@ function App() {
   return (
     <HelmetProvider>
       <BrowserRouter>
-        <Header />
         <Routes>
-          {/* <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<SignUp />} />
-          <Route path="/" element={<PrivateRoute>
-            <MagicBox />
-          </PrivateRoute>} />
-          <Route path="/box" element={<PrivateRoute>
-            <BoxView />
-          </PrivateRoute>} />
-          <Route path="/search" element={<PrivateRoute>
-            <SearchPage />
-          </PrivateRoute>} />
-          <Route path="*" element={<PageNotFound />} /> */}
           <Route caseSensitive path="/" element={<HomePage />} />
-          <Route caseSensitive path="/about" element={<AboutPage width={windowSize.width} />} />
-          <Route caseSensitive path="/portfolio" element={<PortfolioPage width={windowSize.width} />} />
-          <Route caseSensitive path="/resume" element={<ResumePage />} />
-          <Route caseSensitive path="/contact" element={<ContactPage />} />
+          <Route caseSensitive path="/about" element={<><Header /><AboutPage width={windowSize.width} /></>} />
+          <Route caseSensitive path="/portfolio" element={<><Header /><PortfolioPage width={windowSize.width} /></>} />
+          <Route caseSensitive path="/resume" element={<><Header /><ResumePage /></>} />
+          <Route caseSensitive path="/contact" element={<><Header /><ContactPage /></>} />
           {portfolio.map((section) => (
             section.content.map((piece) => (
-              <Route caseSensitive path={`/${piece.slug}`} element={<ContentPage data={piece} />} />
+              <Route caseSensitive path={`/${piece.slug}`} element={<><Header /><ContentPage data={piece} /></>} />
             ))
           ))}
-          <Route path='/404' element={<PageNotFound />} />
-          <Route path="*" element={<Navigate to="/404" />} />
+          <Route path='/404' element={<><Header /><PageNotFound /></>} />
+          <Route path="*" element={<><Header /><Navigate to="/404" /></>} />
         </Routes>
 
     </BrowserRouter>
