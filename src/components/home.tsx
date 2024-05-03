@@ -10,8 +10,8 @@ const HomePage = () => {
             <div className="home-wrapper" style={{ 
             backgroundImage: `url(${RepeatingImage})`,
             backgroundRepeat: "repeat",
-            height: `100vh`,
-            width: `100vw`,
+            height: `calc(100vh + 15px)`,
+            width: `calc(100vw + 10px)`,
             position: "absolute",
             overflow: "scroll"
         }}>
