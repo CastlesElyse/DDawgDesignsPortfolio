@@ -633,6 +633,10 @@ img[class="icon"] {
 
 /*****************************HOME***********************************/
 
+.home-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
 #home {
   display: flex;
   flex-direction: column;
