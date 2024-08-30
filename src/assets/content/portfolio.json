@@ -241,25 +241,6 @@
                 
             },
             {
-                "title": "Mass Recap",
-                "date": "2024",
-                "description": "I created this video as a visual recap of Saint Joseph High School’s “Back to School” Mass for the 2024-2025 school year. It was used on our social media platforms where students, parents, alumni, and staff could view it to see how the school comes together as a community for special events.",
-                "slug": "video-mass-recap",
-                "imgSmall": "video/video-mass-2024-small.jpg",
-                "imgLarge": "video/video-mass-2024-small.jpg",
-                "externalLink": "",
-                "embed": {
-                    "id": "oN6AKsDBN3w",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2024 mass recap",
-                "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Correction/Grading",
-                "software": "Adobe Premiere Pro"
-                
-            },
-            {
                 "title": "Giving Day Promo",
                 "date": "2024",
                 "description": "For Saint Joe’s Giving Day 2024, I was tasked with turning a script my supervisor wrote into a full fledged video production. I took this as a special challenge, where I tried out many new editing techniques and used new camera equipment to turn my vision into an MP4 file. Specifically, I included more motion graphics that I created in Adobe After Effects to add a new visual flair to this project. I filmed a majority of the clips myself, except for the athletics clips that were filmed by one of our videographers. The photo montage pictures were provided by our contracted photographer. ",
@@ -276,6 +257,25 @@
                 "mediaType": "video",
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics, Animation",
                 "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Mass Recap",
+                "date": "2024",
+                "description": "I created this video as a visual recap of Saint Joseph High School’s “Back to School” Mass for the 2024-2025 school year. It was used on our social media platforms where students, parents, alumni, and staff could view it to see how the school comes together as a community for special events.",
+                "slug": "video-mass-recap",
+                "imgSmall": "video/video-mass-2024-small.jpg",
+                "imgLarge": "video/video-mass-2024-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "oN6AKsDBN3w",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 mass recap",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
                 
             },
             {
