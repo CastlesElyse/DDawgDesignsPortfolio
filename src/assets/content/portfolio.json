@@ -665,17 +665,17 @@
                 
             },
             {
-                "title": "Christmas Card",
-                "date": "2022",
-                "description": "I created this christmas card for the 2022 holiday season at Saint Joseph High School. I captured the photo of the stained glass window from our campus chapel, and created the wreath graphic using assets from Canva and Adobe Photoshop. Then, the card was created using Adobe InDesign. It was sent out to our constituents after being printed.  ",
-                "slug": "st-joes-print-christmas-card",
-                "imgSmall": "print/print-christmas-small.png",
-                "imgLarge": "print/print-christmas-large.png",
+                "title": "Open House Ad",
+                "date": "2024",
+                "description": "Throughout the academic year at Saint Joe’s, I often create ads designed for print in local magazines, newspapers, and community publications. In the Fall of 2024 I edited this ad for our upcoming open house, telling the story of the school using the year’s “Building Men of the Future” marketing campaign branding. I also took the photo used at the previous year’s graduation.",
+                "slug": "st-joes-open-house-ad",
+                "imgSmall": "print/print-open-house-small.jpg",
+                "imgLarge": "print/print-open-house-large.jpg",
                 "externalLink": "",
-                "alt": "St. Joes 2022 print christmas card",
+                "alt": "St. Joes 2024 open house ad",
                 "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing, Photography, Photo Manipulation",
-                "software": "Adobe InDesign, Adobe Photoshop, Canva"
+                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing",
+                "software": "Canva, Adobe Lightroom"
                 
             }
         ]
