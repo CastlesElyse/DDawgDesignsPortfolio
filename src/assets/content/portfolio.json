@@ -3,6 +3,20 @@
         "header": "Magazines",
         "content": [
             {
+                "title": "TODAY Magazine",
+                "date": "Summer 2024",
+                "description": "Magazine season at Saint Joseph High School…my favorite bi-annual time of year! After several months since our last publication, I spent a lot of time looking through the publications of other institutions to prepare and was itching to put new design techniques into practice. After much hard work, I am extremely proud of this issue and believe it marks how I have progressed as a magazine designer.",
+                "slug": "TODAY-Summer-2024",
+                "imgSmall": "magazine/magazine-today-summer-2024-small.jpg",
+                "imgLarge": "magazine/magazine-today-summer-2024-small.jpg",
+                "externalLink": "https://issuu.com/saintjoesmet/docs/today_magazine_june_2024",
+                "alt": "St. Joes 2022 Summer 2024 TODAY cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Magazine Photography, Photo Processing",
+                "software": "Adobe InDesign, Adobe Lightroom"
+                
+            },
+            {
                 "title": "Annual Report",
                 "date": "2022",
                 "description": "The 2022 Annual Report is a larger-scale magazine that incorporates both the traditional article format, as well as donor information, statistics, and infographics. At a whopping 40 pages, this is my largest magazine project to date! I am also very proud of this project because it marked a shift in my mindset for magazine production, trying to replicate the feel of a collegiate publication more so than my previous works. I not only designed this whole magazine, but also contributed my writing skills to several articles.",
@@ -73,34 +87,6 @@
                 
             },
             {
-                "title": "Admissions Viewbook",
-                "date": "2023",
-                "description": "The 2023 Admissions Viewbook was a project where I was tasked with perfecting the previous year’s publication. I had to go through each spread, determining if it should be updated or completely revamped. Additionally, new admissions processes and programs had to be implemented, resulting in new original spreads. It is used as a sales piece to gather interest in prospective families and present the “Saint Joe’s Experience” to them.",
-                "slug": "Viewbook-2023",
-                "imgSmall": "magazine/Viewbook-2023.png",
-                "imgLarge": "magazine/Viewbook-2023.png",
-                "externalLink": "https://issuu.com/saintjoesmet/docs/2023-24_viewbook_v2_issu_version",
-                "alt": "St. Joes 2023 Admissions Viewbook cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Admissions Viewbook",
-                "date": "2022",
-                "description": "The 2022 Admissions Viewbook, being my second magazine produced during my career, proposed new challenges and concepts to consider. The Viewbook serves the purpose of being the main printed source of information for prospective families. It walks families through the ins and outs of what makes Saint Joseph High School a unique experience and the offerings that are in store. Compared to the TODAY Magazine and Annual Reports, it is more of a sales piece than a traditional article based magazine. I had to take this all into consideration when deciding on which spreads to update from previous years and which ones to recreate entirely. ",
-                "slug": "Viewbook-2022",
-                "imgSmall": "magazine/Viewbook-2022.png",
-                "imgLarge": "magazine/Viewbook-2022.png",
-                "externalLink": "https://stjoesorg.finalsite.com/fs/resource-manager/view/f0f74763-d872-4151-9164-ee430d76bb30",
-                "alt": "St. Joes 2022 Admissions Viewbook cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
                 "title": "Gala Ad Journal",
                 "date": "Fall 2023",
                 "description": "The Green Tie Gala 2023 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. I was responsible for coordinating with donors to see what they wanted in their printed ad. For most ads, I used provided logos to create congratulatory messages from the donor to the honorees of the gala. There were also several pages of original content. I managed this project and saw it through from inception to completion. ",
@@ -109,6 +95,19 @@
                 "imgLarge": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
                 "externalLink": "https://stjoesorg.finalsite.com/fs/resource-manager/view/17483a51-0456-4c7d-bac8-1098bbfa2b48",
                 "alt": "St. Joes 2023 Gala Ad Journal Cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
+                "software": "Canva, Adobe InDesign"
+            },
+            {
+                "title": "Golf Journal",
+                "date": "Summer 2024",
+                "description": "Saint Joseph High School’s Annual Falcon Golf Classic is a major fundraising event, which includes this tribute journal in dedication to our honoree and community partner Withum. For most ads, I coordinated with page sponsors to create tribute ads on their behalf, designing this full booklet to include their ads and other relevant information for the event. It was distributed to all attendees.",
+                "slug": "falcon-golf-classic-journal",
+                "imgSmall": "magazine/magazine-golf-2024-small.jpg",
+                "imgLarge": "magazine/magazine-golf-2024-small.jpg",
+                "externalLink": "https://resources.finalsite.net/images/v1725063846/stjoesorg/rtcnhwy671cvdnyaq4jb/Golf_Classic_AdJournal_2024.pdf",
+                "alt": "St. Joes 2024 Golf Ad Journal Cover",
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
                 "software": "Canva, Adobe InDesign"
