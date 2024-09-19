@@ -519,34 +519,6 @@
                 "software": "Adobe Photoshop"
                 
             },
-            {
-                "title": "SJ Universe",
-                "date": "2022",
-                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
-                "slug": "st-joes-photos-sjuniverse",
-                "imgSmall": "photography/photos-sjuniverse-small.png",
-                "imgLarge": "photography/photos-sjuniverse-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2022 photo sjuniverse",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation, Photo Processing",
-                "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Christmas Card",
-                "date": "2023",
-                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
-                "slug": "st-joes-photos-card",
-                "imgSmall": "photography/photos-christmas-small.png",
-                "imgLarge": "photography/photos-christmas-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 photo christmas card",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation, Photo Processing",
-                "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            }
         ]
     },
     {
@@ -556,7 +528,7 @@
                 "title": "Christmas Card",
                 "date": "2023",
                 "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
-                "slug": "st-joes-photos-card",
+                "slug": "st-joes-photo-manipulation-christmas",
                 "imgSmall": "photo-manipulation/christmas-photo-manipulation-small.jpg",
                 "imgLarge": "photo-manipulation/christmas-photo-manipulation-large.jpg",
                 "externalLink": "",
@@ -570,7 +542,7 @@
                 "title": "Viewbook Cover",
                 "date": "2024",
                 "description": "Every year I look forward to designing our newest viewbook cover because of the artistic challenges that I meet. I often use this opportunity to turn a concept into a full design, such as this year’s marketing theme “Building Men of the Future.” To flesh this out, I used photos from our most recent graduating class as freshman and as seniors to show the progression of young students developing into young men. ",
-                "slug": "st-joes-photos-sjuniverse",
+                "slug": "st-joes-photo-manipulation-viewbook",
                 "imgSmall": "photo-manipulation/viewbook-cover-photo-manipulation-small.jpg",
                 "imgLarge": "photo-manipulation/viewbook-cover-photo-manipulation-large.jpg",
                 "externalLink": "",
@@ -584,7 +556,7 @@
                 "title": "SJ Universe",
                 "date": "2022",
                 "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
-                "slug": "st-joes-photos-sjuniverse",
+                "slug": "st-joes-photo-manipulation-sj-universe",
                 "imgSmall": "photo-manipulation/sj-universe-photo-manipulation-small.jpg",
                 "imgLarge": "photo-manipulation/sj-universe-photo-manipulation-large.jpg",
                 "externalLink": "",
