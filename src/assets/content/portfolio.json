@@ -146,6 +146,25 @@
                 
             },
             {
+                "title": "Campus Store",
+                "date": "2024",
+                "description": "When Saint Joe’s got on TikTok, I started to think of new ways I could promote school content using short form videos. This ad, created to promote the numerous types of merchandise available at the Campus Store, uses this style of videography in a concise and fun way.",
+                "slug": "st-joes-social-campus-store",
+                "imgSmall": "social/store-social-small.jpg",
+                "imgLarge": "social/store-social-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "8WSMEy6PJzI",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "social campus store teaser",
+                "mediaType": "video",
+                "skills": "Videography, Video Editing, Social Media Management",
+                "software": "CapCut"
+                
+            },
+            {
                 "title": "Falcon Spotlight",
                 "date": "2023",
                 "description": "This graphic was the first in a social media series that highlights accomplished students at Saint Joseph High School. It featured Class of 2023 member Mark Gialluisi as one of our star athletes on the baseball team. One of my Advanced Journalism students wrote a feature article on him that went onto our school website (www.stjoes.org), and this graphic was used for social media to promote the article. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter.  ",
@@ -174,6 +193,20 @@
                 
             },
             {
+                "title": "Open House",
+                "date": "2024",
+                "description": "This ad was created to promote the 2024 Saint Joe’s Open House, where we welcome prospective families to experience what we have to offer. It uses a modern design to capture the essence of the event and available opportunities you could receive by attending. It was one part of a larger marketing effort to promote our biggest showcase of the year. ",
+                "slug": "st-joes-social-open-house",
+                "imgSmall": "social/open-house-social-small.jpg",
+                "imgLarge": "social/Open House Ads Social 2024.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2024 open house",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Social Media Management ",
+                "software": "Canva"
+                
+            },
+            {
                 "title": "Prom Post",
                 "date": "2023",
                 "description": "This graphic was created to promote the 2023 senior prom at Saint Joseph High School. This graphic stands out to me because I got to experiment with vector graphics, color, and depth. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
@@ -182,34 +215,6 @@
                 "imgLarge": "social/prom-social-large.png",
                 "externalLink": "",
                 "alt": "St. Joes 2023 social prom",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Social Media Management",
-                "software": "Canva"
-                
-            },
-            {
-                "title": "Giving Tuesday Post",
-                "date": "2023",
-                "description": "This graphic was created to promote the 2023 Giving Tuesday campaign in support of a new weight room, The Barn. It was a part of a series that featured the voices of the students on what a new facility would mean to them. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
-                "slug": "st-joes-social-giving-tuesday",
-                "imgSmall": "social/giving-tuesday-social-small.png",
-                "imgLarge": "social/giving-tuesday-social-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 social giving tuesday",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Social Media Management",
-                "software": "Canva"
-                
-            },
-            {
-                "title": "Facebook Ad",
-                "date": "2022",
-                "description": "This graphic was created as a Facebook ad to get prospective families interested in Saint Joseph High School’s Early Action program. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
-                "slug": "st-joes-social-ad",
-                "imgSmall": "social/facebook-ad-social-small.png",
-                "imgLarge": "social/facebook-ad-social-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2022 social ad",
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Typography Design, Social Media Management",
                 "software": "Canva"
