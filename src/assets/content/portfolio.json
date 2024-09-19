@@ -520,20 +520,6 @@
                 
             },
             {
-                "title": "Ash Wednesday",
-                "date": "2024",
-                "description": "On the morning of Ash Wednesday 2024, Saint Joe’s held a small service where students could receive their ashes to prepare for the Lenten Season. I swung by to capture some photos for our social media, and this photo ended up being used in more of our marketing materials to capture the faith aspect of the student body. ",
-                "slug": "st-joes-photos-basketball",
-                "imgSmall": "photography/photos-ash-wednesday-small.jpg",
-                "imgLarge": "photography/photos-ash-wednesday-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2024 photo ash wednesday",
-                "mediaType": "magazine",
-                "skills": "DSLR Operation (Canon Rebel SL3), Photo Processing, Event Photography",
-                "software": "Adobe Lightroom"
-                
-            },
-            {
                 "title": "Cabaret Performance",
                 "date": "2022",
                 "description": "This photo was taken at the first ever Saint Joe’s Cabaret put on by the Saint Joseph Theatre Company. I photographed the whole event for yearbook and social media purposes, including a shot from a student solo performance.  ",
@@ -545,6 +531,20 @@
                 "mediaType": "magazine",
                 "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
                 "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Ash Wednesday",
+                "date": "2024",
+                "description": "On the morning of Ash Wednesday 2024, Saint Joe’s held a small service where students could receive their ashes to prepare for the Lenten Season. I swung by to capture some photos for our social media, and this photo ended up being used in more of our marketing materials to capture the faith aspect of the student body. ",
+                "slug": "st-joes-photos-ash-wednesday",
+                "imgSmall": "photography/photos-ash-wednesday-small.jpg",
+                "imgLarge": "photography/photos-ash-wednesday-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2024 photo ash wednesday",
+                "mediaType": "magazine",
+                "skills": "DSLR Operation (Canon Rebel SL3), Photo Processing, Event Photography",
+                "software": "Adobe Lightroom"
                 
             }
         ]
