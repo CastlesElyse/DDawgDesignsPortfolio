@@ -88,8 +88,146 @@
         ]
     },
     {
+        "header": "Video Production",
+        "content": [
+            {
+                "title": "NHRL Recap",
+                "date": "2024",
+                "description": "For this video, I wanted to take my editing skills to the next level, putting more of my knowledge of color grading, motion graphics, transitions, and storytelling to the test. Recapping the Break Stuff Robotics team’s travels to Norwalk, Connecticut for the NHRL Competition in September, 2024, it showcases the robot Tokyo Drisk’s journey to a 4-2 record that day. It was used on the Break Stuff Robotics YouTube channel. ",
+                "slug": "video-nhrl-recap",
+                "imgSmall": "video/video-nhrl-small.jpg",
+                "imgLarge": "video/video-nhrl-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "HmStMaq25tQ",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 robotics nhrl recap",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Grading, Motion Graphics, Animation",
+                "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Diable Days Trailer",
+                "date": "2021",
+                "description": "This piece is by far my favorite video I have created due to the fun nature of the topic and the amount of skills I learned from it. For my Magazine Publishing class at RIT, I was tasked with creating a VR magazine experience. I created an article that played this fake movie trailer in VR. I did all of the VFX by hand in Adobe After Effects, trying to replicate a sci-fi/comic book feel. It stars my friends and I, and was one of the last creative projects we worked on together while still in college.  ",
+                "slug": "video-diable-days-trailer",
+                "imgSmall": "video/video-diable-days-small.png",
+                "imgLarge": "video/video-diable-days-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "NTJJ5kAFsMY",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2021 diable days trailer",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading, Asset Management, VFX",
+                "software": "Adobe Premiere Pro, Adobe After Effects"
+                
+            },
+            {
+                "title": "Giving Day Promo",
+                "date": "2024",
+                "description": "For Saint Joe’s Giving Day 2024, I was tasked with turning a script my supervisor wrote into a full fledged video production. I took this as a special challenge, where I tried out many new editing techniques and used new camera equipment to turn my vision into an MP4 file. Specifically, I included more motion graphics that I created in Adobe After Effects to add a new visual flair to this project. I filmed a majority of the clips myself, except for the athletics clips that were filmed by one of our videographers. The photo montage pictures were provided by our contracted photographer. ",
+                "slug": "st-joes-video-giving-day-2024",
+                "imgSmall": "video/video-giving-day-2024-small.png",
+                "imgLarge": "video/video-giving-day-2024-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "h3B7hbDdJLk",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "St. Joes 2024 video giving day",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics, Animation",
+                "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Mass Recap",
+                "date": "2024",
+                "description": "I created this video as a visual recap of Saint Joseph High School’s “Back to School” Mass for the 2024-2025 school year. It was used on our social media platforms where students, parents, alumni, and staff could view it to see how the school comes together as a community for special events.",
+                "slug": "video-mass-recap",
+                "imgSmall": "video/video-mass-2024-small.jpg",
+                "imgLarge": "video/video-mass-2024-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "oN6AKsDBN3w",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 mass recap",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            },
+            {
+                "title": "Robotics Highlights",
+                "date": "2024",
+                "description": "This was a video I created for the Break Stuff Robotics team that I am on. From a regional event at The College of New Jersey, it features highlights and creatives from a 10+ match day of slugfesting from robots Shin Kicker and Tokyo Drisk. Shin Kicker ended up placing second in its weight class. ",
+                "slug": "video-robotics-highlights",
+                "imgSmall": "video/video-robotics-small.png",
+                "imgLarge": "video/video-robotics-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "HzKA4uHFi9c",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 robotics highlights",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            },
+            {
+                "title": "RIT Testimonial",
+                "date": "2021",
+                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
+                "slug": "video-rit-testimonial",
+                "imgSmall": "video/video-testimonial-small.png",
+                "imgLarge": "video/video-testimonial-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "1AuG0piuDbs",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2021 rit testimonial",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
+            }
+        ]
+    },
+    {
         "header": "Social Media",
         "content": [
+            {
+                "title": "Bands Promo",
+                "date": "2024",
+                "description": "Every year, Saint Joe’s hosts a Battle of the Bands competition for student bands from our school and ones in the surrounding area. I filmed the full show in 2023, and used the footage to create this teaser for the 2024 rendition. I experimented a lot with the looks in this piece, especially the colors and textures, using visuals from the indie music/DIY scene as inspiration. ",
+                "slug": "st-joes-social-bands",
+                "imgSmall": "video/video-bands-small.png",
+                "imgLarge": "video/video-bands-small.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "lyKMfJOHEqI",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "St. Joes 2024 video battle of the bands",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Typography Design",
+                "software": "Adobe Premiere Pro"
+                
+            },
             {
                 "title": "Wrestling Post",
                 "date": "2022",
@@ -163,139 +301,6 @@
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Typography Design, Social Media Management ",
                 "software": "Canva"
-                
-            },
-            {
-                "title": "Prom Post",
-                "date": "2023",
-                "description": "This graphic was created to promote the 2023 senior prom at Saint Joseph High School. This graphic stands out to me because I got to experiment with vector graphics, color, and depth. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
-                "slug": "st-joes-social-prom",
-                "imgSmall": "social/prom-social-small.png",
-                "imgLarge": "social/prom-social-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 social prom",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Social Media Management",
-                "software": "Canva"
-                
-            }
-        ]
-    },
-    {
-        "header": "Video Production",
-        "content": [
-            {
-                "title": "Diable Days Trailer",
-                "date": "2021",
-                "description": "This piece is by far my favorite video I have created due to the fun nature of the topic and the amount of skills I learned from it. For my Magazine Publishing class at RIT, I was tasked with creating a VR magazine experience. I created an article that played this fake movie trailer in VR. I did all of the VFX by hand in Adobe After Effects, trying to replicate a sci-fi/comic book feel. It stars my friends and I, and was one of the last creative projects we worked on together while still in college.  ",
-                "slug": "video-diable-days-trailer",
-                "imgSmall": "video/video-diable-days-small.png",
-                "imgLarge": "video/video-diable-days-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "NTJJ5kAFsMY",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2021 diable days trailer",
-                "mediaType": "video",
-                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading, Asset Management, VFX",
-                "software": "Adobe Premiere Pro, Adobe After Effects"
-                
-            },
-            {
-                "title": "Giving Day Promo",
-                "date": "2024",
-                "description": "For Saint Joe’s Giving Day 2024, I was tasked with turning a script my supervisor wrote into a full fledged video production. I took this as a special challenge, where I tried out many new editing techniques and used new camera equipment to turn my vision into an MP4 file. Specifically, I included more motion graphics that I created in Adobe After Effects to add a new visual flair to this project. I filmed a majority of the clips myself, except for the athletics clips that were filmed by one of our videographers. The photo montage pictures were provided by our contracted photographer. ",
-                "slug": "st-joes-video-giving-day-2024",
-                "imgSmall": "video/video-giving-day-2024-small.png",
-                "imgLarge": "video/video-giving-day-2024-small.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "h3B7hbDdJLk",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "St. Joes 2024 video giving day",
-                "mediaType": "video",
-                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics, Animation",
-                "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Mass Recap",
-                "date": "2024",
-                "description": "I created this video as a visual recap of Saint Joseph High School’s “Back to School” Mass for the 2024-2025 school year. It was used on our social media platforms where students, parents, alumni, and staff could view it to see how the school comes together as a community for special events.",
-                "slug": "video-mass-recap",
-                "imgSmall": "video/video-mass-2024-small.jpg",
-                "imgLarge": "video/video-mass-2024-small.jpg",
-                "externalLink": "",
-                "embed": {
-                    "id": "oN6AKsDBN3w",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2024 mass recap",
-                "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Correction/Grading",
-                "software": "Adobe Premiere Pro"
-                
-            },
-            {
-                "title": "Bands Promo",
-                "date": "2024",
-                "description": "Every year, Saint Joe’s hosts a Battle of the Bands competition for student bands from our school and ones in the surrounding area. I filmed the full show in 2023, and used the footage to create this teaser for the 2024 rendition. I experimented a lot with the looks in this piece, especially the colors and textures, using visuals from the indie music/DIY scene as inspiration. ",
-                "slug": "st-joes-video-bands",
-                "imgSmall": "video/video-bands-small.png",
-                "imgLarge": "video/video-bands-small.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "lyKMfJOHEqI",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "St. Joes 2024 video battle of the bands",
-                "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading, Typography Design",
-                "software": "Adobe Premiere Pro"
-                
-            },
-            {
-                "title": "Robotics Highlights",
-                "date": "2024",
-                "description": "This was a video I created for the Break Stuff Robotics team that I am on. From a regional event at The College of New Jersey, it features highlights and creatives from a 10+ match day of slugfesting from robots Shin Kicker and Tokyo Drisk. Shin Kicker ended up placing second in its weight class. ",
-                "slug": "video-robotics-highlights",
-                "imgSmall": "video/video-robotics-small.png",
-                "imgLarge": "video/video-robotics-small.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "HzKA4uHFi9c",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2024 robotics highlights",
-                "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading",
-                "software": "Adobe Premiere Pro"
-                
-            },
-            {
-                "title": "RIT Testimonial",
-                "date": "2021",
-                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
-                "slug": "video-rit-testimonial",
-                "imgSmall": "video/video-testimonial-small.png",
-                "imgLarge": "video/video-testimonial-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "1AuG0piuDbs",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2021 rit testimonial",
-                "mediaType": "video",
-                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
-                "software": "Adobe Premiere Pro"
                 
             }
         ]
