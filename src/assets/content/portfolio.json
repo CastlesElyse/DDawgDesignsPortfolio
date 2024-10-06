@@ -323,6 +323,25 @@
                 
             },
             {
+                "title": "Fight Card",
+                "date": "2024",
+                "description": "This piece is a component of a larger video project, recapping and highlighting Break Stuff Robotics’ matches from the NHRL September 2024 3lb competition. I designed these graphics in Photoshop to showcase which robots Tokyo Drisk would be going against, and animated it in Adobe After Effects. In the full video, it is used as a transition clip between match sections. ",
+                "slug": "motion-graphics-robotics-fight-card",
+                "imgSmall": "motion-graphics/motion-graphics-fight-card-small.jpg",
+                "imgLarge": "motion-graphics/motion-graphics-fight-card-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "A_IAcURqHsM",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "motion graphics break stuff robotics fight card",
+                "mediaType": "video",
+                "skills": "Motion Graphics, Asset Management, Typography Design, Sound Design",
+                "software": "Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
                 "title": "Student Government",
                 "date": "2021",
                 "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used After Effects to animate it. ",
@@ -377,25 +396,6 @@
                 "mediaType": "video",
                 "skills": "Asset Management, Vector Design, Typography Design, Motion Graphics, Sound Design",
                 "software": "Adobe After Effects, Adobe Illustrator"
-                
-            },
-            {
-                "title": "Bowling Champions",
-                "date": "2023",
-                "description": "When the Saint Joseph High School bowling team went undefeated in the 2022-2023 season, I created this motion graphic to promote the team’s legendary season. I took a team video from our media day, edited the assets in Photoshop, and animated the video to create the final piece. ",
-                "slug": "motion-graphics-bowling",
-                "imgSmall": "motion-graphics/motion-graphics-bowling-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-bowling-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "KIm1Rf6MrLM",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2023 st. joes bowling",
-                "mediaType": "video",
-                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Animation, Photo Manipulation",
-                "software": "Adobe Premiere Pro, Adobe Photoshop"
                 
             },
             {
