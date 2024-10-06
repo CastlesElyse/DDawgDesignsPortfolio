@@ -73,20 +73,6 @@
                 
             },
             {
-                "title": "TODAY Magazine",
-                "date": "Summer 2022",
-                "description": "The Summer 2022 Edition of the TODAY Magazine will always hold a special place in my designer’s heart, as it was the first full length magazine I got to design for! In college I had primarily thought of myself as a video editor, but when I joined Saint Joseph High School’s Communications and Marketing team, I was given the opportunity to design all their magazine publications and I fell in love with print media. This first edition presented me with many challenges to overcome, especially having only worked briefly with magazines when I took an elective at RIT dedicated to them. Looking back there are many things I would do differently, but I learned more from this project than potentially anything else I have worked on.",
-                "slug": "TODAY-spring-2022",
-                "imgSmall": "magazine/TODAY-spring-2022.png",
-                "imgLarge": "magazine/TODAY-spring-2022.png",
-                "externalLink": "https://issuu.com/saintjoesmet/docs/june_2022_issue_today_magazine",
-                "alt": "St. Joes Summer 2022 TODAY Magazine cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
                 "title": "Gala Ad Journal",
                 "date": "Fall 2023",
                 "description": "The Green Tie Gala 2023 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. I was responsible for coordinating with donors to see what they wanted in their printed ad. For most ads, I used provided logos to create congratulatory messages from the donor to the honorees of the gala. There were also several pages of original content. I managed this project and saw it through from inception to completion. ",
@@ -98,33 +84,6 @@
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
                 "software": "Canva, Adobe InDesign"
-            },
-            {
-                "title": "Golf Journal",
-                "date": "Summer 2024",
-                "description": "Saint Joseph High School’s Annual Falcon Golf Classic is a major fundraising event, which includes this tribute journal in dedication to our honoree and community partner Withum. For most ads, I coordinated with page sponsors to create tribute ads on their behalf, designing this full booklet to include their ads and other relevant information for the event. It was distributed to all attendees.",
-                "slug": "falcon-golf-classic-journal",
-                "imgSmall": "magazine/magazine-golf-2024-small.jpg",
-                "imgLarge": "magazine/magazine-golf-2024-small.jpg",
-                "externalLink": "https://resources.finalsite.net/images/v1725063846/stjoesorg/rtcnhwy671cvdnyaq4jb/Golf_Classic_AdJournal_2024.pdf",
-                "alt": "St. Joes 2024 Golf Ad Journal Cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Canva, Adobe InDesign"
-            },
-            {
-                "title": "Gala Ad Journal",
-                "date": "Fall 2022",
-                "description": "The Green Tie Gala 2022 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. This project took a lot more “project management”, as I was responsible for connecting with donors who purchased an ad, communicating with them what they were looking for, designing the ad, getting approval, and figuring out a pagination with my supervisor.",
-                "slug": "green-tie-gala-ad-journal-2022",
-                "imgSmall": "magazine/green-tie-gala-ad-journal-2022.png",
-                "imgLarge": "magazine/green-tie-gala-ad-journal-2022.png",
-                "externalLink": "https://stjoesorg.finalsite.com/fs/resource-manager/view/cfba0fe2-e4cf-4cb2-b8b7-a58f1d1314c9",
-                "alt": "St. Joes 2022 Gala Ad Journal Cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Canva, Adobe InDesign"
-                
             }
         ]
     },
