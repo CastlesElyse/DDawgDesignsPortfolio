@@ -21,14 +21,19 @@ const ContentPage = (props: any) => {
 
                 {
                     mediaType === "video" &&
-                    <div id="video-embed">
-                        <YouTube
-                            videoId={data.embed.id}
-                            opts={videoOptions}
-                            onReady={onReady}
-                            className="youtube-embed"
-                        />
+                    <div id="responsive-video-wrapper">
+                        <div id="video-embed">
+                            <div className="video-wrapper">
+                                <YouTube
+                                    videoId={data.embed.id}
+                                    opts={videoOptions}
+                                    onReady={onReady}
+                                    className="youtube-embed"
+                                />
+                            </div>
+                        </div>
                     </div>
+                    
                 }
                 {
                     mediaType !== "video" &&
