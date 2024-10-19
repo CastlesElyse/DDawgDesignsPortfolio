@@ -8,13 +8,23 @@
                 {
                     "subHeader": "Contact Information",
                     "text": [
-                        "Phone: (908) 255-0271 \nEmail: hollenderdylan@gmail.com"
+                        "Phone: (908) 255-0271",
+                        "Email: hollenderdylan@gmail.com"
                     ]
                 },
                 {
                     "subHeader": "Profiles",
                     "text": [
-                        "Portfolio: ddawgdesigns.com \nLinkedIn: https://www.linkedin.com/in/dylan-hollender0a18b9150/"
+                        {
+                            "category": "Portfolio: ",
+                            "string": "DDawgDesigns",
+                            "url": "https://www.ddawgdesigns.com"
+                        },
+                        {
+                            "category": "LinkedIn ",
+                            "string": "Profile",
+                            "url": "https://www.linkedin.com/in/dylan-hollender-0a18b9150/"
+                        }
                     ]
                 },
                 {
@@ -61,7 +71,9 @@
                     ]
                 }
             ]
-        },
+        }
+    ],
+    "skillsBlock" : [
         {
             "header": "Skills",
             "subBlocks": [
