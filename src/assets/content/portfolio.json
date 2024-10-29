@@ -597,19 +597,20 @@
                 
             },
             {
-                "title": "Diable Days Logo",
-                "date": "2023",
-                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
-                "slug": "freelance-vector-diable",
-                "imgSmall": "vector/vector-diable-small.png",
-                "imgLarge": "vector/vector-diable-large.png",
+                "title": "Robotics Sticker",
+                "date": "2024",
+                "description": "When attending combat robotics events with the Break Stuff Robotics team I am on, we like to hand out various stickers and giveaway materials. For this piece, I used the tools available in Adobe Illustrator to create this vector rendition of one of the robots, the 3lb Tokyo Drisk, and had it printed out. Other competitors and spectators visiting the events came by our table and picked one up.",
+                "slug": "freelance-vector-robot-sticker",
+                "imgSmall": "vector/vector-tokyo-small.jpg",
+                "imgLarge": "vector/vector-tokyo-large.png",
                 "externalLink": "",
-                "alt": "freelance 2023 vector diable days",
+                "alt": "freelance 2024 vector robotics sticker",
                 "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
+                "skills": "Vector Design, Illustration",
                 "software": "Adobe Illustrator"
                 
             }
+        ]
         ]
     },
     {
