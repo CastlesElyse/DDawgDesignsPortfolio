@@ -88,7 +88,7 @@
         ]
     },
     {
-        "header": "Vector Logos",
+        "header": "Vector & Logos",
         "content": [
             {
                 "title": "Bar Logo",
@@ -99,20 +99,6 @@
                 "imgLarge": "vector/vector-tavern-v2-large.jpg",
                 "externalLink": "",
                 "alt": "freelance 2023 vector bar",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robotics Logo",
-                "date": "2023",
-                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
-                "slug": "freelance-vector-robotics",
-                "imgSmall": "vector/vector-robotics-small.png",
-                "imgLarge": "vector/vector-robotics-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector robotics",
                 "mediaType": "magazine",
                 "skills": "Logo Design, Vector Design, Typography Design",
                 "software": "Adobe Illustrator"
@@ -131,7 +117,64 @@
                 "skills": "Vector Design, Illustration",
                 "software": "Adobe Illustrator"
                 
+            },
+            {
+                "title": "Robotics Logo",
+                "date": "2023",
+                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
+                "slug": "freelance-vector-robotics",
+                "imgSmall": "vector/vector-robotics-small.png",
+                "imgLarge": "vector/vector-robotics-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector robotics",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Keyframe Heroes Logo",
+                "date": "2020",
+                "description": "Keyframe Heroes was the name of an old animation I made back in middle school. In college, I decided to apply some of my more current design skills to create a logo for it, with the hopes of one day using it on a comic book version of the story I originally envisioned. I wanted to capture the comic book essence by using thick black strokes and a paper texture.  ",
+                "slug": "freelance-logo-keyframe-heroes",
+                "imgSmall": "vector/vector-keyframe-small.jpg",
+                "imgLarge": "vector/vector-keyframe-large.png",
+                "externalLink": "",
+                "alt": "freelance 2020 logo keyframe heroes",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Sci-Fi Logo",
+                "date": "2023",
+                "description": "In 2023 I went on a kick of designing text-based logos for book ideas I had. Once I got the creative juices flowing, I designed this logo for a science fiction series I envisioned called Sands of Kings. It would follow a group of leaders who used fantastic superpowers to explore the galaxy, in a hybrid of science elements and the supernatural. Using elegant gold and purple colors to accompany the sand texture, it can be considered a literal interpretation of the name. ",
+                "slug": "freelance-vector-sands-of-kings",
+                "imgSmall": "vector/vector-sands-small.jpg",
+                "imgLarge": "vector/vector-sands-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector sands of kings",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Diable Days Logo",
+                "date": "2023",
+                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
+                "slug": "freelance-vector-diable",
+                "imgSmall": "vector/vector-diable-small.png",
+                "imgLarge": "vector/vector-diable-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector diable days",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
             }
+
         ]
     },
     {
