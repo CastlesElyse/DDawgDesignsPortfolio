@@ -1,6 +1,6 @@
 [
     {
-        "header": "Magazines",
+        "header": "Magazines & Books",
         "content": [
             {
                 "title": "TODAY Magazine",
@@ -84,6 +84,189 @@
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
                 "software": "Canva, Adobe InDesign"
+            }
+        ]
+    },
+    {
+        "header": "Vector Logos",
+        "content": [
+            {
+                "title": "Bar Logo",
+                "date": "2023",
+                "description": "DDawg’s Sunnyside Tavern is a personal project I took on when I started renovating my basement, turning it into a bar/hangout space for myself and friends that came over. I created the logo to be printed on miscellaneous trinkets, including coasters and napkins. What bar is complete without a cool logo and custom items?  ",
+                "slug": "freelance-vector-bar",
+                "imgSmall": "vector/vector-bar-v2-small.jpg",
+                "imgLarge": "vector/vector-tavern-v2-large.jpg",
+                "externalLink": "",
+                "alt": "freelance 2023 vector bar",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robotics Logo",
+                "date": "2023",
+                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
+                "slug": "freelance-vector-robotics",
+                "imgSmall": "vector/vector-robotics-small.png",
+                "imgLarge": "vector/vector-robotics-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector robotics",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robotics Sticker",
+                "date": "2024",
+                "description": "When attending combat robotics events with the Break Stuff Robotics team I am on, we like to hand out various stickers and giveaway materials. For this piece, I used the tools available in Adobe Illustrator to create this vector rendition of one of the robots, the 3lb Tokyo Drisk, and had it printed out. Other competitors and spectators visiting the events came by our table and picked one up.",
+                "slug": "freelance-vector-robot-sticker",
+                "imgSmall": "vector/vector-tokyo-small.jpg",
+                "imgLarge": "vector/vector-tokyo-large.png",
+                "externalLink": "",
+                "alt": "freelance 2024 vector robotics sticker",
+                "mediaType": "magazine",
+                "skills": "Vector Design, Illustration",
+                "software": "Adobe Illustrator"
+                
+            }
+        ]
+    },
+    {
+        "header": "Photo Manipulation",
+        "content": [
+            {
+                "title": "Christmas Card",
+                "date": "2023",
+                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
+                "slug": "st-joes-photo-manipulation-christmas",
+                "imgSmall": "photo-manipulation/christmas-photo-manipulation-small.jpg",
+                "imgLarge": "photo-manipulation/christmas-photo-manipulation-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2023 photo christmas card",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Viewbook Cover",
+                "date": "2024",
+                "description": "Every year I look forward to designing our newest viewbook cover because of the artistic challenges that I meet. I often use this opportunity to turn a concept into a full design, such as this year’s marketing theme “Building Men of the Future.” To flesh this out, I used photos from our most recent graduating class as freshman and as seniors to show the progression of young students developing into young men. ",
+                "slug": "st-joes-photo-manipulation-viewbook",
+                "imgSmall": "photo-manipulation/viewbook-cover-photo-manipulation-small.jpg",
+                "imgLarge": "photo-manipulation/viewbook-cover-photo-manipulation-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2024 viewbook cover",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "SJ Universe",
+                "date": "2022",
+                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
+                "slug": "st-joes-photo-manipulation-sj-universe",
+                "imgSmall": "photo-manipulation/sj-universe-photo-manipulation-small.jpg",
+                "imgLarge": "photo-manipulation/sj-universe-photo-manipulation-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo sjuniverse",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            }
+        ]
+    },
+    {
+        "header": "Print Projects",
+        "content": [
+            {
+                "title": "Campus Store Ad",
+                "date": "2023",
+                "description": "This ad for the Saint Joseph High School Campus Store was originally created as a page in the Fall 2023 edition of the TODAY Magazine, but has been reused and sometimes reformatted to fit a variety of outputs. Additionally, I took the photos of the store and the beverage accessories. It was very fun to create a design that promoted a wide variety of products sold at the store! ",
+                "slug": "st-joes-print-store",
+                "imgSmall": "print/print-campus-store-small.png",
+                "imgLarge": "print/print-campus-store-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print campus store ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Magazine Editing, Magazine Layouts, DSLR Operation (Canon Rebel SL3), Photo Processing, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Socks Campaign Postcard",
+                "date": "2023",
+                "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
+                "slug": "st-joes-print-socks",
+                "imgSmall": "print/print-socks-small.png",
+                "imgLarge": "print/print-socks-large-v2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print socks campaign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Golf Classic Postcard",
+                "date": "2024",
+                "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
+                "slug": "st-joes-print-golf-card",
+                "imgSmall": "print/print-golf-std-small-v2.png",
+                "imgLarge": "print/print-golf-std-large-v2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print golf postcard",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Golf Classic Flyer",
+                "date": "2023",
+                "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
+                "slug": "st-joes-print-golf-flyer",
+                "imgSmall": "print/print-golf-flyer-small.png",
+                "imgLarge": "print/print-golf-flyer-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print golf flyer",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Gala Magnet Mailer",
+                "date": "2024",
+                "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
+                "slug": "st-joes-print-gala-magnet",
+                "imgSmall": "print/print-gala-smallv4.png",
+                "imgLarge": "print/print-gala-large-v2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print gala magnet",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Open House Ad",
+                "date": "2024",
+                "description": "Throughout the academic year at Saint Joe’s, I often create ads designed for print in local magazines, newspapers, and community publications. In the Fall of 2024 I edited this ad for our upcoming open house, telling the story of the school using the year’s “Building Men of the Future” marketing campaign branding. I also took the photo used at the previous year’s graduation.",
+                "slug": "st-joes-open-house-ad",
+                "imgSmall": "print/print-open-house-small.jpg",
+                "imgLarge": "print/print-open-house-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2024 open house ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing",
+                "software": "Canva, Adobe Lightroom"
+                
             }
         ]
     },
@@ -514,189 +697,6 @@
                 "mediaType": "magazine",
                 "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
                 "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            }
-        ]
-    },
-    {
-        "header": "Photo Manipulation",
-        "content": [
-            {
-                "title": "Christmas Card",
-                "date": "2023",
-                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
-                "slug": "st-joes-photo-manipulation-christmas",
-                "imgSmall": "photo-manipulation/christmas-photo-manipulation-small.jpg",
-                "imgLarge": "photo-manipulation/christmas-photo-manipulation-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2023 photo christmas card",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation, Photo Processing",
-                "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Viewbook Cover",
-                "date": "2024",
-                "description": "Every year I look forward to designing our newest viewbook cover because of the artistic challenges that I meet. I often use this opportunity to turn a concept into a full design, such as this year’s marketing theme “Building Men of the Future.” To flesh this out, I used photos from our most recent graduating class as freshman and as seniors to show the progression of young students developing into young men. ",
-                "slug": "st-joes-photo-manipulation-viewbook",
-                "imgSmall": "photo-manipulation/viewbook-cover-photo-manipulation-small.jpg",
-                "imgLarge": "photo-manipulation/viewbook-cover-photo-manipulation-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2024 viewbook cover",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "SJ Universe",
-                "date": "2022",
-                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
-                "slug": "st-joes-photo-manipulation-sj-universe",
-                "imgSmall": "photo-manipulation/sj-universe-photo-manipulation-small.jpg",
-                "imgLarge": "photo-manipulation/sj-universe-photo-manipulation-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2022 photo sjuniverse",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation, Photo Processing",
-                "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            }
-        ]
-    },
-    {
-        "header": "Vector Design",
-        "content": [
-            {
-                "title": "Bar Logo",
-                "date": "2023",
-                "description": "DDawg’s Sunnyside Tavern is a personal project I took on when I started renovating my basement, turning it into a bar/hangout space for myself and friends that came over. I created the logo to be printed on miscellaneous trinkets, including coasters and napkins. What bar is complete without a cool logo and custom items?  ",
-                "slug": "freelance-vector-bar",
-                "imgSmall": "vector/vector-bar-v2-small.jpg",
-                "imgLarge": "vector/vector-tavern-v2-large.jpg",
-                "externalLink": "",
-                "alt": "freelance 2023 vector bar",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robotics Logo",
-                "date": "2023",
-                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
-                "slug": "freelance-vector-robotics",
-                "imgSmall": "vector/vector-robotics-small.png",
-                "imgLarge": "vector/vector-robotics-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector robotics",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robotics Sticker",
-                "date": "2024",
-                "description": "When attending combat robotics events with the Break Stuff Robotics team I am on, we like to hand out various stickers and giveaway materials. For this piece, I used the tools available in Adobe Illustrator to create this vector rendition of one of the robots, the 3lb Tokyo Drisk, and had it printed out. Other competitors and spectators visiting the events came by our table and picked one up.",
-                "slug": "freelance-vector-robot-sticker",
-                "imgSmall": "vector/vector-tokyo-small.jpg",
-                "imgLarge": "vector/vector-tokyo-large.png",
-                "externalLink": "",
-                "alt": "freelance 2024 vector robotics sticker",
-                "mediaType": "magazine",
-                "skills": "Vector Design, Illustration",
-                "software": "Adobe Illustrator"
-                
-            }
-        ]
-    },
-    {
-        "header": "Print Projects",
-        "content": [
-            {
-                "title": "Campus Store Ad",
-                "date": "2023",
-                "description": "This ad for the Saint Joseph High School Campus Store was originally created as a page in the Fall 2023 edition of the TODAY Magazine, but has been reused and sometimes reformatted to fit a variety of outputs. Additionally, I took the photos of the store and the beverage accessories. It was very fun to create a design that promoted a wide variety of products sold at the store! ",
-                "slug": "st-joes-print-store",
-                "imgSmall": "print/print-campus-store-small.png",
-                "imgLarge": "print/print-campus-store-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 print campus store ad",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, Magazine Editing, Magazine Layouts, DSLR Operation (Canon Rebel SL3), Photo Processing, Photo Manipulation",
-                "software": "Adobe InDesign, Adobe Lightroom, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Socks Campaign Postcard",
-                "date": "2023",
-                "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
-                "slug": "st-joes-print-socks",
-                "imgSmall": "print/print-socks-small.png",
-                "imgLarge": "print/print-socks-large-v2.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 print socks campaign",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Golf Classic Postcard",
-                "date": "2024",
-                "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
-                "slug": "st-joes-print-golf-card",
-                "imgSmall": "print/print-golf-std-small-v2.png",
-                "imgLarge": "print/print-golf-std-large-v2.png",
-                "externalLink": "",
-                "alt": "St. Joes 2024 print golf postcard",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, Photo Manipulation",
-                "software": "Adobe InDesign, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Golf Classic Flyer",
-                "date": "2023",
-                "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
-                "slug": "st-joes-print-golf-flyer",
-                "imgSmall": "print/print-golf-flyer-small.png",
-                "imgLarge": "print/print-golf-flyer-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 print golf flyer",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Gala Magnet Mailer",
-                "date": "2024",
-                "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
-                "slug": "st-joes-print-gala-magnet",
-                "imgSmall": "print/print-gala-smallv4.png",
-                "imgLarge": "print/print-gala-large-v2.png",
-                "externalLink": "",
-                "alt": "St. Joes 2024 print gala magnet",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Open House Ad",
-                "date": "2024",
-                "description": "Throughout the academic year at Saint Joe’s, I often create ads designed for print in local magazines, newspapers, and community publications. In the Fall of 2024 I edited this ad for our upcoming open house, telling the story of the school using the year’s “Building Men of the Future” marketing campaign branding. I also took the photo used at the previous year’s graduation.",
-                "slug": "st-joes-open-house-ad",
-                "imgSmall": "print/print-open-house-small.jpg",
-                "imgLarge": "print/print-open-house-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2024 open house ad",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing",
-                "software": "Canva, Adobe Lightroom"
                 
             }
         ]
