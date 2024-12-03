@@ -3,6 +3,27 @@
         "header": "Magazines & Books",
         "content": [
             {
+                "title": "Nodecrazed Book",
+                "date": "2024",
+                "description": "My fantasy prose zine, “Except If You Are Nodecrazed”, is by far my proudest work. Written under my pen name, I drafted a short story about a lowly psychic Nodecrazed who explores the world inside the mind of a godlike being called “The Node.” For this process, I wrote and revised the story in Google Docs, drew the cover artwork in Photoshop, created imprint logos in Illustrator, and assembled everything in InDesign. This project took some time but I could not be more excited to have it as a reality. I am actively working on more stories in this universe.
+
+ALL ARE BORN EQUAL, EXCEPT IF YOU ARE NODECRAZED.
+
+No matter where they find themselves in the vastness of the Undying Network, the Nodecrazed see nothing but strife due to their psychic connection to one another and the worlds they find themselves in. Decimal, a Nodecrazed outside the walls of Ageless Earth’s largest civilization, struggles to carry out his wider purpose in the Great Plan when he comes face to face with an impossible decision that could completely redefine his entire sense of identity.
+
+Miniscule Moments of the Undying Network is a series of stories that tells the tales of a wide array of characters in the grander scheme of the Network’s infinity, focused on the evolution of the world within the mind of the Node known as Ageless Earth.
+",
+                "slug": "Book-Nodecrazed",
+                "imgSmall": "illustration/nodecrazed-small.jpg",
+                "imgLarge": "illustration/nodecrazed-large.jpg",
+                "externalLink": "https://issuu.com/magnaflashstudios/docs/except_if_you_are_nodecrazed",
+                "alt": "Fantasy Book Nodecrazed",
+                "mediaType": "magazine",
+                "skills": "Creative Writing, Graphic Design, Layout Design, Typography Design, Print Production, Logo Design, Illustration",
+                "software": "Adobe InDesign, Adobe Photoshop, Adobe Illustrator, Google Docs"
+                
+            },
+            {
                 "title": "TODAY Magazine",
                 "date": "Summer 2024",
                 "description": "Magazine season at Saint Joseph High School…my favorite bi-annual time of year! After several months since our last publication, I spent a lot of time looking through the publications of other institutions to prepare and was itching to put new design techniques into practice. After much hard work, I am extremely proud of this issue and believe it marks how I have progressed as a magazine designer.",
@@ -71,19 +92,6 @@
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
                 "software": "Adobe InDesign"
                 
-            },
-            {
-                "title": "Gala Ad Journal",
-                "date": "Fall 2023",
-                "description": "The Green Tie Gala 2023 Ad Journal is a print publication that features the ads and messages of Saint Joseph High School’s donors at our annual fundraising gala. I was responsible for coordinating with donors to see what they wanted in their printed ad. For most ads, I used provided logos to create congratulatory messages from the donor to the honorees of the gala. There were also several pages of original content. I managed this project and saw it through from inception to completion. ",
-                "slug": "green-tie-gala-ad-journal-2023",
-                "imgSmall": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
-                "imgLarge": "magazine/Green-Tie-Gala-Ad-Journal-2023.png",
-                "externalLink": "https://stjoesorg.finalsite.com/fs/resource-manager/view/17483a51-0456-4c7d-bac8-1098bbfa2b48",
-                "alt": "St. Joes 2023 Gala Ad Journal Cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Canva, Adobe InDesign"
             }
         ]
     },
