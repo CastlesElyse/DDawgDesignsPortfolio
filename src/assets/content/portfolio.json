@@ -135,6 +135,95 @@
         ]
     },
     {
+        "header": "Illustration",
+        "content": [
+            {
+                "title": "Fantasy Cover",
+                "date": "2024",
+                "description": "As I grew into adulthood, I wanted to rekindle my love of writing by creating a fantasy prose zine, entitled “Except If You Are Nodecrazed” which I wrote, designed, and had ordered from an online print vendor. It follows a lowly psychic “Nodecrazed” who explores the vast world within the mind of a godlike creature known as “The Node.” I drew the cover in Adobe Photoshop and have loved sharing it with my like-minded book lovers! ",
+                "slug": "illustration-fantasy-cover",
+                "imgSmall": "illustration/nodecrazed-small.jpg",
+                "imgLarge": "illustration/nodecrazed-large.jpg",
+                "externalLink": "",
+                "alt": "2024 illustration fantasy zine cover",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design, Print Production",
+                "software": "Adobe Photoshop, Adobe InDesign"
+                
+            },
+            {
+                "title": "God Emperor",
+                "date": "2024",
+                "description": "As an avid reader, one of my favorite novel series of all time is Frank Herbert’s Dune, particularly the fourth entry God Emperor of Dune. As I practiced my illustration skills more, I wanted to create my own rendition of the half-human, half-sandworm main character, Leto Atreides II. I spent a lot of time learning digital painting techniques in Adobe Photoshop to create this piece, and I am happy to have prepared it for print to hang up! One of my favorite parts about reading is seeing what I and my fellow book lovers come up with translating words into art.  ",
+                "slug": "illustration-god-emperor",
+                "imgSmall": "illustration/godemperor-small.jpg",
+                "imgLarge": "illustration/godemperor-large.jpg",
+                "externalLink": "",
+                "alt": "2024 illustration god emperor of dune",
+                "mediaType": "magazine",
+                "skills": "Illustration, Print Production",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Luffy Fan Art",
+                "date": "2023",
+                "description": "Reading manga is one of my favorite activities, and many volumes have inspired me to pursue my own renditions of fan art. I drew this piece in Adobe Photoshop around the time when Monkey D. Luffy of One Piece unlocked a new form that took the manga community by storm. I also enjoyed adding a graphic design touch to it with the layering of typography in the background. ",
+                "slug": "illustration-one-piece",
+                "imgSmall": "illustration/luffy-small.jpg",
+                "imgLarge": "illustration/luffy-large.jpg",
+                "externalLink": "",
+                "alt": "2024 illustration one piece fan art",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "The Bird Poster",
+                "date": "2023",
+                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, The Bird, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
+                "slug": "illustration-the-bird",
+                "imgSmall": "illustration/illustration-bird-small.png",
+                "imgLarge": "illustration/illustration-bird-large.png",
+                "externalLink": "",
+                "alt": "2023 illustration diable days the bird",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop, Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robe-RT Poster",
+                "date": "2023",
+                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Robe-RT, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
+                "slug": "illustration-robe-rt",
+                "imgSmall": "illustration/illustration-robe-rt-small.png",
+                "imgLarge": "illustration/illustration-robe-rt-large.png",
+                "externalLink": "",
+                "alt": "2023 illustration diable days robe-rt",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop, Adobe Illustrator"
+                
+            },
+            {
+                "title": "Hooch Poster",
+                "date": "2023",
+                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Hooch, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
+                "slug": "illustration-hooch",
+                "imgSmall": "illustration/illustration-hooch-small.png",
+                "imgLarge": "illustration/illustration-hooch-large.png",
+                "externalLink": "",
+                "alt": "2023 illustration diable days hooch",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop, Adobe Illustrator"
+                
+            }
+        ]
+    },
+    {
         "header": "Photo Manipulation",
         "content": [
             {
