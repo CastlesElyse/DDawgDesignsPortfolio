@@ -47,8 +47,7 @@ const ResumePage = () => {
                     ))}
                 </div>
             </div>
-            <a id="resume-button" href="Dylan-Hollender-Resume-2023.pdf" download="Dylan-Hollender-Resume-2023.pdf">Download Resume</a>
-            <p id="resume-ref">For a List of References, please email hollenderdylan@gmail.com</p>
+            <a id="resume-button" href="Dylan-Hollender-Resume-2024.pdf" download="Dylan-Hollender-Resume-2024.pdf">Download Resume</a>
         </div>
     )
 }
