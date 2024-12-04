@@ -47,7 +47,7 @@ const ResumePage = () => {
                     ))}
                 </div>
             </div>
-            <a id="resume-button" href="https://drive.google.com/file/d/1Yz7t2fpPqeB4m7M6iIiZzdj1P2LLhcGp/view?usp=sharing">Download Resume</a>
+            <a id="resume-button" href="https://drive.google.com/file/d/1Yw3EpkRIEGSbKrJRjr2zQ7NsYl_rXAOc/view?usp=sharing">Download Resume</a>
         </div>
     )
 }
