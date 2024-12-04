@@ -93,7 +93,7 @@ const ResumePage = () => {
                     ))}
                 </div>
             </div>
-            <a id="resume-button" href="Dylan-Hollender-Resume-2024.pdf" download="Dylan-Hollender-Resume-2024.pdf">Download Resume</a>
+            <a id="resume-button" href="Dylan-Hollender-Resume.pdf" download="Dylan-Hollender-Resume.pdf">Download Resume</a>
         </div>
     )
 }
