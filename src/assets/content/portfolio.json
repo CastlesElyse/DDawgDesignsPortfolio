@@ -92,6 +92,25 @@
         "header": "Video Production",
         "content": [
             {
+                "title": "Demo Reel",
+                "date": "2024",
+                "description": "Editing, filming, designing, and exporting…you name it, I do it! My 2024 demo reel is the culmination of all my years as a videographer, edition, motion artist, and more. Trying to compile all of my best work into 60 seconds was no easy feat, but it showcases my talents with a camera in a way that no other video can. Looking back on everything I have done as I edited this together was definitely one of my proudest moments as a creatively driven individual.",
+                "slug": "video-demo-reel-2024",
+                "imgSmall": "video/video-demo-reel-small.jpg",
+                "imgLarge": "video/video-demo-reel-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "alTrRsMfJ4M",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 demo reel",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Production Management, Videography, Video Editing, Sound Design, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics",
+                "software": "Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
                 "title": "NHRL Recap",
                 "date": "2024",
                 "description": "For this video, I wanted to take my editing skills to the next level, putting more of my knowledge of color grading, motion graphics, transitions, and storytelling to the test. Recapping the Break Stuff Robotics team’s travels to Norwalk, Connecticut for the NHRL Competition in September, 2024, it showcases the robot Tokyo Drisk’s journey to a 4-2 record that day. It was used on the Break Stuff Robotics YouTube channel. ",
@@ -108,25 +127,6 @@
                 "mediaType": "video",
                 "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Grading, Motion Graphics, Animation",
                 "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Diable Days Trailer",
-                "date": "2021",
-                "description": "This piece is by far my favorite video I have created due to the fun nature of the topic and the amount of skills I learned from it. For my Magazine Publishing class at RIT, I was tasked with creating a VR magazine experience. I created an article that played this fake movie trailer in VR. I did all of the VFX by hand in Adobe After Effects, trying to replicate a sci-fi/comic book feel. It stars my friends and I, and was one of the last creative projects we worked on together while still in college.  ",
-                "slug": "video-diable-days-trailer",
-                "imgSmall": "video/video-diable-days-small.png",
-                "imgLarge": "video/video-diable-days-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "NTJJ5kAFsMY",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2021 diable days trailer",
-                "mediaType": "video",
-                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading, Asset Management, VFX",
-                "software": "Adobe Premiere Pro, Adobe After Effects"
                 
             },
             {
@@ -315,6 +315,25 @@
         "header": "Motion Graphics",
         "content": [
             {
+                "title": "Demo Reel",
+                "date": "2024",
+                "description": "Editing, filming, designing, and exporting…you name it, I do it! My 2024 demo reel is the culmination of all my years as a videographer, edition, motion artist, and more. Trying to compile all of my best work into 60 seconds was no easy feat, but it showcases my talents with a camera in a way that no other video can. Looking back on everything I have done as I edited this together was definitely one of my proudest moments as a creatively driven individual.",
+                "slug": "motiongraphics-demo-reel-2024",
+                "imgSmall": "video/video-demo-reel-small.jpg",
+                "imgLarge": "video/video-demo-reel-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "alTrRsMfJ4M",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2024 demo reel",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Production Management, Videography, Video Editing, Sound Design, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics",
+                "software": "Adobe After Effects, Adobe Photoshop"
+                
+            },
+            {
                 "title": "Sports Report Intro",
                 "date": "2024",
                 "description": "This was a project I took on based on a very vivid idea I had when working with our Winter Media Day photos. I cropped all the images out in Photoshop and used After Effects to create a 3D space with all the assets to simulate a studio space. This project was a ton of fun because of how much I learned about the After Effects animation process. I was even able to take photos around campus, such as the gym floor, to include in the 3D space. I plan on using this as an animated intro for a series on our social media. ",
@@ -407,25 +426,6 @@
                 "mediaType": "video",
                 "skills": "Asset Management, Vector Design, Typography Design, Motion Graphics, Sound Design",
                 "software": "Adobe After Effects, Adobe Illustrator"
-                
-            },
-            {
-                "title": "Falcon Score Report",
-                "date": "2023",
-                "description": "For Saint Joseph High School’s Spring Media Day 2023, we brought in a professional sports videographer to get clips of the athletes. Throughout the season I used these clips in the Falcon Score Reports to recap the previous day’s athletics scores on social media. It can be seen on @stjoesmetuchen on Instagram, Facebook, and Twitter. ",
-                "slug": "motion-graphics-report",
-                "imgSmall": "motion-graphics/motion-graphics-report-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-report-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "aA0krL3aQrY",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2023 st. joes falcon score report",
-                "mediaType": "video",
-                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics",
-                "software": "Adobe Premiere Pro"
                 
             }
         ]
