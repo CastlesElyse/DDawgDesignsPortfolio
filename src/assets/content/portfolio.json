@@ -89,321 +89,6 @@
         ]
     },
     {
-        "header": "Vector & Logos",
-        "content": [
-            {
-                "title": "Bar Logo",
-                "date": "2023",
-                "description": "DDawg’s Sunnyside Tavern is a personal project I took on when I started renovating my basement, turning it into a bar/hangout space for myself and friends that came over. I created the logo to be printed on miscellaneous trinkets, including coasters and napkins. What bar is complete without a cool logo and custom items?  ",
-                "slug": "freelance-vector-bar",
-                "imgSmall": "vector/vector-bar-v2-small.jpg",
-                "imgLarge": "vector/vector-tavern-v2-large.jpg",
-                "externalLink": "",
-                "alt": "freelance 2023 vector bar",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robotics Sticker",
-                "date": "2024",
-                "description": "When attending combat robotics events with the Break Stuff Robotics team I am on, we like to hand out various stickers and giveaway materials. For this piece, I used the tools available in Adobe Illustrator to create this vector rendition of one of the robots, the 3lb Tokyo Drisk, and had it printed out. Other competitors and spectators visiting the events came by our table and picked one up.",
-                "slug": "freelance-vector-robot-sticker",
-                "imgSmall": "vector/vector-tokyo-small.jpg",
-                "imgLarge": "vector/vector-tokyo-large.png",
-                "externalLink": "",
-                "alt": "freelance 2024 vector robotics sticker",
-                "mediaType": "magazine",
-                "skills": "Vector Design, Illustration",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robotics Logo",
-                "date": "2023",
-                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
-                "slug": "freelance-vector-robotics",
-                "imgSmall": "vector/vector-robotics-small.png",
-                "imgLarge": "vector/vector-robotics-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector robotics",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Keyframe Heroes Logo",
-                "date": "2020",
-                "description": "Keyframe Heroes was the name of an old animation I made back in middle school. In college, I decided to apply some of my more current design skills to create a logo for it, with the hopes of one day using it on a comic book version of the story I originally envisioned. I wanted to capture the comic book essence by using thick black strokes and a paper texture.  ",
-                "slug": "freelance-logo-keyframe-heroes",
-                "imgSmall": "vector/vector-keyframe-small.jpg",
-                "imgLarge": "vector/vector-keyframe-large.png",
-                "externalLink": "",
-                "alt": "freelance 2020 logo keyframe heroes",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "Sci-Fi Logo",
-                "date": "2023",
-                "description": "In 2023 I went on a kick of designing text-based logos for book ideas I had. Once I got the creative juices flowing, I designed this logo for a science fiction series I envisioned called Sands of Kings. It would follow a group of leaders who used fantastic superpowers to explore the galaxy, in a hybrid of science elements and the supernatural. Using elegant gold and purple colors to accompany the sand texture, it can be considered a literal interpretation of the name. ",
-                "slug": "freelance-vector-sands-of-kings",
-                "imgSmall": "vector/vector-sands-small.jpg",
-                "imgLarge": "vector/vector-sands-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector sands of kings",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Diable Days Logo",
-                "date": "2023",
-                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
-                "slug": "freelance-vector-diable",
-                "imgSmall": "vector/vector-diable-small.png",
-                "imgLarge": "vector/vector-diable-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector diable days",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            }
-
-        ]
-    },
-    {
-        "header": "Illustration",
-        "content": [
-            {
-                "title": "Fantasy Cover",
-                "date": "2024",
-                "description": "As I grew into adulthood, I wanted to rekindle my love of writing by creating a fantasy prose zine, entitled “Except If You Are Nodecrazed” which I wrote, designed, and had ordered from an online print vendor. It follows a lowly psychic “Nodecrazed” who explores the vast world within the mind of a godlike creature known as “The Node.” I drew the cover in Adobe Photoshop and have loved sharing it with my like-minded book lovers! ",
-                "slug": "illustration-fantasy-cover",
-                "imgSmall": "illustration/nodecrazed-small.jpg",
-                "imgLarge": "illustration/nodecrazed-large.jpg",
-                "externalLink": "",
-                "alt": "2024 illustration fantasy zine cover",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design, Print Production",
-                "software": "Adobe Photoshop, Adobe InDesign"
-                
-            },
-            {
-                "title": "God Emperor",
-                "date": "2024",
-                "description": "As an avid reader, one of my favorite novel series of all time is Frank Herbert’s Dune, particularly the fourth entry God Emperor of Dune. As I practiced my illustration skills more, I wanted to create my own rendition of the half-human, half-sandworm main character, Leto Atreides II. I spent a lot of time learning digital painting techniques in Adobe Photoshop to create this piece, and I am happy to have prepared it for print to hang up! One of my favorite parts about reading is seeing what I and my fellow book lovers come up with translating words into art.  ",
-                "slug": "illustration-god-emperor",
-                "imgSmall": "illustration/god-emperor-small.jpg",
-                "imgLarge": "illustration/god-emperor-large.jpg",
-                "externalLink": "",
-                "alt": "2024 illustration god emperor of dune",
-                "mediaType": "magazine",
-                "skills": "Illustration, Print Production",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "Luffy Fan Art",
-                "date": "2023",
-                "description": "Reading manga is one of my favorite activities, and many volumes have inspired me to pursue my own renditions of fan art. I drew this piece in Adobe Photoshop around the time when Monkey D. Luffy of One Piece unlocked a new form that took the manga community by storm. I also enjoyed adding a graphic design touch to it with the layering of typography in the background. ",
-                "slug": "illustration-one-piece",
-                "imgSmall": "illustration/luffy-small.jpg",
-                "imgLarge": "illustration/luffy-large.jpg",
-                "externalLink": "",
-                "alt": "2024 illustration one piece fan art",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "The Bird Poster",
-                "date": "2023",
-                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, The Bird, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
-                "slug": "illustration-the-bird",
-                "imgSmall": "illustration/illustration-bird-small.png",
-                "imgLarge": "illustration/illustration-bird-large.png",
-                "externalLink": "",
-                "alt": "2023 illustration diable days the bird",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop, Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robe-RT Poster",
-                "date": "2023",
-                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Robe-RT, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
-                "slug": "illustration-robe-rt",
-                "imgSmall": "illustration/illustration-robe-rt-small.png",
-                "imgLarge": "illustration/illustration-robe-rt-large.png",
-                "externalLink": "",
-                "alt": "2023 illustration diable days robe-rt",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop, Adobe Illustrator"
-                
-            },
-            {
-                "title": "Hooch Poster",
-                "date": "2023",
-                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Hooch, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
-                "slug": "illustration-hooch",
-                "imgSmall": "illustration/illustration-hooch-small.png",
-                "imgLarge": "illustration/illustration-hooch-large.png",
-                "externalLink": "",
-                "alt": "2023 illustration diable days hooch",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop, Adobe Illustrator"
-                
-            }
-        ]
-    },
-    {
-        "header": "Photo Manipulation",
-        "content": [
-            {
-                "title": "Christmas Card",
-                "date": "2023",
-                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
-                "slug": "st-joes-photo-manipulation-christmas",
-                "imgSmall": "photo-manipulation/christmas-photo-manipulation-small.jpg",
-                "imgLarge": "photo-manipulation/christmas-photo-manipulation-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2023 photo christmas card",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation, Photo Processing",
-                "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Viewbook Cover",
-                "date": "2024",
-                "description": "Every year I look forward to designing our newest viewbook cover because of the artistic challenges that I meet. I often use this opportunity to turn a concept into a full design, such as this year’s marketing theme “Building Men of the Future.” To flesh this out, I used photos from our most recent graduating class as freshman and as seniors to show the progression of young students developing into young men. ",
-                "slug": "st-joes-photo-manipulation-viewbook",
-                "imgSmall": "photo-manipulation/viewbook-cover-photo-manipulation-small.jpg",
-                "imgLarge": "photo-manipulation/viewbook-cover-photo-manipulation-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2024 viewbook cover",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "SJ Universe",
-                "date": "2022",
-                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
-                "slug": "st-joes-photo-manipulation-sj-universe",
-                "imgSmall": "photo-manipulation/sj-universe-photo-manipulation-small.jpg",
-                "imgLarge": "photo-manipulation/sj-universe-photo-manipulation-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2022 photo sjuniverse",
-                "mediaType": "magazine",
-                "skills": "Photo Manipulation, Photo Processing",
-                "software": "Adobe Lightroom, Adobe Photoshop"
-                
-            }
-        ]
-    },
-    {
-        "header": "Print Projects",
-        "content": [
-            {
-                "title": "Campus Store Ad",
-                "date": "2023",
-                "description": "This ad for the Saint Joseph High School Campus Store was originally created as a page in the Fall 2023 edition of the TODAY Magazine, but has been reused and sometimes reformatted to fit a variety of outputs. Additionally, I took the photos of the store and the beverage accessories. It was very fun to create a design that promoted a wide variety of products sold at the store! ",
-                "slug": "st-joes-print-store",
-                "imgSmall": "print/print-campus-store-small.png",
-                "imgLarge": "print/print-campus-store-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 print campus store ad",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, Magazine Editing, Magazine Layouts, DSLR Operation (Canon Rebel SL3), Photo Processing, Photo Manipulation",
-                "software": "Adobe InDesign, Adobe Lightroom, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Socks Campaign Postcard",
-                "date": "2023",
-                "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
-                "slug": "st-joes-print-socks",
-                "imgSmall": "print/print-socks-small.png",
-                "imgLarge": "print/print-socks-large-v2.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 print socks campaign",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Golf Classic Postcard",
-                "date": "2024",
-                "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
-                "slug": "st-joes-print-golf-card",
-                "imgSmall": "print/print-golf-std-small-v2.png",
-                "imgLarge": "print/print-golf-std-large-v2.png",
-                "externalLink": "",
-                "alt": "St. Joes 2024 print golf postcard",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, Photo Manipulation",
-                "software": "Adobe InDesign, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Golf Classic Flyer",
-                "date": "2023",
-                "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
-                "slug": "st-joes-print-golf-flyer",
-                "imgSmall": "print/print-golf-flyer-small.png",
-                "imgLarge": "print/print-golf-flyer-large.png",
-                "externalLink": "",
-                "alt": "St. Joes 2023 print golf flyer",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Gala Magnet Mailer",
-                "date": "2024",
-                "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
-                "slug": "st-joes-print-gala-magnet",
-                "imgSmall": "print/print-gala-smallv4.png",
-                "imgLarge": "print/print-gala-large-v2.png",
-                "externalLink": "",
-                "alt": "St. Joes 2024 print gala magnet",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production",
-                "software": "Adobe InDesign"
-                
-            },
-            {
-                "title": "Open House Ad",
-                "date": "2024",
-                "description": "Throughout the academic year at Saint Joe’s, I often create ads designed for print in local magazines, newspapers, and community publications. In the Fall of 2024 I edited this ad for our upcoming open house, telling the story of the school using the year’s “Building Men of the Future” marketing campaign branding. I also took the photo used at the previous year’s graduation.",
-                "slug": "st-joes-open-house-ad",
-                "imgSmall": "print/print-open-house-small.jpg",
-                "imgLarge": "print/print-open-house-large.jpg",
-                "externalLink": "",
-                "alt": "St. Joes 2024 open house ad",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing",
-                "software": "Canva, Adobe Lightroom"
-                
-            }
-        ]
-    },
-    {
         "header": "Video Production",
         "content": [
             {
@@ -746,6 +431,53 @@
         ]
     },
     {
+        "header": "Photo Manipulation",
+        "content": [
+            {
+                "title": "Christmas Card",
+                "date": "2023",
+                "description": "The cover of the Saint Joseph High School 2023 Christmas card was a really fun project to work on. I was asked to take a summertime photo from a freelance photographer and make it fit the winter-time feel and radiance of a Christmas display. Through numerous editing techniques and revisions, the final image captures the Christmas spirit in an entirely new experience. ",
+                "slug": "st-joes-photo-manipulation-christmas",
+                "imgSmall": "photo-manipulation/christmas-photo-manipulation-small.jpg",
+                "imgLarge": "photo-manipulation/christmas-photo-manipulation-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2023 photo christmas card",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Viewbook Cover",
+                "date": "2024",
+                "description": "Every year I look forward to designing our newest viewbook cover because of the artistic challenges that I meet. I often use this opportunity to turn a concept into a full design, such as this year’s marketing theme “Building Men of the Future.” To flesh this out, I used photos from our most recent graduating class as freshman and as seniors to show the progression of young students developing into young men. ",
+                "slug": "st-joes-photo-manipulation-viewbook",
+                "imgSmall": "photo-manipulation/viewbook-cover-photo-manipulation-small.jpg",
+                "imgLarge": "photo-manipulation/viewbook-cover-photo-manipulation-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2024 viewbook cover",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "SJ Universe",
+                "date": "2022",
+                "description": "This image was created to be the cover of the 2022 Admissions Viewbook. I processed photos in Adobe Lightroom and created this compilation in Adobe Photoshop. It features photos from throughout the previous school year taken by myself and a number of other photographers. ",
+                "slug": "st-joes-photo-manipulation-sj-universe",
+                "imgSmall": "photo-manipulation/sj-universe-photo-manipulation-small.jpg",
+                "imgLarge": "photo-manipulation/sj-universe-photo-manipulation-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2022 photo sjuniverse",
+                "mediaType": "magazine",
+                "skills": "Photo Manipulation, Photo Processing",
+                "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            }
+        ]
+    },
+    {
         "header": "Photography",
         "content": [
             {
@@ -830,6 +562,274 @@
                 "mediaType": "magazine",
                 "skills": "DSLR Operation (Canon Rebel SL3), Photo Manipulation, Photo Processing, Event Photography",
                 "software": "Adobe Lightroom, Adobe Photoshop"
+                
+            }
+        ]
+    },
+    {
+        "header": "Vector & Logos",
+        "content": [
+            {
+                "title": "Bar Logo",
+                "date": "2023",
+                "description": "DDawg’s Sunnyside Tavern is a personal project I took on when I started renovating my basement, turning it into a bar/hangout space for myself and friends that came over. I created the logo to be printed on miscellaneous trinkets, including coasters and napkins. What bar is complete without a cool logo and custom items?  ",
+                "slug": "freelance-vector-bar",
+                "imgSmall": "vector/vector-bar-v2-small.jpg",
+                "imgLarge": "vector/vector-tavern-v2-large.jpg",
+                "externalLink": "",
+                "alt": "freelance 2023 vector bar",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robotics Sticker",
+                "date": "2024",
+                "description": "When attending combat robotics events with the Break Stuff Robotics team I am on, we like to hand out various stickers and giveaway materials. For this piece, I used the tools available in Adobe Illustrator to create this vector rendition of one of the robots, the 3lb Tokyo Drisk, and had it printed out. Other competitors and spectators visiting the events came by our table and picked one up.",
+                "slug": "freelance-vector-robot-sticker",
+                "imgSmall": "vector/vector-tokyo-small.jpg",
+                "imgLarge": "vector/vector-tokyo-large.png",
+                "externalLink": "",
+                "alt": "freelance 2024 vector robotics sticker",
+                "mediaType": "magazine",
+                "skills": "Vector Design, Illustration",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robotics Logo",
+                "date": "2023",
+                "description": "This logo was created for the Break Stuff Robotics team, with such hit combat robots as Shin Kicker, Tokyo Drisk, and Jersey Turnpike that compete in local tournaments in the Tri-State area. The logo was used on items such as custom stickers. ",
+                "slug": "freelance-vector-robotics",
+                "imgSmall": "vector/vector-robotics-small.png",
+                "imgLarge": "vector/vector-robotics-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector robotics",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Keyframe Heroes Logo",
+                "date": "2020",
+                "description": "Keyframe Heroes was the name of an old animation I made back in middle school. In college, I decided to apply some of my more current design skills to create a logo for it, with the hopes of one day using it on a comic book version of the story I originally envisioned. I wanted to capture the comic book essence by using thick black strokes and a paper texture.  ",
+                "slug": "freelance-logo-keyframe-heroes",
+                "imgSmall": "vector/vector-keyframe-small.jpg",
+                "imgLarge": "vector/vector-keyframe-large.png",
+                "externalLink": "",
+                "alt": "freelance 2020 logo keyframe heroes",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Sci-Fi Logo",
+                "date": "2023",
+                "description": "In 2023 I went on a kick of designing text-based logos for book ideas I had. Once I got the creative juices flowing, I designed this logo for a science fiction series I envisioned called Sands of Kings. It would follow a group of leaders who used fantastic superpowers to explore the galaxy, in a hybrid of science elements and the supernatural. Using elegant gold and purple colors to accompany the sand texture, it can be considered a literal interpretation of the name. ",
+                "slug": "freelance-vector-sands-of-kings",
+                "imgSmall": "vector/vector-sands-small.jpg",
+                "imgLarge": "vector/vector-sands-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector sands of kings",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            },
+            {
+                "title": "Diable Days Logo",
+                "date": "2023",
+                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
+                "slug": "freelance-vector-diable",
+                "imgSmall": "vector/vector-diable-small.png",
+                "imgLarge": "vector/vector-diable-large.png",
+                "externalLink": "",
+                "alt": "freelance 2023 vector diable days",
+                "mediaType": "magazine",
+                "skills": "Logo Design, Vector Design, Typography Design",
+                "software": "Adobe Illustrator"
+                
+            }
+
+        ]
+    },
+    {
+        "header": "Illustration",
+        "content": [
+            {
+                "title": "Fantasy Cover",
+                "date": "2024",
+                "description": "As I grew into adulthood, I wanted to rekindle my love of writing by creating a fantasy prose zine, entitled “Except If You Are Nodecrazed” which I wrote, designed, and had ordered from an online print vendor. It follows a lowly psychic “Nodecrazed” who explores the vast world within the mind of a godlike creature known as “The Node.” I drew the cover in Adobe Photoshop and have loved sharing it with my like-minded book lovers! ",
+                "slug": "illustration-fantasy-cover",
+                "imgSmall": "illustration/nodecrazed-small.jpg",
+                "imgLarge": "illustration/nodecrazed-large.jpg",
+                "externalLink": "",
+                "alt": "2024 illustration fantasy zine cover",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design, Print Production",
+                "software": "Adobe Photoshop, Adobe InDesign"
+                
+            },
+            {
+                "title": "God Emperor",
+                "date": "2024",
+                "description": "As an avid reader, one of my favorite novel series of all time is Frank Herbert’s Dune, particularly the fourth entry God Emperor of Dune. As I practiced my illustration skills more, I wanted to create my own rendition of the half-human, half-sandworm main character, Leto Atreides II. I spent a lot of time learning digital painting techniques in Adobe Photoshop to create this piece, and I am happy to have prepared it for print to hang up! One of my favorite parts about reading is seeing what I and my fellow book lovers come up with translating words into art.  ",
+                "slug": "illustration-god-emperor",
+                "imgSmall": "illustration/god-emperor-small.jpg",
+                "imgLarge": "illustration/god-emperor-large.jpg",
+                "externalLink": "",
+                "alt": "2024 illustration god emperor of dune",
+                "mediaType": "magazine",
+                "skills": "Illustration, Print Production",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "Luffy Fan Art",
+                "date": "2023",
+                "description": "Reading manga is one of my favorite activities, and many volumes have inspired me to pursue my own renditions of fan art. I drew this piece in Adobe Photoshop around the time when Monkey D. Luffy of One Piece unlocked a new form that took the manga community by storm. I also enjoyed adding a graphic design touch to it with the layering of typography in the background. ",
+                "slug": "illustration-one-piece",
+                "imgSmall": "illustration/luffy-small.jpg",
+                "imgLarge": "illustration/luffy-large.jpg",
+                "externalLink": "",
+                "alt": "2024 illustration one piece fan art",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop"
+                
+            },
+            {
+                "title": "The Bird Poster",
+                "date": "2023",
+                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, The Bird, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
+                "slug": "illustration-the-bird",
+                "imgSmall": "illustration/illustration-bird-small.png",
+                "imgLarge": "illustration/illustration-bird-large.png",
+                "externalLink": "",
+                "alt": "2023 illustration diable days the bird",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop, Adobe Illustrator"
+                
+            },
+            {
+                "title": "Robe-RT Poster",
+                "date": "2023",
+                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Robe-RT, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
+                "slug": "illustration-robe-rt",
+                "imgSmall": "illustration/illustration-robe-rt-small.png",
+                "imgLarge": "illustration/illustration-robe-rt-large.png",
+                "externalLink": "",
+                "alt": "2023 illustration diable days robe-rt",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop, Adobe Illustrator"
+                
+            },
+            {
+                "title": "Hooch Poster",
+                "date": "2023",
+                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Hooch, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
+                "slug": "illustration-hooch",
+                "imgSmall": "illustration/illustration-hooch-small.png",
+                "imgLarge": "illustration/illustration-hooch-large.png",
+                "externalLink": "",
+                "alt": "2023 illustration diable days hooch",
+                "mediaType": "magazine",
+                "skills": "Illustration, Graphic Design, Typography Design",
+                "software": "Adobe Photoshop, Adobe Illustrator"
+                
+            }
+        ]
+    },
+    {
+        "header": "Print Projects",
+        "content": [
+            {
+                "title": "Campus Store Ad",
+                "date": "2023",
+                "description": "This ad for the Saint Joseph High School Campus Store was originally created as a page in the Fall 2023 edition of the TODAY Magazine, but has been reused and sometimes reformatted to fit a variety of outputs. Additionally, I took the photos of the store and the beverage accessories. It was very fun to create a design that promoted a wide variety of products sold at the store! ",
+                "slug": "st-joes-print-store",
+                "imgSmall": "print/print-campus-store-small.png",
+                "imgLarge": "print/print-campus-store-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print campus store ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Magazine Editing, Magazine Layouts, DSLR Operation (Canon Rebel SL3), Photo Processing, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Lightroom, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Socks Campaign Postcard",
+                "date": "2023",
+                "description": "This postcard was created for a “rock the socks” campaign at Saint Joseph High School that was targeted towards a young alumni audience. The card was printed and mailed out, featuring renderings of two sock designs provided by our producer. Out of all the postcards I have designed for Saint Joe’s, this one has always stuck with me because of the creative typography I wanted to instill in the piece.  ",
+                "slug": "st-joes-print-socks",
+                "imgSmall": "print/print-socks-small.png",
+                "imgLarge": "print/print-socks-large-v2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print socks campaign",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Golf Classic Postcard",
+                "date": "2024",
+                "description": "This postcard was created and mailed to Saint Joseph High School’s constituents as a “Save the Date” for the 2024 Falcon Golf Classic. It features carefully crafted typography with the visual flare of a snapshot of a student golfer. It served as the first marketing piece for the event.  ",
+                "slug": "st-joes-print-golf-card",
+                "imgSmall": "print/print-golf-std-small-v2.png",
+                "imgLarge": "print/print-golf-std-large-v2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print golf postcard",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, Photo Manipulation",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "Golf Classic Flyer",
+                "date": "2023",
+                "description": "The Falcon Golf Classic is one of Saint Joseph High School’s biggest annual fundraisers, and this flyer was created as a “Save the Date” with more information than the pairing postcard. It was printed and distributed to local constituents at other in-person events that led up to the actual golf outing. Design-wise, it pairs with a “Save the Date” postcard that was printed and mailed to our constituent base of over 10,000 people.  ",
+                "slug": "st-joes-print-golf-flyer",
+                "imgSmall": "print/print-golf-flyer-small.png",
+                "imgLarge": "print/print-golf-flyer-large.png",
+                "externalLink": "",
+                "alt": "St. Joes 2023 print golf flyer",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Gala Magnet Mailer",
+                "date": "2024",
+                "description": "The first magnet I have ever designed, this piece served as a “Save the Date” mailer for Saint Joseph High School’s 2024 Green Tie Gala fundraiser. It features a beautiful snapshot of the Liberty House in Jersey City, provided by the venue, as well as the typographic stylings of the Saint Joe’s signature typeface family.  ",
+                "slug": "st-joes-print-gala-magnet",
+                "imgSmall": "print/print-gala-smallv4.png",
+                "imgLarge": "print/print-gala-large-v2.png",
+                "externalLink": "",
+                "alt": "St. Joes 2024 print gala magnet",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production",
+                "software": "Adobe InDesign"
+                
+            },
+            {
+                "title": "Open House Ad",
+                "date": "2024",
+                "description": "Throughout the academic year at Saint Joe’s, I often create ads designed for print in local magazines, newspapers, and community publications. In the Fall of 2024 I edited this ad for our upcoming open house, telling the story of the school using the year’s “Building Men of the Future” marketing campaign branding. I also took the photo used at the previous year’s graduation.",
+                "slug": "st-joes-open-house-ad",
+                "imgSmall": "print/print-open-house-small.jpg",
+                "imgLarge": "print/print-open-house-large.jpg",
+                "externalLink": "",
+                "alt": "St. Joes 2024 open house ad",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Photo Processing",
+                "software": "Canva, Adobe Lightroom"
                 
             }
         ]
