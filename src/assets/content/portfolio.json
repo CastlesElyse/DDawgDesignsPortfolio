@@ -18,6 +18,20 @@
             },
             {
                 "title": "TODAY Magazine",
+                "date": "Fall 2024",
+                "description": "Our bi-annual TODAY Magazine always presents new and interesting design challenges with each issue released. Since the Summer 2024 edition, my supervisor and I assessed our strategy with approaching the Fall issue, and implemented new ways of making sure it would be our best issue yet. This rendition came with an added time-crunch, which allowed me to experience designing under tighter deadlines, and I am very proud of how it turned out! ",
+                "slug": "TODAY-Fall-2024",
+                "imgSmall": "magazine/magazine-fall-2024-small.jpg",
+                "imgLarge": "magazine/magazine-fall-2024-large.jpg",
+                "externalLink": "https://issuu.com/saintjoesmet/docs/today_magazine_fall_2024_issu",
+                "alt": "St. Joes Fall 2024 TODAY cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Magazine Photography, Photo Processing",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
+            {
+                "title": "TODAY Magazine",
                 "date": "Summer 2024",
                 "description": "Magazine season at Saint Joseph High School…my favorite bi-annual time of year! After several months since our last publication, I spent a lot of time looking through the publications of other institutions to prepare and was itching to put new design techniques into practice. After much hard work, I am extremely proud of this issue and believe it marks how I have progressed as a magazine designer.",
                 "slug": "TODAY-Summer-2024",
@@ -70,20 +84,6 @@
                 "mediaType": "magazine",
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
                 "software": "Adobe InDesign, Adobe Photoshop"
-                
-            },
-            {
-                "title": "TODAY Magazine",
-                "date": "Fall 2022",
-                "description": "The Fall 2022 Edition of the TODAY Magazine was my second run through of the publication, and I had picked up many tricks of the trade since my first edition in the Summer of 2022. As our “Back to School Edition”, it features several articles that update students, alumni, and friends about what Saint Joseph High School had planned for the new year.",
-                "slug": "TODAY-fall-2022",
-                "imgSmall": "magazine/TODAY-fall-2022.png",
-                "imgLarge": "magazine/TODAY-fall-2022.png",
-                "externalLink": "https://issuu.com/saintjoesmet/docs/today_magazine_fall_2022_digital_copy_single_page",
-                "alt": "St. Joes Fall 2022 TODAY Magazine cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
-                "software": "Adobe InDesign"
                 
             }
         ]
