@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import Header from './components/header';
+import Header from './components/Header/header';
 import HomePage from './components/home';
 import AboutPage from './components/about';
-import PortfolioPage from './components/portfolio';
-import ContactPage from './components/contact';
-import ResumePage from './components/resume';
+import PortfolioPage from './components/PortfolioPage/portfolio';
+import ContactPage from './components/ContactPage/contact';
+import ResumePage from './components/ResumePage/resume';
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import portfolio from "./assets/content/portfolio.json";
-import ContentPage from './components/contentPage';
+import ContentPage from './components/ContentPage/contentPage';
 import PageNotFound from './components/404';
 import { HelmetProvider } from 'react-helmet-async';
 

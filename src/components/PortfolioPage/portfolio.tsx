@@ -1,5 +1,6 @@
-import portfolio from "../assets/content/portfolio.json";
-import SEO from "./seo";
+import portfolio from "../../assets/content/portfolio.json";
+import SEO from "../seo";
+import { PortfolioCard } from "./PortfolioCard";
 
 const PortfolioPage = (props: any) => {
     const width = props.width;
@@ -35,20 +36,7 @@ const PortfolioPage = (props: any) => {
                     <div className="portfolio-section">
                         {
                             section.content.map((piece: any, index: number) => (
-                                <div key={`${piece.title}-${index}`} className="portfolio-figure">
-                                    
-                                        <figure className="">
-                                            <a href={piece.slug}>
-                                                <img className="magazine-thumbnail" src={require(`../assets/images/${piece.imgSmall}`)} alt={piece.alt} />
-                                                <div className="magazine-text">
-                                                    <p className="db-text-align-center-bold">{piece.title}</p>
-                                                    <i><p className="db-text-align-center">-{piece.date}-</p></i>
-                                                </div>
-
-                                            </a>
-                                        </figure>
-                                        
-                                </div>
+                                <PortfolioCard portfolioPiece={piece} index={index}  />
                             ))
                         }
                         {getSpacers(section.content.length)}
