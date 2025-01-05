@@ -1,7 +1,7 @@
 import SEO from "./seo";
 import RepeatingImage from '../assets/images/page/DDawg-Background-02.png';
-import HeaderIcon from "./headerIcon";
-import HeaderMenu from "./headerMenu";
+import HeaderIcon from "./Header/headerIcon";
+import HeaderMenu from "./Header/headerMenu";
 
 const HomePage = () => {
 

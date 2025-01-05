@@ -1,101 +1,99 @@
 {
     "name": "Dylan Hollender",
     "pronouns": "(they/them)",
-    "leftBlock": [
-        {
-            "header": "",
-            "subBlocks": [
-                {
-                    "subHeader": "Contact Information",
-                    "text": [
-                        "Phone: (908) 255-0271",
-                        "Email: hollenderdylan@gmail.com"
-                    ]
-                },
-                {
-                    "subHeader": "Profiles",
-                    "text": [
-                        {
-                            "category": "Portfolio: ",
-                            "string": "DDawgDesigns",
-                            "url": "https://www.ddawgdesigns.com"
-                        },
-                        {
-                            "category": "LinkedIn ",
-                            "string": "Profile",
-                            "url": "https://www.linkedin.com/in/dylan-hollender-0a18b9150/"
-                        }
-                    ]
-                },
-                {
-                    "subHeader": "Education",
-                    "text": [
-                        "Bachelor of Science in Media Arts and Technology from the Rochester Institute of Technology in Rochester, NY.",
-                        "Graduation Date: May 2021",
-                        "Graduated as an Outstanding Undergraduate Scholar in the top 1% of the university."
-                    ]
-                },
-                {
-                    "subHeader": "Summary",
-                    "text": [
-                        "I am a multimedia artist fueled by a passion for the visual arts in all its beautiful forms. ",
-                        "I have hands on experience leading cross-media projects from inception to completion, including digital and print magazine publications, video series for communications and fundraising, social media management and more.",
-                        "Much of my background is finding the overlap between art and technology, applying knowledge of both fields to create unique and powerful viewing experiences. ",
-                        "I see every project I take on as a chance to learn more about media and fine tune my skills."
-                    ]
-                }
-            ]
-        }
-    ],
-    "rightBlock": [
-        {
-            "header": "Work Experience",
-            "subBlocks": [
-                {
-                    "subHeader": "Communications and Marketing Coordinator at Saint Joseph High School (February 2022-Present)",
-                    "text": [
-                        "Six months into my professional career at Saint Joseph High School, I began transitioning into the role of Communications and Marketing Coordinator in the Advancement Office. I lead all of the school’s design projects, including the TODAY Magazine, Annual Report, Admissions Viewbook, and Ad Journals for the Green Tie Gala and Golf Classic.",
-                        "I manage the school’s social media platforms and website, creating photo, video, and graphic content for all channels. Additionally, I teach the Advanced Journalism course for students interested in professional media. "
-                    ]
-                },
-                {
-                    "subHeader": "Media Relations Coordinator at Saint Joseph High School (August 2021-February 2022)",
-                    "text": [
-                        "I worked directly under the Director of Admissions, helping aid admissions campaigns using my broad set of skills in media and print production. This included creation of promotional materials and managing event registrations. Within six months, I was promoted and began transitioning to working as the lead designer in the Advancement Office. "
-                    ]
-                },
-                {
-                    "subHeader": "Digital Printing Assistant at HUB Print and Postal Services  (May 2019-March 2020)",
-                    "text": [
-                        "I interned full time at RIT’s print production shop. As jobs were ordered I wrote them up and operated digital, wide format, and offset printing presses by myself, learning about the stages of production and how print files and machines are prepped.  I continued working there part time during the course of my third year at RIT. "
-                    ]
-                }
-            ]
-        }
-    ],
-    "skillsBlock" : [
-        {
-            "header": "Skills",
-            "subBlocks": [
-                {
-                    "subHeader": "Software",
-                    "text": [
-                        "Adobe InDesign, Adobe Premiere Pro, Adobe Photoshop, Adobe Lightroom, Adobe Animate, Adobe AfterEffects, Adobe Illustrator, Adobe Media Encoder, Adobe Acrobat, Canva, Finalsite CMS, Microsoft Office, Google Suite, Figma."
-                    ]
-                },
-                {
-                    "subHeader": "Creative Skills",
-                    "text": [
-                        "Magazine Publishing, Graphic Design, Creative Writing, Video Editing, Film Production, Photography, Photo Manipulation, DSLR Operation, Script Writing, Copywriting, Motion Graphics, Basic Illustration, Audio Processing/Editing."
-                    ]
-                },
-                {
-                    "subHeader": "Other",
-                    "text": [
-                        "Print Production, Production Workflow, Communication, Organization, Social Media Management, Advertising, Public Relations, Project Management, and a Positive Attitude :)"
-                    ]
-                }
-            ]
-        }
-    ]
+    "leftBlock": {
+        "header": "",
+        "subBlocks": [
+            {
+                "subHeader": "Contact Information",
+                "styleClass": "resume-contact",
+                "text": [
+                    "Phone: (908) 255-0271",
+                    "Email: hollenderdylan@gmail.com"
+                ]
+            },
+            {
+                "subHeader": "Profiles",
+                "styleClass": "resume-url",
+                "text": [
+                    {
+                        "category": "Portfolio: ",
+                        "string": "DDawgDesigns",
+                        "url": "https://www.ddawgdesigns.com"
+                    },
+                    {
+                        "category": "LinkedIn: ",
+                        "string": "Profile",
+                        "url": "https://www.linkedin.com/in/dylan-hollender-0a18b9150/"
+                    }
+                ]
+            },
+            {
+                "subHeader": "Education",
+                "styleClass": "allow-newline",
+                "text": [
+                    "Bachelor of Science in Media Arts and Technology from the Rochester Institute of Technology in Rochester, NY.",
+                    "Graduation Date: May 2021",
+                    "Graduated as an Outstanding Undergraduate Scholar in the top 1% of the university."
+                ]
+            },
+            {
+                "subHeader": "Summary",
+                "styleClass": "allow-newline",
+                "text": [
+                    "I am a multimedia artist fueled by a passion for the visual arts in all its beautiful forms. ",
+                    "I have hands on experience leading cross-media projects from inception to completion, including digital and print magazine publications, video series for communications and fundraising, social media management and more.",
+                    "Much of my background is finding the overlap between art and technology, applying knowledge of both fields to create unique and powerful viewing experiences. ",
+                    "I see every project I take on as a chance to learn more about media and fine tune my skills."
+                ]
+            }
+        ]
+    },
+    "rightBlock": {
+        "header": "Work Experience",
+        "subBlocks": [
+            {
+                "subHeader": "Communications and Marketing Coordinator at Saint Joseph High School (February 2022-Present)",
+                "text": [
+                    "Six months into my professional career at Saint Joseph High School, I began transitioning into the role of Communications and Marketing Coordinator in the Advancement Office. I lead all of the school’s design projects, including the TODAY Magazine, Annual Report, Admissions Viewbook, and Ad Journals for the Green Tie Gala and Golf Classic.",
+                    "I manage the school’s social media platforms and website, creating photo, video, and graphic content for all channels. Additionally, I teach the Advanced Journalism course for students interested in professional media. "
+                ]
+            },
+            {
+                "subHeader": "Media Relations Coordinator at Saint Joseph High School (August 2021-February 2022)",
+                "text": [
+                    "I worked directly under the Director of Admissions, helping aid admissions campaigns using my broad set of skills in media and print production. This included creation of promotional materials and managing event registrations. Within six months, I was promoted and began transitioning to working as the lead designer in the Advancement Office. "
+                ]
+            },
+            {
+                "subHeader": "Digital Printing Assistant at HUB Print and Postal Services  (May 2019-March 2020)",
+                "text": [
+                    "I interned full time at RIT’s print production shop. As jobs were ordered I wrote them up and operated digital, wide format, and offset printing presses by myself, learning about the stages of production and how print files and machines are prepped.  I continued working there part time during the course of my third year at RIT. "
+                ]
+            }
+        ]
+    },
+    "skillsBlock": {
+        "header": "Skills",
+        "subBlocks": [
+            {
+                "subHeader": "Software",
+                "text": [
+                    "Adobe InDesign, Adobe Premiere Pro, Adobe Photoshop, Adobe Lightroom, Adobe Animate, Adobe AfterEffects, Adobe Illustrator, Adobe Media Encoder, Adobe Acrobat, Canva, Finalsite CMS, Microsoft Office, Google Suite, Figma."
+                ]
+            },
+            {
+                "subHeader": "Creative Skills",
+                "text": [
+                    "Magazine Publishing, Graphic Design, Creative Writing, Video Editing, Film Production, Photography, Photo Manipulation, DSLR Operation, Script Writing, Copywriting, Motion Graphics, Basic Illustration, Audio Processing/Editing."
+                ]
+            },
+            {
+                "subHeader": "Other",
+                "text": [
+                    "Print Production, Production Workflow, Communication, Organization, Social Media Management, Advertising, Public Relations, Project Management, and a Positive Attitude :)"
+                ]
+            }
+        ]
+    }
 }
