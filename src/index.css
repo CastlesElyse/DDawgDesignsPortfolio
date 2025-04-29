@@ -102,6 +102,32 @@ figure {
   color: white;
   top: 0;
   position: sticky;
+  z-index: 5;
+}
+
+.elevated-header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  max-width: calc(100vw - 40px);
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+
+.elevated-header .header-content {
+  height: 50px;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+  display: flex;
+  z-index: 15;
 }
 
 #header-icon {
@@ -158,6 +184,8 @@ figure {
   display: flex;
   align-items: center;
   display: none;
+  position: relative;
+  z-index: 20;
 }
 
 @media only screen and (max-width: 596px) {
@@ -165,6 +193,12 @@ figure {
   .header {
     padding-right: 0px;
     padding-left: calc(10px - 2.5px);
+  }
+
+  .elevated-header {
+    padding-left: calc(10px - 2.5px);
+    padding-right: 10px;
+    max-width: calc(100vw - 7.5px);
   }
   
   .header-hamburger {
@@ -174,12 +208,18 @@ figure {
 
   .nav-menu {
     position: absolute;
-    top: 50px;
+    top: 0;
+    right: 0;
+    padding-top: 50px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 0;
-    right: 0;
+    
   }
+  #home-inner-context {
+    z-index: 10;
+  }
+
   .nav-menu li {
     display: block;
     padding-right: 15px;
@@ -345,7 +385,7 @@ figure {
   max-height: 300px;
 }
 
-. {
+.magazine-text {
   background-color: #F7635E;
   padding: 10px 20px;
   margin-top: -10px;
@@ -379,7 +419,7 @@ figure {
 
 #resume-context {
   box-sizing: border-box;
-  max-width: calc(800px - 80px);
+  max-width: calc(1000px - 80px);
   width: 100%;
   margin: 0 auto;
   display: flex;
@@ -437,7 +477,21 @@ figure {
   margin-bottom: 25px;
 }
 
-#resume-left {
+.resume-contact {
+  margin: 0;
+}
+
+.resume-url {
+  margin: 0;
+}
+
+.resume-url a {
+  color: #C2140F;
+}
+
+#resume-left,
+#resume-right,
+#resume-skills {
   flex: 30%;
 }
 
@@ -593,6 +647,9 @@ img[class="icon"] {
 
 /*****************************HOME***********************************/
 
+.home-wrapper::-webkit-scrollbar {
+  display: none;
+}
 
 #home {
   display: flex;
@@ -606,12 +663,12 @@ img[class="icon"] {
 
 #home-img {
   display: flex;
+  z-index: 10;
 }
 
 #home img {
   width: 100%;
   margin-top: -30px;
-  z-index: 1;
 }
 
 #home-context {
@@ -621,10 +678,10 @@ img[class="icon"] {
   background-color: #F7635E;
 }
 
-#home-context h1 {
+/* #home-context h1 {
   text-align: center;
   margin-bottom: 0;
-}
+} */
 
 #home-inner-context {
   background-color: #F7635E;
@@ -644,6 +701,7 @@ img[class="icon"] {
   font-family: Rock Salt, sans-serif;
   text-align: center;
   margin-bottom: 0;
+  margin-top: 0;
   padding: 15px;
 }
 
@@ -729,11 +787,44 @@ animation: fadeIn 1s;
   flex-direction: column;
 }
 
-#magazine-img, #, #video-embed {
+#magazine-img, #magazine-text {
   max-width: 700px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
+}
+
+#responsive-video-wrapper {
+  position: relative;
+  margin: 0;
+}
+
+@media only screen and (min-width: 600px) {
+  #responsive-video-wrapper {
+    margin: 0 calc((100% - 600px) / 2);
+    max-width: 600px;
+  }
+}
+
+
+
+#video-embed {
+  max-width: 600px;
+}
+
+.video-wrapper {
+  position: relative;
+  /* 16:9 ratio */
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 #magazine-content {
@@ -759,7 +850,7 @@ animation: fadeIn 1s;
   text-align: center;
 }
 
-# {
+#magazine-text {
   padding: 20px;
 }
 
@@ -769,6 +860,7 @@ animation: fadeIn 1s;
   font-size: 1.2em;
   padding: 10px 20px;
   border-radius: 5px;
+  width: fit content;
   text-align: center;
 }
 
