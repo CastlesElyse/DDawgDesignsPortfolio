@@ -3,20 +3,6 @@
         "header": "Magazines & Books",
         "content": [
             {
-                "title": "Nodecrazed Book",
-                "date": "2024",
-                "description": "My fantasy prose zine, Except If You Are Nodecrazed, is by far my proudest work. Written under my pen name, I drafted a short story about a lowly psychic Nodecrazed who explores the world inside the mind of a godlike being called The Node. For this process, I wrote and revised the story in Google Docs, drew the cover artwork in Photoshop, created imprint logos in Illustrator, and assembled everything in InDesign. This project took some time but I could not be more excited to have it as a reality. I am actively working on more stories in this universe.",
-                "slug": "Book-Nodecrazed",
-                "imgSmall": "illustration/nodecrazed-small.jpg",
-                "imgLarge": "illustration/nodecrazed-large.jpg",
-                "externalLink": "https://issuu.com/magnaflashstudios/docs/except_if_you_are_nodecrazed",
-                "alt": "Fantasy Book Nodecrazed",
-                "mediaType": "magazine",
-                "skills": "Creative Writing, Graphic Design, Layout Design, Typography Design, Print Production, Logo Design, Illustration",
-                "software": "Adobe InDesign, Adobe Photoshop, Adobe Illustrator, Google Docs"
-                
-            },
-            {
                 "title": "TODAY Magazine",
                 "date": "Fall 2024",
                 "description": "Our bi-annual TODAY Magazine always presents new and interesting design challenges with each issue released. Since the Summer 2024 edition, my supervisor and I assessed our strategy with approaching the Fall issue, and implemented new ways of making sure it would be our best issue yet. This rendition came with an added time-crunch, which allowed me to experience designing under tighter deadlines, and I am very proud of how it turned out! ",
@@ -85,7 +71,21 @@
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
                 "software": "Adobe InDesign, Adobe Photoshop"
                 
+            },
+            {
+                "title": "Golf Journal",
+                "date": "Summer 2024",
+                "description": "Saint Joseph High School’s Annual Falcon Golf Classic is a major fundraising event, which includes this tribute journal in dedication to our honoree and community partner Withum. For most ads, I coordinated with page sponsors to create tribute ads on their behalf, designing this full booklet to include their ads and other relevant information for the event. It was distributed to all attendees.",
+                "slug": "falcon-golf-classic-journal",
+                "imgSmall": "magazine/magazine-golf-2024-small.jpg",
+                "imgLarge": "magazine/magazine-golf-2024-small.jpg",
+                "externalLink": "https://resources.finalsite.net/images/v1725063846/stjoesorg/rtcnhwy671cvdnyaq4jb/Golf_Classic_AdJournal_2024.pdf",
+                "alt": "St. Joes 2024 Golf Ad Journal Cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
+                "software": "Canva, Adobe InDesign"
             }
+
         ]
     },
     {
@@ -609,138 +609,6 @@
                 "mediaType": "magazine",
                 "skills": "Logo Design, Vector Design, Typography Design",
                 "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Keyframe Heroes Logo",
-                "date": "2020",
-                "description": "Keyframe Heroes was the name of an old animation I made back in middle school. In college, I decided to apply some of my more current design skills to create a logo for it, with the hopes of one day using it on a comic book version of the story I originally envisioned. I wanted to capture the comic book essence by using thick black strokes and a paper texture.  ",
-                "slug": "freelance-logo-keyframe-heroes",
-                "imgSmall": "vector/vector-keyframe-small.jpg",
-                "imgLarge": "vector/vector-keyframe-large.png",
-                "externalLink": "",
-                "alt": "freelance 2020 logo keyframe heroes",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "Sci-Fi Logo",
-                "date": "2023",
-                "description": "In 2023 I went on a kick of designing text-based logos for book ideas I had. Once I got the creative juices flowing, I designed this logo for a science fiction series I envisioned called Sands of Kings. It would follow a group of leaders who used fantastic superpowers to explore the galaxy, in a hybrid of science elements and the supernatural. Using elegant gold and purple colors to accompany the sand texture, it can be considered a literal interpretation of the name. ",
-                "slug": "freelance-vector-sands-of-kings",
-                "imgSmall": "vector/vector-sands-small.jpg",
-                "imgLarge": "vector/vector-sands-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector sands of kings",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            },
-            {
-                "title": "Diable Days Logo",
-                "date": "2023",
-                "description": "Diable Days was a creative project I originally created as a concept trailer for a film back during my time at RIT. The trailer was used for a class project, but in 2023 I revisited the idea to make more conceptual materials, including some character drawings and this logo. It was really fun to bring the ideas back and reimagine them with my improved skill set.  ",
-                "slug": "freelance-vector-diable",
-                "imgSmall": "vector/vector-diable-small.png",
-                "imgLarge": "vector/vector-diable-large.png",
-                "externalLink": "",
-                "alt": "freelance 2023 vector diable days",
-                "mediaType": "magazine",
-                "skills": "Logo Design, Vector Design, Typography Design",
-                "software": "Adobe Illustrator"
-                
-            }
-
-        ]
-    },
-    {
-        "header": "Illustration",
-        "content": [
-            {
-                "title": "Fantasy Cover",
-                "date": "2024",
-                "description": "As I grew into adulthood, I wanted to rekindle my love of writing by creating a fantasy prose zine, entitled “Except If You Are Nodecrazed” which I wrote, designed, and had ordered from an online print vendor. It follows a lowly psychic “Nodecrazed” who explores the vast world within the mind of a godlike creature known as “The Node.” I drew the cover in Adobe Photoshop and have loved sharing it with my like-minded book lovers! ",
-                "slug": "illustration-fantasy-cover",
-                "imgSmall": "illustration/nodecrazed-small.jpg",
-                "imgLarge": "illustration/nodecrazed-large.jpg",
-                "externalLink": "",
-                "alt": "2024 illustration fantasy zine cover",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design, Print Production",
-                "software": "Adobe Photoshop, Adobe InDesign"
-                
-            },
-            {
-                "title": "God Emperor",
-                "date": "2024",
-                "description": "As an avid reader, one of my favorite novel series of all time is Frank Herbert’s Dune, particularly the fourth entry God Emperor of Dune. As I practiced my illustration skills more, I wanted to create my own rendition of the half-human, half-sandworm main character, Leto Atreides II. I spent a lot of time learning digital painting techniques in Adobe Photoshop to create this piece, and I am happy to have prepared it for print to hang up! One of my favorite parts about reading is seeing what I and my fellow book lovers come up with translating words into art.  ",
-                "slug": "illustration-god-emperor",
-                "imgSmall": "illustration/god-emperor-small.jpg",
-                "imgLarge": "illustration/god-emperor-large.jpg",
-                "externalLink": "",
-                "alt": "2024 illustration god emperor of dune",
-                "mediaType": "magazine",
-                "skills": "Illustration, Print Production",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "Luffy Fan Art",
-                "date": "2023",
-                "description": "Reading manga is one of my favorite activities, and many volumes have inspired me to pursue my own renditions of fan art. I drew this piece in Adobe Photoshop around the time when Monkey D. Luffy of One Piece unlocked a new form that took the manga community by storm. I also enjoyed adding a graphic design touch to it with the layering of typography in the background. ",
-                "slug": "illustration-one-piece",
-                "imgSmall": "illustration/luffy-small.jpg",
-                "imgLarge": "illustration/luffy-large.jpg",
-                "externalLink": "",
-                "alt": "2024 illustration one piece fan art",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop"
-                
-            },
-            {
-                "title": "The Bird Poster",
-                "date": "2023",
-                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, The Bird, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
-                "slug": "illustration-the-bird",
-                "imgSmall": "illustration/illustration-bird-small.png",
-                "imgLarge": "illustration/illustration-bird-large.png",
-                "externalLink": "",
-                "alt": "2023 illustration diable days the bird",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop, Adobe Illustrator"
-                
-            },
-            {
-                "title": "Robe-RT Poster",
-                "date": "2023",
-                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Robe-RT, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
-                "slug": "illustration-robe-rt",
-                "imgSmall": "illustration/illustration-robe-rt-small.png",
-                "imgLarge": "illustration/illustration-robe-rt-large.png",
-                "externalLink": "",
-                "alt": "2023 illustration diable days robe-rt",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop, Adobe Illustrator"
-                
-            },
-            {
-                "title": "Hooch Poster",
-                "date": "2023",
-                "description": "This poster is based on one of my characters from the fake movie trailer I made for a class in college: Diable Days. The original trailer was made in 2021, but in 2023 I revisited the concept and illustrated one of the main characters, Hooch, in Photoshop. I created the logo and the background of the poster in Adobe Illustrator. This was a fun project to work on, as I got to learn more about illustration while translating a live action character into 2D. ",
-                "slug": "illustration-hooch",
-                "imgSmall": "illustration/illustration-hooch-small.png",
-                "imgLarge": "illustration/illustration-hooch-large.png",
-                "externalLink": "",
-                "alt": "2023 illustration diable days hooch",
-                "mediaType": "magazine",
-                "skills": "Illustration, Graphic Design, Typography Design",
-                "software": "Adobe Photoshop, Adobe Illustrator"
                 
             }
         ]
