@@ -131,6 +131,25 @@
                 
             },
             {
+                "title": "Open House Promo",
+                "date": "2025",
+                "description": "To promote Saint Joseph High School’s 2025 Open House, I created this video to help incoming students envision themselves as a student at this school. I combined video clips from the 2024 Open House with creative visuals and messaging to sell the future possibilities that a Saint Joseph education provides. ",
+                "slug": "st-joes-video-open-house-2025",
+                "imgSmall": "video/video-giving-open-house-small.jpg",
+                "imgLarge": "video/video-giving-open-house-small.jpg",
+                "externalLink": "",
+                "embed": {
+                    "id": "ydGQ_YAKGTI",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "St. Joes 2025 video open house",
+                "mediaType": "video",
+                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Sound Design, Color Correction, Motion Graphics, Marketing Videography",
+                "software": "Adobe Premiere Pro, Adobe After Effects"
+                
+            },
+            {
                 "title": "Giving Day Promo",
                 "date": "2024",
                 "description": "For Saint Joe’s Giving Day 2024, I was tasked with turning a script my supervisor wrote into a full fledged video production. I took this as a special challenge, where I tried out many new editing techniques and used new camera equipment to turn my vision into an MP4 file. Specifically, I included more motion graphics that I created in Adobe After Effects to add a new visual flair to this project. I filmed a majority of the clips myself, except for the athletics clips that were filmed by one of our videographers. The photo montage pictures were provided by our contracted photographer. ",
@@ -169,41 +188,22 @@
                 
             },
             {
-                "title": "Robotics Highlights",
+                "title": "Fund a Need",
                 "date": "2024",
-                "description": "This was a video I created for the Break Stuff Robotics team that I am on. From a regional event at The College of New Jersey, it features highlights and creatives from a 10+ match day of slugfesting from robots Shin Kicker and Tokyo Drisk. Shin Kicker ended up placing second in its weight class. ",
-                "slug": "video-robotics-highlights",
-                "imgSmall": "video/video-robotics-small.png",
-                "imgLarge": "video/video-robotics-small.png",
+                "description": "Every year at Saint Joseph High School’s fundraising gala, I create a video that promotes the story of the school and highlights the importance of giving back. For the 2024 gala, I interviewed students and utilized video clips from different facets of the community to illustrate a compelling story. It was well received and helped raise over $80,000 for the school.  ",
+                "slug": "st-joes-video-fund-a-need",
+                "imgSmall": "video/video-fund-a-need-small.jpg",
+                "imgLarge": "video/video-fund-a-need-small.jpg",
                 "externalLink": "",
                 "embed": {
-                    "id": "mh282aFYCx0",
+                    "id": "pTKqydQr_Uk",
                     "height": "315",
                     "width": "560"
                 },
-                "alt": "video 2024 robotics highlights",
+                "alt": "St. Joes 2024 video fund a need",
                 "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction/Grading",
-                "software": "Adobe Premiere Pro"
-                
-            },
-            {
-                "title": "RIT Testimonial",
-                "date": "2021",
-                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
-                "slug": "video-rit-testimonial",
-                "imgSmall": "video/video-testimonial-small.png",
-                "imgLarge": "video/video-testimonial-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "AAIUGi66Fz4",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2021 rit testimonial",
-                "mediaType": "video",
-                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
-                "software": "Adobe Premiere Pro"
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction, Asset Management, Typography Design, Marketing Videography, Interviewing",
+                "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
                 
             }
         ]
