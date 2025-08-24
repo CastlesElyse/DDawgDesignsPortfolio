@@ -1,7 +1,21 @@
 [
     {
-        "header": "Magazines & Books",
+        "header": "Magazines",
         "content": [
+            {
+                "title": "TODAY Magazine",
+                "date": "Summer 2025",
+                "description": "This magazine was a bittersweet experience. As my last edition for Saint Joseph High School, I needed to ensure that it would shine above the others. After putting my design skills to the test, it is the climax of everything I have learned over the past four years of working on this project. Covering a plethora of topics from the previous school year, it is certainly my best magazine work yet.",
+                "slug": "TODAY-Summer-2025",
+                "imgSmall": "magazine/magazine-today-summer-2025-small.jpg",
+                "imgLarge": "magazine/magazine-today-summer-2025-large.jpg",
+                "externalLink": "https://issuu.com/saintjoesmet/docs/today_magazine_summer_2025",
+                "alt": "St. Joes Summer 2025 TODAY cover",
+                "mediaType": "magazine",
+                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production, DSLR Operation (Canon Rebel SL3), Magazine Photography, Photo Processing",
+                "software": "Adobe InDesign, Adobe Photoshop"
+                
+            },
             {
                 "title": "TODAY Magazine",
                 "date": "Fall 2024",
@@ -71,19 +85,6 @@
                 "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Article Writing, Typography Design, Print Production",
                 "software": "Adobe InDesign, Adobe Photoshop"
                 
-            },
-            {
-                "title": "Golf Journal",
-                "date": "Summer 2024",
-                "description": "Saint Joseph High School’s Annual Falcon Golf Classic is a major fundraising event, which includes this tribute journal in dedication to our honoree and community partner Withum. For most ads, I coordinated with page sponsors to create tribute ads on their behalf, designing this full booklet to include their ads and other relevant information for the event. It was distributed to all attendees.",
-                "slug": "falcon-golf-classic-journal",
-                "imgSmall": "magazine/magazine-golf-2024-small.jpg",
-                "imgLarge": "magazine/magazine-golf-2024-small.jpg",
-                "externalLink": "https://resources.finalsite.net/images/v1725063846/stjoesorg/rtcnhwy671cvdnyaq4jb/Golf_Classic_AdJournal_2024.pdf",
-                "alt": "St. Joes 2024 Golf Ad Journal Cover",
-                "mediaType": "magazine",
-                "skills": "Graphic Design, Magazine Layouts, Magazine Editing, Copywriting, Typography Design, Print Production",
-                "software": "Canva, Adobe InDesign"
             }
 
         ]
