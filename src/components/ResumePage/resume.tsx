@@ -23,7 +23,7 @@ const ResumePage = () => {
                     <ResumeColumn colData={resume.skillsBlock.subBlocks} column="skills" header={resume.skillsBlock.header} />
                 </div>
             </div>
-            <a id="resume-button" href="https://drive.google.com/file/d/1dji2t8IuB3hk0nmOdx1F18euBOFxEe6a/view?usp=sharing">Download Resume</a>
+            <a id="resume-button" href="https://drive.google.com/file/d/1vHHIw9dXT-gen5RhDKWjTcdu9hBki0Cp/view?usp=sharing">Download Resume</a>
         </div>
     )
 }
