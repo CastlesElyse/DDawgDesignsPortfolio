@@ -10,6 +10,7 @@ const SEO = (props: any) => {
     return (
         <Helmet>
             <title>{seoData.title}</title>
+            <meta name="robots" content="noindex" />
             <meta name='description' content={seoData.description} />
             <meta name="keywords" content={seoData.keywords} />
         </Helmet>
