@@ -15,7 +15,7 @@ const HeaderMenu = () => {
             <ul className={`nav-menu ${menuOpen ? "open" : "closed"}`} >
                <li><a className="header-item" href="/about">About</a><span className="header-spacer">|</span></li>
                <li><a className="header-item" href="/portfolio">Portfolio</a><span className="header-spacer">|</span></li>
-               <li><a className="header-item" href="/resume">Resume</a><span className="header-spacer">|</span></li>
+               {/* <li><a className="header-item" href="/resume">Resume</a><span className="header-spacer">|</span></li> */}
                <li><a className="header-item" href="/contact">Contact</a></li>
             </ul>
         </>

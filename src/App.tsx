@@ -51,7 +51,7 @@ function App() {
           <Route caseSensitive path="/" element={<HomePage />} />
           <Route caseSensitive path="/about" element={<><Header /><AboutPage width={windowSize.width} /></>} />
           <Route caseSensitive path="/portfolio" element={<><Header /><PortfolioPage width={windowSize.width} /></>} />
-          <Route caseSensitive path="/resume" element={<><Header /><ResumePage /></>} />
+          {/* <Route caseSensitive path="/resume" element={<><Header /><ResumePage /></>} /> */}
           <Route caseSensitive path="/contact" element={<><Header /><ContactPage /></>} />
           {portfolio.map((section) => (
             section.content.map((piece) => (
