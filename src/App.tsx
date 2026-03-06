@@ -5,7 +5,7 @@ import HomePage from './components/home';
 import AboutPage from './components/about';
 import PortfolioPage from './components/PortfolioPage/portfolio';
 import ContactPage from './components/ContactPage/contact';
-import ResumePage from './components/ResumePage/resume';
+//import ResumePage from './components/ResumePage/resume';
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import portfolio from "./assets/content/portfolio.json";
 import ContentPage from './components/ContentPage/contentPage';
