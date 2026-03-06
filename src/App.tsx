@@ -5,7 +5,7 @@ import HomePage from './components/home';
 import AboutPage from './components/about';
 import PortfolioPage from './components/PortfolioPage/portfolio';
 import ContactPage from './components/ContactPage/contact';
-import ResumePage from './components/ResumePage/resume';
+//import ResumePage from './components/ResumePage/resume';
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import portfolio from "./assets/content/portfolio.json";
 import ContentPage from './components/ContentPage/contentPage';
@@ -51,7 +51,7 @@ function App() {
           <Route caseSensitive path="/" element={<HomePage />} />
           <Route caseSensitive path="/about" element={<><Header /><AboutPage width={windowSize.width} /></>} />
           <Route caseSensitive path="/portfolio" element={<><Header /><PortfolioPage width={windowSize.width} /></>} />
-          <Route caseSensitive path="/resume" element={<><Header /><ResumePage /></>} />
+          {/* <Route caseSensitive path="/resume" element={<><Header /><ResumePage /></>} /> */}
           <Route caseSensitive path="/contact" element={<><Header /><ContactPage /></>} />
           {portfolio.map((section) => (
             section.content.map((piece) => (
