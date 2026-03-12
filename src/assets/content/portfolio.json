@@ -316,25 +316,6 @@
         "header": "Motion Graphics",
         "content": [
             {
-                "title": "Demo Reel",
-                "date": "2024",
-                "description": "Editing, filming, designing, and exporting…you name it, I do it! My 2024 demo reel is the culmination of all my years as a videographer, edition, motion artist, and more. Trying to compile all of my best work into 60 seconds was no easy feat, but it showcases my talents with a camera in a way that no other video can. Looking back on everything I have done as I edited this together was definitely one of my proudest moments as a creatively driven individual.",
-                "slug": "motiongraphics-demo-reel-2024",
-                "imgSmall": "video/video-demo-reel-small.jpg",
-                "imgLarge": "video/video-demo-reel-small.jpg",
-                "externalLink": "",
-                "embed": {
-                    "id": "alTrRsMfJ4M",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2024 demo reel",
-                "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Production Management, Videography, Video Editing, Sound Design, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics",
-                "software": "Adobe After Effects, Adobe Photoshop"
-                
-            },
-            {
                 "title": "Sports Report Intro",
                 "date": "2024",
                 "description": "This was a project I took on based on a very vivid idea I had when working with our Winter Media Day photos. I cropped all the images out in Photoshop and used After Effects to create a 3D space with all the assets to simulate a studio space. This project was a ton of fun because of how much I learned about the After Effects animation process. I was even able to take photos around campus, such as the gym floor, to include in the 3D space. I plan on using this as an animated intro for a series on our social media. ",
@@ -370,44 +351,6 @@
                 "mediaType": "video",
                 "skills": "Motion Graphics, Asset Management, Typography Design, Sound Design",
                 "software": "Adobe After Effects, Adobe Photoshop"
-                
-            },
-            {
-                "title": "Student Government",
-                "date": "2021",
-                "description": "When I worked for RIT Student Government as a media artist, I created an intro animation using the SG logo. It was used at the beginning of SG videos on their website and social media. A colleague created the vector graphic and I used After Effects to animate it. ",
-                "slug": "motion-graphics-sg-intro",
-                "imgSmall": "motion-graphics/motion-graphics-sg-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-sg-large.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "jaWOFr3nc5g",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2021 rit sg intro",
-                "mediaType": "video",
-                "skills": "Asset Management, VFX, Graphic Design, Typography Design, Motion Graphics, Animation",
-                "software": "Adobe After Effects"
-                
-            },
-            {
-                "title": "Giving Day Outro",
-                "date": "2024",
-                "description": "For Saint Joe’s Giving Day 2024, I created this motion graphic to serve as the outro for the video components created to promote the day on our social media platforms. I animated it using After Effects and used Premiere Pro to add it to our videos. Additionally, I used photos I took throughout the school year.  ",
-                "slug": "motion-graphics-giving-day-outro",
-                "imgSmall": "motion-graphics/motion-graphics-giving-day-small.png",
-                "imgLarge": "motion-graphics/motion-graphics-giving-day-small.png",
-                "externalLink": "",
-                "embed": {
-                    "id": "TADR3L4Xync",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "motion graphics 2024 st. joes giving day outro",
-                "mediaType": "video",
-                "skills": "Asset Management, Graphic Design, Typography Design, Motion Graphics, Studio Photography",
-                "software": "Adobe After Effects"
                 
             },
             {
