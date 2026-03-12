@@ -93,25 +93,6 @@
         "header": "Video Production",
         "content": [
             {
-                "title": "Demo Reel",
-                "date": "2024",
-                "description": "Editing, filming, designing, and exporting…you name it, I do it! My 2024 demo reel is the culmination of all my years as a videographer, edition, motion artist, and more. Trying to compile all of my best work into 60 seconds was no easy feat, but it showcases my talents with a camera in a way that no other video can. Looking back on everything I have done as I edited this together was definitely one of my proudest moments as a creatively driven individual.",
-                "slug": "video-demo-reel-2024",
-                "imgSmall": "video/video-demo-reel-small.jpg",
-                "imgLarge": "video/video-demo-reel-small.jpg",
-                "externalLink": "",
-                "embed": {
-                    "id": "alTrRsMfJ4M",
-                    "height": "315",
-                    "width": "560"
-                },
-                "alt": "video 2024 demo reel",
-                "mediaType": "video",
-                "skills": "DSLR Operation (Canon Rebel SL3), Production Management, Videography, Video Editing, Sound Design, Color Correction/Grading, Asset Management, Typography Design, Motion Graphics",
-                "software": "Adobe After Effects, Adobe Photoshop"
-                
-            },
-            {
                 "title": "NHRL Recap",
                 "date": "2024",
                 "description": "For this video, I wanted to take my editing skills to the next level, putting more of my knowledge of color grading, motion graphics, transitions, and storytelling to the test. Recapping the Break Stuff Robotics team’s travels to Norwalk, Connecticut for the NHRL Competition in September, 2024, it showcases the robot Tokyo Drisk’s journey to a 4-2 record that day. It was used on the Break Stuff Robotics YouTube channel. ",
@@ -205,7 +186,27 @@
                 "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Color Correction, Asset Management, Typography Design, Marketing Videography, Interviewing",
                 "software": "Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop"
                 
+            },
+            {
+                "title": "RIT Testimonial",
+                "date": "2021",
+                "description": "When I was a freelance media artist at RIT, the Department of  Manufacturing and Mechanical Engineering Technology asked me to create a series of video testimonials explaining why students love the program. I coordinated all the shoots, worked with students on their scripts, and edited everything together.  ",
+                "slug": "video-rit-testimonial",
+                "imgSmall": "video/video-testimonial-small.png",
+                "imgLarge": "video/video-testimonial-large.png",
+                "externalLink": "",
+                "embed": {
+                    "id": "AAIUGi66Fz4",
+                    "height": "315",
+                    "width": "560"
+                },
+                "alt": "video 2021 rit testimonial",
+                "mediaType": "video",
+                "skills": "Production Management, DSLR Operation (Canon Rebel SL3), Videography, Video Editing, Script Writing, Sound Design, Color Correction/Grading",
+                "software": "Adobe Premiere Pro"
+                
             }
+
         ]
     },
     {
