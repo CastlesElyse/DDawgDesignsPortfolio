@@ -25,7 +25,7 @@ const HomePage = () => {
                 <div id="home-context">
                     <div id="home-inner-context">
                         <div id="home-content">
-                            <h1>DDawgDesigns by Dylan</h1>
+                            <h1>Designs by Dylan</h1>
                             <p>Multimedia artist with a passion for magazines, video production, and social media content.</p>
                             <a href="/portfolio">View Portfolio</a>
                         </div>
